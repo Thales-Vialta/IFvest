@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q60",
+    "edital": "FUVEST",
+    "numero": 60,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Desde as primeiras descobertas, os buracos negros \ndespertam enorme interesse da humanidade. Eles são \ncaracterizados por regiões suficientemente densas e \nmassivas em que o campo gravitacional é tão intenso que \nnada que esteja a distâncias inferiores a 𝑅Sc do buraco negro \nconsegue escapar de sua atração, nem a luz ou outras formas \nde radiação. Esse raio, também conhecido como raio de \nSchwarzschild, é expresso por 𝑅Sc =2 𝐺𝑀/𝑐ଶ, sendo 𝐺 a \nconstante de gravitação universal, 𝑀 a massa do buraco \nnegro e 𝑐 a velocidade da luz. \nConsidere, por simplicidade, um buraco negro de massa igual \nà massa solar 𝑀Sol = 2×1030 kg e de raio igual a 𝑅Sc. Nesse \ncaso, a razão entre a densidade volumétrica de um buraco \nnegro e a densidade volumétrica do Sol apresenta uma ordem \nde grandeza mais próxima de:",
+    "descricao": "Note e adote: \nSuponha uniformes as densidades volumétricas do Sol e do buraco \nnegro. \nConsidere que o buraco negro e o Sol sejam esféricos e tenham \ndistribuição de massa uniforme. \n𝐺 = 10−10 Nm2/kg2 ; 𝑅Sol= 109 m ; 𝑐 = 3×108 m/s. \n#####",
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Química",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "10\n−2",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "104",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "1010",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "1016",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "1022",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

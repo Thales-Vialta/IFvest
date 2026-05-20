@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q33",
+    "edital": "FUVEST",
+    "numero": 33,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Uma pesquisa realizada na Universidade de São Paulo \nsobre a sustentabilidade do setor têxtil destaca que “cerca de \n4 milhões de resíduos têxteis são descartados todos os anos \nnos domicílios brasileiros, e o Brasil não tem gestão de \nresíduos. No ano passado, cada domicílio do País descartou \ncerca de 44 quilos de roupas e calçados. A estimativa é que \no setor têxtil seja responsável por 2% a 8% das emissões de \ngases de efeito estufa em todo o mundo.” \n \nDisponível em https://jornal.usp.br/. Adaptado. \n \nOutro dado que corrobora com a pesquisa é o crescimento \nem 60% da produção de roupas nos últimos 15 anos, com \ncusto barateado em 36%, significando um aumento \nconsiderável do consumo deste setor, no mundo. Além disso, \na produção de algodão, apesar de ocupar 2,5% das áreas \ncultivadas no mundo, utiliza 25% dos inseticidas e 10% dos \nherbicidas. E, também, utiliza aproximadamente 11 bilhões de \nlitros de água, para a lavagem e tingimento dos tecidos. \nAssim, segundo a Organização Mundial de Saúde, a cadeia \nprodutiva da indústria têxtil é um setor econômico dos mais \npoluentes. \nGéopolitique: enjeux internationaux, 2022. Adaptado. \n \nCom base nos textos, qual alternativa explica o impacto \nambiental do consumismo no setor da indústria têxtil?",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Geografia",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "O crescimento da indústria têxtil brasileira tem sido \nacompanhado por avanços significativos na gestão \nambiental, como no tratamento de resíduos, uma vez que \no descarte médio de 44 quilos de roupas e \ncalçados por \nfamília favorece as iniciativas de gestão de resíduos e a \nredução das emissões de gases de efeito estufa.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Nos últimos anos, a indústria têxtil teve um aumento \nsignificativo na produção de roupas, que resultou na \ndiminuição no custo das peças em 36% e proporcionou o \naumento do consumo no setor de vestuário em todo o \nmundo, tornando essencial a discussão de políticas de \ngestão da cadeia produtiva e de resíduos.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "A produção de algodão ocupa a maior parte de área \ncultivável do mundo e cresceu 60% nos últimos anos. \nEspecialmente no Brasil, esse aumento vem gerando \nempregos no setor têxtil, tanto no campo quanto na \ncidade, impulsionando a capacidade de consumo da \npopulação.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Nas últimas décadas, o setor têxtil brasileiro enfrentou \ndesafios com a redução da produção de algodão, o que \nlimitou o crescimento da indústria e restringiu o acesso da \npopulação ao consumo de roupas e calçados. Mesmo \nassim, o consumo está estimado em 44 quilos por família \nao ano.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A produção do setor têxtil, tanto no Brasil quanto no \nmundo, vem reduzindo o impacto ambiental devido ao uso \nde bilhões de litros de água no cultivo do algodão, o que \ndilui os herbicidas e inseticidas, consequentemente \nreduzindo a poluição atmosférica, do solo e dos recursos \nhídricos.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

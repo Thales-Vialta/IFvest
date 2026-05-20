@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q17",
+    "edital": "FUVEST",
+    "numero": 17,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "“O Quim disse-me também que a s feridas do Cão Tinhoso \neram por causa da guerra e da bomba atômica [...] O Quim \ndisse-me isso de o Cão Tinhoso ser muito velho quando um \ndia o vimos a bocejar sem dentes na boca. Foi nesse dia que \nme contou a história da bomba atômica com os japoneses \npequeninos a morrer todos que era uma beleza e o Cão \nTinhoso a fugir depois de ela rebentar e a correr uma distância \nmonstra para não morrer.” \nLuís Bernardo Honwana. Nós matamos o Cão Tinhoso!. \nA radiação ionizante, resultante da explosão da bomba \natômica, é capaz de provocar feridas na pele iguais às do Cão \nTinhoso, que são consequências de",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa e Literatura",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "mutações no DNA das células epiteliais, o que pode alterar \nseu ciclo celular.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "alterações no DNA mitocondrial que levam à redução do \nmetabolismo celular.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "ativação dos processos de reparo do DNA e bloqueio da \ndiferenciação celular.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "aumento da divisão meiótica decorrente do processo de \ncrossing-over.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "processos de evolução desencadeados por mutações \naleatórias.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

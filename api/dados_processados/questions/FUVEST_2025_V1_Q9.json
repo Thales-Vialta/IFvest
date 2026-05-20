@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q9",
+    "edital": "FUVEST",
+    "numero": 9,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "“A mídia digital é uma mídia da presença. A sua \ntemporalidade é o presente imediato. A comunicação digital \nse caracteriza pelo fato de que informações são produzidas, \nenviadas e recebidas sem mediação por meio de \nintermediários. Mediação e re presentação são interpretadas \ncomo não transparência e ineficiência, como \ncongestionamento de tempo e de informação. \nUma mídia eletrônica de massa clássica como o rádio só \npermite uma comunicação unilateral. O destinatário da \nmensagem é condenado à passividade. \nHoje não somos mais destinatários e consumidores \npassivos de informação, mas sim remetentes e produtores \nativos. Não nos contentamos mais em consumir informações \npassivamente, mas sim queremos produzi-las e comunicá-las \nativamente nós mesmos. Somos simultaneamente \nconsumidores e produtores.” \nHAN, Byung-Chul. No enxame: Perspectivas do digital. São Paulo: Editora \nVozes, 2018. p.35-36 (Adaptado). \nSegundo o texto, a mídia digital distingue-se da mídia de \nmassa tradicional por",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa e Literatura",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "reforçar a separação entre consumidor e produtor, \nresultante da ampliação da comunicação unilateral na \ninternet.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "apostar na passividade do público, que precisa de um \nmediador para poder comunicar informações ativamente.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "gerar excesso de informação, que consolida estrutura \ncapaz de condenar todos os consumidores à passividade.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "provocar presentificação, decorrente da dissolução dos \nintermediários e da co mbinação dos papéis de \nconsumidor e produtor.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "dissolver a distinção entre produtor e consumidor, \ncausadora de congestionamento de tempo e de \ninformação.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

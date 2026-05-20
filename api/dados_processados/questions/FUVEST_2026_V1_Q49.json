@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q49",
+    "edital": "FUVEST",
+    "numero": 49,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "[...] as lendárias Rotas da Seda, longe de serem meras \nrotas comerciais, eram rodovias culturais que \ndesempenhavam um papel fundamental na ligação entre o \nleste e o oeste, reunindo intermitentemente nômades e \nmoradores da cidade, povos pastoris e agricultores, \nmercadores e monges, soldados e peregrinos. A noção de \nmovimento é, portanto, central para a compreensão das \nrelações entre os povos [...]. Um diálogo entre culturas \nsigniﬁca trocas não apenas de bens, mas também de ideias. \nVadime Elisséeff . “Introduction. Approaches Old and New to \nSilk Roads”. The Silk roads: highways of culture and commerce. New \nYo r k : Berghahn Books, 2000. Tr a d u z i d o e adaptado. \n \nCom base no excerto, que aborda o complexo de rotas \nterrestres que se estenderam, durante a Idade Média, por boa \nparte da Ásia, Leste da África e Sul da Europa, as trocas \nculturais e os deslocamentos tiveram impacto na",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Física",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "vulgarização de bens como tecidos, especiarias e \nporcelanas, que alteraram \nos hábitos de diferentes povos \nao longo do trajeto.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "divulgação do Direito Romano entre os povos orientais e a \nderrocada das práticas fundadas na tradição e na \noralidade.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "difusão do cristianismo no Oriente Médio e Extremo \nOriente, por meio da ação de soldados e peregrinos que \natuaram nas Cruzadas.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "apropriação de técnicas e saberes científicos formulados \npor europeus, como cartografia, astrolábio e papel.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "circulação de padrões arquitetônicos greco-romanos, que \nforjaram nova identidade visual para santuários, pagodes \ne templos orientais.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

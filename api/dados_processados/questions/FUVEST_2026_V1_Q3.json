@@ -1,0 +1,51 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q3",
+    "edital": "FUVEST",
+    "numero": 3,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Em uma eleição para um conselho composto por 5 membros, \nexistem 7 candidatos inscritos e um total de 35 eleitores. São \neleitos os 5 candidatos com mais votos, sendo o critério de \ndesempate a idade, isto é, se houver uma só vaga para dois \ncandidatos que empataram em número de votos, o candidato \nmais velho é eleito e o mais novo, não. Aleph, que é o mais \nnovo dentre todos os candidatos, está analisando quantos \nvotos precisa para garantir sua eleição. \nSabendo que cada eleitor tem direito a votar em somente um \ncandidato e que, geralmente, nessas eleições, um ou dois dos \neleitores não comparecem para votar, pode-se afirmar:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa e Literatura",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1",
+      "ANULADA"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "Se um ou dois eleitores não comparecerem, Aleph será \neleito se tiver pelo menos 5 votos.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Aleph não será eleito com 5 votos, mesmo que um ou dois \neleitores não compareçam.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Caso dois eleitores não compareçam, Aleph precisará \nreceber 5\n votos para se eleger. Mas, se apenas um eleitor \nnão comparecer, 5 votos não garantem sua eleição.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Na hipótese de dois eleitores não comparecerem, Aleph \nprecisa que um dos eleitos tenha recebido 6 ou mais votos \npara que ele consiga se eleger com apenas 4 votos.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Na hipótese de apenas um dos eleitores não comparecer, \nAleph precisa que dois dos eleitos tenham recebido 6 ou \nmais votos para que ele consiga se eleger com apenas 4 \nvotos.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

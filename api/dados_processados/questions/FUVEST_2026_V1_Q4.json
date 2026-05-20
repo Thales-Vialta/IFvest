@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q4",
+    "edital": "FUVEST",
+    "numero": 4,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "O conceito de entropia permeia diversas áreas do \nconhecimento e foi introduzido na Teoria da Informação por \nClaude Shannon, que desenvolveu uma forma de calcular a \nentropia 𝐸 de um sistema, a saber \n \n𝐸 = −෍𝑃 ௜ሺ𝑥ሻlogଶ𝑃௜(𝑥)\n௜\n \n \nem que 𝑃௜(𝑥) é a probabilidade do i-ésimo resultado para a \nvariável 𝑥. \nPor exemplo, considere uma sequência com duas letras A \ncoloridas, a primeira azul e a segunda vermelha (AA). Se \nessas duas letras fossem colocadas numa urna, a \nprobabilidade de se retirar, sem observar, a letra azul, como \nna sequência original, é \nଵ\nଶ. Devolve-se a letra à urna e sorteia-\nse novamente. A probabilidade de sair vermelha é novamente \nଵ\nଶ, e nesse caso tem-se: \n \n𝐸 = −෍𝑃 ௜(𝑥) logଶ𝑃௜(𝑥)\n௜\n= −൬1\n2 logଶ\n1\n2\n+ 𝟏\n𝟐 𝐥𝐨𝐠𝟐\n𝟏\n𝟐\n ൰=1 \n \nPara uma sequência com 4 letras A, as duas primeiras azuis e \nas duas últimas vermelhas (AAAA), colocando-as numa urna \ne sorteando uma, a probabilidade de sair azul é \nଵ\nଶ. Devolve-se \na letra e sorteia-se novamente. A probabilidade da segunda \nletra sorteada ser azul, como na sequência original, é \nnovamente \nଵ\nଶ. Procedendo dessa forma para as duas letras \nvermelhas, tem-se: \n \n𝐸 = −෍𝑃 ௜(𝑥) logଶ𝑃௜(𝑥)\n௜\n \n= −൬1\n2 logଶ\n1\n2\n+ 1\n2 logଶ\n1\n2\n+ 𝟏\n𝟐 𝐥𝐨𝐠𝟐\n𝟏\n𝟐\n + 𝟏\n𝟐 𝐥𝐨𝐠𝟐\n𝟏\n𝟐\n ൰=2 \n \nCom base nessas informações, qual o valor da entropia 𝐸 , no \ncaso de uma sequência com 4 letras A, sendo as 3 primeiras \nazuis e a última vermelha (AAAA)?",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa e Literatura",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "5 −\nଽ\nସlogଶ3",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "ଵ\nଶ−\nହ\nଶ\nlogଶ3",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "ଷ\nଶ",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "ଽ\nସlogଶ3",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "3",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

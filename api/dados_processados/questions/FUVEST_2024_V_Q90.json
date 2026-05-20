@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q90",
+    "edital": "FUVEST",
+    "numero": 90,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "Texto I \n“W. I. Thomas, decano dos sociólogos norte-americanos, formula \num teorema básico para as ciências sociais: ‘Se os indivíduos \ndefinem as situações como reais, elas são reais em suas \nconsequências’. (...) A primeira parte do teorema constitui uma \nincessante lembrança de que os homens reagem não somente \naos traços objetivos de uma situação, como também, e às vezes \nprincipalmente, ao sentido que a situação tem para eles. E, assim \nque atribuíram algum sentido à situação, sua conduta \nconsequente, e algumas das consequências dessa conduta, são \ndeterminadas pelo sentido atribuído. (...) A profecia que se \nc u m p r e p o r s i m e s m a é , i n icialmente, uma definição falsa d a \nsituação que provoca uma nova conduta, a qual, por sua vez, \nconverte em verdadeiro o conceito originalmente falso.” \nMERTON, Robert. Sociologia: Teoria e Estrutura. São Paulo: Editora Mestre \nJou, 1970. p.515-517. \nTexto II \n“Depois de alguns anos inseridos nesta lógica de abuso e \nprivações de distintos tipos, o detento é novamente colocado em \nliberdade. (...) Conseguir um t rabalho não é tão fácil como \np a r e c e , j á q u e m e s m o a s a t i v i d a d e s m e n o s q u a l i f i c a d a s e \nmanuais (como as relacionadas a limpeza, serviços gerais, \nconstrução civil, dentre outras) demandam ‘atestado de bons \nantecedentes e a marca da passagem pela cadeia pode significar \num indesejável pertencimento ao mundo do crime’ (Ramalho, \n2018, p. 91). (...) O fator [condicionante da reincidência] mais \ncitado, presente em 44% dos textos [sobre o tema], foi a baixa \nqualificação e as poucas oportunidades, sendo essa a explicação \npadrão de boa parte da literatura para a reincidência.” \nRIBEIRO, Ludmila; OLIVEIRA, Valéria. Reincidência e reentrada na prisão no \nBrasil: o que os estudos dizem sobre os fatores que contribuem para essa \ntrajetória. Artigo Estratégico 56. São Paulo: Instituto Igarapé, 2022. p.10-14. \nAplicando a noção proposta por Robert Merton, no texto I, ao \ncenário descrito no texto II, qual definição da situação das \npessoas egressas do sistema prisional pelos possíveis \nempregadores no mercado de trabalho tornaria a reincidência \ncriminal uma “profecia que se cumpre por si mesma”?",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Matemática",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "Pessoas egressas do sistema prisional têm dificuldade de \nconseguir emprego no mercado de trabalho porque são \nestigmatizadas.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Pessoas egressas do sistema prisional têm a mesma \nchance de conseguir empregos que o restante da \npopulação, razão pela qual não devem ser privilegiadas \npelos empregadores.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Pessoas egressas do sistema prisional já foram condenadas \ne cumpriram pena pelo crime cometido e merecem a \noportunidade de trabalhar para recomeçarem a vida.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Pessoas egressas do sistema prisional voltarão a cometer \ncrimes e, por isso, não deve m ser contratadas para \ntrabalhar.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "Pessoas egressas do sistema prisional conseguem \nsomente trabalhos informais e de baixa remuneração por \nterem pouca qualificação e dif iculdades para conseguir \nseus documentos.\nRASCUNHO \n \n \nNÃO SERÁ \nCONSIDERADO NA \nCORREÇÃO",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

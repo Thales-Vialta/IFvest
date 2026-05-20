@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q89",
+    "edital": "FUVEST",
+    "numero": 89,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "“Aconteceu num debate, num país europeu. Da \nassistência alguém me lançou a seguinte pergunta: \n- Para si, o que é ser africano? \nFalava-se, inevitavelmente, de identidade versus \nglobalização. Respondi com uma pergunta: \n- E para si, o que é ser europeu? \nO homem gaguejou. Não sabia responder. Mas o \ninteressante é que, para ele, a questão da identidade se \ncolocava naturalmente para os africanos. Não para os \neuropeus. Ele nunca tinha colocado a questão no espelho. \nRecordo o episódio porque me parece que ele toca uma \nquestão central: quando se fala de África, de qual África \nestamos falando? Terá o contin ente africano uma essência \nfacilmente capturável? Haverá uma substância exótica que os \ncaçadores de identidades possam recolher como sendo a \nalma africana?” \nCOUTO, Mia. “Um retrato sem moldura”. In: HERNANDEZ, Leila Leite. A \nÁfrica na sala de aula: visita à história contemporânea. São Paulo: Selo \nNegro, 2008. p.11. \nAo relatar e comentar o episódio, o escritor moçambicano Mia \nCouto apresenta a África como",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Matemática",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "uma construção histórica proporcionada pela ação \nhumanitária dos colonizadores europeus.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "um resultado natural da luta dos povos do continente \ncontra a dominação estrangeira.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "uma região historicamente afetada por graves problemas \ndemográficos e sanitários.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "um continente definido a partir de critérios políticos e \ngeográficos deterministas.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "um mosaico composto por relações econômicas, políticas \ne culturais instáveis.",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

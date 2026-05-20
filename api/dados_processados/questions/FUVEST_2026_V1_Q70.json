@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q70",
+    "edital": "FUVEST",
+    "numero": 70,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Nós sentimos o sabor dos alimentos com o cérebro! \nEsta afirmação à primeira vista nos parece estranha. No \nentanto, assim como ocorre em todos os sentidos do sistema \nsensorial, no caso do paladar, a percepção consciente do \nsabor só acontece quando sinais específicos chegam ao \ncérebro. Assinale a alternativa que apresenta corretamente a \ninformação descrita neste processo.",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Biologia",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "Os componentes químicos dos alimentos interagem com \nproteínas receptoras nas células gustativas, e um potencial \nde ação é transmitido ao cérebro.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "Os componentes químicos dos alimentos são convertidos \nem uma corrente elétrica que estimula o músculo da \nlíngua.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "No processo de \ntransdução sensorial do paladar, os \ncomponentes químicos dos alimentos são convertidos em \num impulso hormonal que ativa as glândulas salivares.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Os componentes químicos dos alimentos ativam, \ndiretamente, os neurônios responsáveis por transmitir os \nsinais gustativos ao cérebro.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A primeira etapa da transdução de sinal no paladar ocorre \nquando os receptores gustativos são ativados por \nhormônios digestivos.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

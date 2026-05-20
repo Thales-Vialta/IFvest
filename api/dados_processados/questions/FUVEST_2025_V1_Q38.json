@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q38",
+    "edital": "FUVEST",
+    "numero": 38,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Assinale a alternativa que ap resenta uma correspondência \ncorreta entre os versos destacados e os recursos utilizados \npara evidenciar a dor expressa no poema.",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Geografia",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "“Eram faíscas suas palavras que me queimavam em/ doses \nhomeopáticas/ durante todas as noites…” ꟷ conotação: o \npredicativo “faíscas” e a forma verbal “queimavam” estão \nsendo usados em sentido figurado, enfatizando seu \nsofrimento.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "“Até que um dia, me empurrou, me acuou/como se eu \npudesse caber em qualquer fresta, /encurralada” \nꟷ antítese: os elementos “empurrou”, “acuou” e \n“encurralada” potencializam de forma contraditória seu \nsofrimento.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "“acreditando que o amor era isso, esse abismo, onde só/ \num fala e o outro, fica omisso” ꟷ metonímia: o uso do \naposto “esse abismo”, referindo-se a “amor”, expressa \nliteralmente seu sofrimento.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "“Precisei tirar forças de lugares sagrados/ pra me afastar e \nreagir, recolher meus pedaços” ꟷ pleonasmo: o \ncomplemento “meus pedaços” reforça o significado do \nverbo “recolher”, acentuando seu sofrimento.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "“Meus olhos encheram de mar, eu desaguei, /decidi não \nmais me calar, denunciei!” ꟷ paronímia: os verbos \n“encher” e “desaguar” são elementos de significação \npróxima que dão ênfase a seu sofrimento.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q28",
+    "edital": "FUVEST",
+    "numero": 28,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "A temperatura ideal para uso de um forno a lenha para \npreparo de pizzas pode ser inferida pela observação da \ncoloração das paredes internas do forno. Abaixo da \ntemperatura ideal, um material particulado preto proveniente \nda queima da lenha pode ser visto recobrindo as paredes \ninternas. Quando a temperatura ideal é atingida, esse \nmaterial particulado não é mais observado e a superfície mais \nclara do interior do forno pode ser vista, como apresentado \nnas fotos. \n \nForno abaixo da temperatura ideal.\n \nForno na temperatura ideal. \nA coloração da superfície interior do forno permite inferir a \ntemperatura ideal, pois",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "História",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "a fuligem advinda do processo de combustão incompleta \nd a l e n h a d e p o s i t a - s e n a s p a r e d e s e , c o m o a u m e n t o d a \ntemperatura, reage com o oxigênio do ar e produz gás \nc a r b ô n i c o , p e r m i t i n d o v e r a c o r m a i s c l a r a d a p a r e d e \ninterna do forno.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "a coloração preta é originada pela fuligem da combustão \ncompleta da lenha, o que causa o aumento da \ntemperatura até que a parede do forno se torne \nincandescente, revelando sua cor mais clara.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "a coloração preta é observada por conta da baixa \nquantidade de luz gerada pelas chamas da lenha em \ncombustão a baixas temperaturas e essa quantidade de \nluz aumenta à medida que a temperatura se torna \nelevada.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "o material particulado se funde, escorrendo pelas paredes \ndo forno quando a temperatura ideal é atingida, revelando \na coloração mais clara do interior do forno.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "a alta quantidade de gás carbônico produzida em baixas \ntemperaturas forma uma névoa que não permite a \npassagem de luz, o que torna o interior escuro.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

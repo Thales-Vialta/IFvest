@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q19",
+    "edital": "FUVEST",
+    "numero": 19,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "Olestra é uma gordura artificial com sabor parecido ao do óleo \nvegetal. Essa substância não é metabolizada pelo organismo \nhumano e, portanto, pode ser usada em dietas de \nemagrecimento. Seu uso, no entanto, é controverso. Por ser \numa molécula semelhante à gordura, ela interage com \nvitaminas lipossolúveis, transportando-as para fora do \norganismo, o que pode levar à deficiência destas. Dentre as \nvitaminas apresentadas, assinale qual delas teria a sua \na b s o r ç ã o m e n o s p r e j u d i c a d a c o m a i n g e s t ã o e x a g e r a d a d e \nalimentos à base de olestra.",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "História",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

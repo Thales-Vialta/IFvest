@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "PISM_2025_D1-P1_Q4",
+    "edital": "PISM",
+    "numero": 4,
+    "tipo_ou_cor": "D1-P1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Marcuschi, autor do texto VI, defende uma hipótese\nsobre a linguagem. Sabendo disso, pode-se afirmar\nque os textos III, IV, V - escritos por empregadas\ndomésticas na página de rede social “Eu, empre-\ngada”:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa",
+    "tags": [
+      "PISM",
+      "2025",
+      "D1-P1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "justificam a tese do autor de que oralidade e es-\ncrita situam-se em sistemas lingú ısticos diversos,\njá que não se percebem aspectos da fala nos tex-\ntos escritos pelas empregadas em rede social.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "exemplificam o posicionamento central do autor\nde que aspectos da linguagem oral e escrita se\nmesclam a depender do gênero textual e da si-\ntuação comunicativa, pois há caracter´ ısticas de\noralidade nos textos citados.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "destoam da explicação do autor sobre um mesmo\nsistema da l´ ıngua oral e escrita, visto que os tex-\ntos das empregadas apresentam variações de lin-\nguagem não permitidas em relatos escritos em\nrede social.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "contrariam a justificativa do autor de que a\nl´ ınguá e um fenômeno histórico e social, visto\nque não há indicações de variações sociais nos\ntextos citados, os quais estão conforme a norma\npadrão.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "confirmam a teoria do autor de que fala e es-\ncrita constituem dois polos distintos da l´ ıngua,\npois os relatos das empregadas demonstram ca-\nracter´ ısticas da linguagem próprias a textos es-\ncritos formais.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

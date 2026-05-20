@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q77",
+    "edital": "FUVEST",
+    "numero": 77,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "“Desde os anos 20 governado pela dinastia Pahlevi, o Irã vinha \nsendo modernizado e ocidentalizado pelas sucessivas \ngerações de xás, que viam na observância estrita da religião \num atraso a ser superado. País de numerosa população xiita, \nno entanto, o regime modernizante sempre precisou contar \ncom uma grande dose de repressão, para conter a oposição \ndos grupos religiosos, que se fazia cada vez mais popular. Na \ndécada de 1970, este movimento conheceu um líder, que, \nrefugiado na França, preparava-se para voltar ao país: era o \naiatolá Khomeini, que apelava aos muçulmanos para que \nrestaurassem a autoridade do islã na sociedade.” \nGRINBERG, Keila. O mundo árabe e as guerras árabe-israelenses. In: REIS \nFILHO, Daniel Aarão; FERREIRA, Jorge; ZENHA, Celeste (orgs.). O século XX: o \ntempo das dúvidas. Rio de Janeiro: Civilização Brasileira, 2002. p.116. \nO texto descreve o contexto histórico que antecedeu",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Biologia",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "uma intervenção norte-americana em território iraniano.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "a integração do Irã aos países do bloco socialista soviético.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "a laicização integral do Estado iraniano.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "o estabelecimento de uma república teocrática no Irã.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "uma cooperação militar entre Irã e Iraque contra o \nOcidente.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

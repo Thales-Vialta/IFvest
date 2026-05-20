@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q62",
+    "edital": "FUVEST",
+    "numero": 62,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Essa reação de geração de oxigênio",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Química",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "é endotérmica, pois se inicia somente em altas \ntemperaturas.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "é uma reação de oxirredução na qual o cloro é oxidado e \no oxigênio é reduzido.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "deve possuir uma baixa energia de ativação para ser \nativada nas baixas temperaturas das altitudes elevadas.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "deve ser exotérmica o suficiente para manter a \ntemperatura alta após iniciada.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "é uma reação de oxirredução na qual o sódio é reduzido e \no oxigênio é oxidado.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

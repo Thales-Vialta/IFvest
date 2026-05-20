@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "PISM_2025_D1-P1_Q8",
+    "edital": "PISM",
+    "numero": 8,
+    "tipo_ou_cor": "D1-P1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Leia o excerto a seguir:\nRiscos ambientais da PEC das Praias\nEssa faixa costeirá e fundamental na contenção da\nerosão\nA Proposta de Emenda Constitucional 3/2022, a\nPEC das Praias, tem sido debatida nos últimos dias,\nespecialmente sob á otica econômica e social. Gos-\ntar´ ıamos de incluir aqui alguns argumentos ambien-\ntais a partir de nossa pesquisa em biologia marinha.\nO objetivo principal dessa PEC é a concessão pri-\nvada de terrenos de marinha. Há um entendimento\nde que essa faixa se localize acima de 33 metros da\nlinha d’água, o que exclui as praias. Há outro enten-\ndimento que cita que essas áreas vão até onde se faça\nsentir a influência da maré. Só nessa duplicidade de\ninterpretações já há margem para conflitos.\nEssa faixa costeirá e fundamental na contenção da\nerosão litorânea e das mudanças climáticas. Elas são\npartes do patrimônio nacional, devendo ser geridas\npelo interesse público. Por mais que não privatize\npraias, a PEC 3/2022 resultará em degradação ambi-\nental, expulsão de pescadores artesanais, dificuldade\nde acesso à praia e especulação imobiliária.\nhttps://www.correiobraziliense.com.br/opiniao/2024/06/6878577-\nriscos-ambientais-da-pec-das-praias.html Acesso em: 16 de jun. de\n2024.\nPágina 5 de 13\nSobre a vegetação litorânea ameaçada pela priva-\ntização de áreas à beira-mar, assinale a alternativa\nCORRETA.",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Geografia",
+    "tags": [
+      "PISM",
+      "2025",
+      "D1-P1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "Em sua localização original, a Mata Atlântica\nestendia-se desde o litoral nordestino ao litoral\nda região Sul.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "As restingas são espécies constitú ıdas por ve-\ngetações densas, de porte exuberante, com pre-\ndominância de arbustos.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Os mangues se formam nas áreas de estuários,\nbá ıas ou reentrâncias onde há uma transição en-\ntre a terra firme e o mar.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "No Nordeste, a caatinga se destaca pela\nocorrência de árvores baixas, com troncos tor-\ntuosos, presença de espinhos e rá ızes longas.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Os campos limpos são caracterizados por\nextensões de terras recobertas por plantas\nherbáceas, principalmente gram´ ıneas, e sem ma-\ntas.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

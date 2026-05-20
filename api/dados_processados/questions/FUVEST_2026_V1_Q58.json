@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q58",
+    "edital": "FUVEST",
+    "numero": 58,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Com base no texto, a principal expectativa em relação ao \ntelescópio James Webb estava associada a",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Física",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "esclarecer as divergências nas medições da constante de \nHubble por meio de observações mais precisas.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "substituir os métodos tradicionais por novas equações que \ndescrevem a expansão do universo.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "comprovar a superioridade das estimativas obtidas pela \nequipe de Freedman.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "medir a distância entre galáxias utilizando parâmetros \ninéditos.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "determinar se o universo tem como característica crescer \nde modo infinito.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

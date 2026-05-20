@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q13",
+    "edital": "FUVEST",
+    "numero": 13,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Na obra Caminho de pedras, de 1937, a autora Rachel de \nQueiroz aborda os desafios da personagem Noemi em busca \nde sua liberdade política, social e sexual, em uma sociedade \nconservadora. O papel da mulher na sociedade e sua \ninserção no mercado de trabalho são temas atuais. Em março \nde 2025, o governo federal lançou um boletim que tem como \nobjetivo analisar a inserção das mulheres no mercado de \ntrabalho brasileiro. Um dos gráficos apresentados pelo \nboletim trata da taxa de participação na força de trabalho no \nBrasil, no 3º trimestre de cada ano, no período de 2012 a 2024. \n \n \nPesquisa Nacional por Amostra de Domicílio (PNAD) Contínua. Instituto \nde Brasileiro de Geografia e Estatística (IBGE). \n \nEm relação ao gráfico apresentado, é correto afirmar:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa e Literatura",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "A queda na taxa de participação de homens na força de \ntrabalho foi maior do que a de mulheres no terceiro \ntrimestre do ano em que a pandemia de Covid se iniciou.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A taxa de participação de mulheres na força \nde trabalho é \ncrescente durante todo o período entre o terceiro trimestre \ndo ano de início da pandemia de Covid e o terceiro \ntrimestre de 2024.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A taxa de participação de mulheres na força de trabalho \nteve seu maior crescimento anual do terceiro trimestre de \n2020 para o terceiro trimestre de 2021.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "A diferença entre a taxa de participação de homens e \nmulheres na força de trabalho foi de 11,7 no terceiro \ntrimestre de 2012.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A taxa de participação de mulheres na força de trabalho \natingiu seu maior valor após o terceiro trimestre de 2020.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

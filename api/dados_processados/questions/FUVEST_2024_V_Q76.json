@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q76",
+    "edital": "FUVEST",
+    "numero": 76,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "“O plano dos Estados Unidos de derrubarem a Revolução já \nestava esboçado na ocasião em q u e M i k o y a n [ v i c e - l í d e r n o \ngoverno soviético de Nikita Kruschev] visitou Havana, em \nf e v e r e i r o d e 1 9 6 0 ( . . . ) . A C I A p r o p u n h a a s a b o t a g e m d a s \nrefinarias de açúcar de Cuba, a principal fonte de riqueza da \nilha. (...) \nComo prometido, Fidel Castro reagiu contra os Estados \nUnidos (...). Ele anunciou a nacionalização de todas as \npropriedades norte-americanas importantes da ilha. (...) \nNuma frase sinistra (...), Castro salientou que a Cuba \nrevolucionária tinha agora o apoio militar de fora do \ncontinente. Cuba ‘aceitaria com gratidão’, disse ele, ‘a ajuda \ndos foguetes da União Soviética (...)’. \nNaquele mês, a lenha fora jogada na fogueira, quando Castro \nchegou a Nova York para falar na Assembleia Geral da ONU, \ninstalando-se no Harlem. (...) \nCastro ficou no [hotel] Theresa, cercado por um grupo de \nadmiradores (...) e numa tarde memorável foi visitado pelo \nlíder soviético. (...) Kruschev escreveu nas suas memórias que \n‘indo a um hotel negro num bairro negro, nós estávamos \nfazendo uma dupla demonstração contra as políticas \ndiscriminatórias dos Estados U nidos em relação aos negros, \nassim como em relação a Cuba’”. \nGOTT, Richard. Cuba: uma nova história. Rio de Janeiro: Zahar, 2006. p.210-213. \nAdaptado. \nAs tensões políticas abordadas no texto referem-se",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Biologia",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "à indecisão de Fidel Castro sobre o alinhamento político de \nCuba na Guerra Fria e ao isolamento da ilha em relação a \noutros debates políticos da época.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "às garantias do governo revolucionário em Cuba aos \ncapitais norte-americanos e à salvaguarda dos direitos \ncivis da população negra na ilha.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "à aliança entre Cuba e URSS selada na origem da guerrilha \nem Sierra Maestra e à consequente oposição dos EUA ao \nmovimento insurgente.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "ao gradual alinhamento entre Cuba e a URSS e ao aceno \ndos dois governantes de apoio ao movimento negro norte-\namericano.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "à articulação entre os governos da URSS e dos EUA para \nenfraquecer Fidel Castro e os movimentos sociais no \nHarlem.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

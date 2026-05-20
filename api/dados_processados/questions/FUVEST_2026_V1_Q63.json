@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q63",
+    "edital": "FUVEST",
+    "numero": 63,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "A massa de clorato de sódio consumida na reação deve ser \nsuficiente para gerar, no mínimo, 15 minutos de oxigênio, \npermitindo que a aeronave baixe sua altitude, restabelecendo \na pressão da cabine. Calcule a massa de clorato de sódio \nmínima, em gramas, que deve ser utilizada por reservatório, \npara gerar oxigênio suficiente por 15 minutos, considerando \nque a taxa de respiração média de oxigênio de um adulto é \nde 1,2 L/min ao nível do mar a 20 °C.",
+    "descricao": "Note e adote: \nConsidere que quantidade de matéria de oxigênio consumida é \nindependente da altitude e que os passageiros continuam \nrespirando normalmente. \nVolume molar no nível do mar a 20 cC = 24 L/mol \nMM NaC,O3 = 106 g/mol \n#####",
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Química",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "27",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "53",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "80",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "94",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "119",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

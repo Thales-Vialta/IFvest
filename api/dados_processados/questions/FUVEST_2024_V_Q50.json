@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q50",
+    "edital": "FUVEST",
+    "numero": 50,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "Um carro movimentava-se por uma rua de mão única, com \nsentido da esquerda para a dir eita, e deixou no asfalto o \npadrão de pingos de óleo indicado na figura I. \nFigura I \nE n t r e a s c u r v a s n o g r á f i c o d a f i g u r a I I , i n d i q u e a q u e l a q u e \nmelhor corresponde à dependência da posição do carro com \no tempo, segundo esses pingos. Adote como positivo o \nsentido para a direita, conforme a indicação da seta em I. \n \nFigura II",
+    "descricao": "Note e adote: \nA s s u m a q u e o i n t e r v a l o d e t e m p o \nentre os pingos seja o mesmo.",
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Física",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "Curva 𝑎.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "Curva 𝑏.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Curva 𝑐.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Curva 𝑑.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Curva 𝑒.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

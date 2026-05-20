@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q61",
+    "edital": "FUVEST",
+    "numero": 61,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Em 1905, Albert Einstein propôs que a luz, um tipo de radiação \neletromagnética, é composta por fótons, sendo que cada fóton \ntem energia proporcional à frequência da luz (𝑓) e à constante \nde Planck (ℎ). Nesses termos, 𝐸 = ℎ𝑓, e a intensidade da luz é \na medida da quantidade de fótons. Essa interpretação foi \nfundamental para o desenvolvimento da teoria quântica da luz \ne para explicar o efeito fotoelétrico. Esse efeito consiste em um \nfenômeno físico no qual elétrons são ejetados de um material, \ngeralmente um metal, quando este é irradiado com luz cujos \nfótons têm energia maior que a energia de ligação do elétron \nao material, também conhecida como função trabalho. Assim, \nquando o fóton incide sobre a superfície do material, a energia \nexcedente transforma-se na energia cinética do elétron que \nescapa da superfície. \nEm qual das situações a seguir a energia cinética do elétron \nejetado no efeito fotoelétrico aumenta?",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Química",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "Aumentando a intensidade da luz incidente.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Usando uma superfície maior.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Aumentando a frequência da luz incidente.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "Usando um material com função trabalho maior.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Diminuindo a energia do fóton incidente.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

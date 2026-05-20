@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q6",
+    "edital": "FUVEST",
+    "numero": 6,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Leia o texto e analise a charge a seguir. \n“Se, compreendendo um outro ser humano, penetro \nprofundamente no horizonte do que lhe é próprio, então logo \nme depararei com o fato de que, assim como o seu corpo se \nencontra no meu campo de percepção, também o meu corpo \nse encontra no dele, e que, em geral, ele me experiencia sem \nmais como um outro para ele, tal como eu o experiencio como \noutro para mim.” \nHUSSERL, E. Meditações cartesianas. Rio de Janeiro: Forense Universitária, \n2013. \n \nBira Dantas. Disponível em https://facebook.com/. \nO filósofo Edmund Husserl propõe uma reflexão sobre como \ncada pessoa estabelece relações com as outras. Ocorre uma \nequiparação dos pontos de vista, de modo que cada uma \naparecerá às demais não como uma consciência \nincomparável, mas justamente como uma outra pessoa. Essa \nideia ajuda a entender a perspectiva crítica contida na charge: \ncertas condições ou características que percebemos como \ndepreciativas em outras pessoas também podem ser \npercebidas da mesma maneira pelos outros em nós. \nQual situação reproduz essa estrutura de equiparação exibida \nna charge?",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa e Literatura",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "Torcedores de diversos times de futebol se reúnem \ndesanimados para assistir a um jogo da seleção.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Religiosos conservadores sugerem banir livros eróticos \ndoados por desconhecidos para a sua comunidade.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Com medo da violência, um homem passa a andar armado \nna rua e assusta os transeuntes.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "Um homem acusa uma mulher de racismo e algumas \ntestemunhas confirmam a versão dele para a polícia.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Um trabalhador denuncia ao chefe um colega por assédio \nmoral, mas esse último não é punido.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

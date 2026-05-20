@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q47",
+    "edital": "FUVEST",
+    "numero": 47,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "Modais de transporte, em porcentagem do total, em diferentes \npaíses (2021) \nAssociação Nacional dos Transportadores Ferroviários, 2021. \nA p a r t i r d o s d a d o s e d o s s e u s c o n h e c i m e n t o s , é c o r r e t o \nafirmar:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Inglês",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "O modal aquaviário, com menor custo e maior capacidade \nde carga, predomina em mais da metade dos países \nrepresentados no gráfico.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Nos EUA, em decorrência da baixa necessidade de \ntransporte de cargas, predomina o modal rodoviário, com \nmenor custo no transporte de pessoas.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Predominante no país, o modal aquaviário no Canadá tem \na l t o cu s t o , e m d e co r r ê n ci a d a s co n d i çõ e s c l i m á t i ca s q u e \nmantêm os cursos d’águas de todo o país congelados na \nmaior parte do ano.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Apesar de possuir maior custo, a matriz brasileira, \nassentada no modal rodoviário, é mais eficiente \nconsiderando a capacidade de transporte em grandes \nquantidades e longos percursos.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A predominância do modal aquaviário na China faz parte \nda estratégia do país de aliar a diminuição dos custos de \ntransporte à busca de modais menos poluentes.",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

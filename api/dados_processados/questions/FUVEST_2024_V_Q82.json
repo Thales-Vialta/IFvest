@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q82",
+    "edital": "FUVEST",
+    "numero": 82,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "O s t r e c h o s t r a n s c r i t o s f o r a m r e t i r a d o s d o s l i v r o s d o s \nmoçambicanos Luís Bernardo H onwana e Paulina Chiziane. \nEm ambos, observa-se a ocorrência da palavra “machamba”. \nA respeito do uso desse termo, é correto afirmar:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Matemática",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "No texto I, machamba refere-se a um matagal, em sentido \ndenotativo; no texto II, ao papel de esposa de Sarnau, em \nsentido conotativo.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "No texto I, machamba possui sentido literal, referindo-se \nà s t e r r a s p a r a c u l t i v o ; n o t e x t o I I , o s e n t i d o é f i g u r a d o , \nreferindo-se ao útero de Sarnau.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "No texto I, machamba possui sentido figurado, referindo-\nse à colheita; no texto II, o sentido é literal, referindo-se a \num problema.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Em ambos os textos, machamba apresenta sentido literal \ne refere-se a um terreno agrícola de produção familiar.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Em ambos os textos, machamba possui sentido figurado e \nrefere-se às terras férteis ocupadas pelos portugueses.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

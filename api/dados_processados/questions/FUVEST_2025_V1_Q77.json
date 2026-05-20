@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q77",
+    "edital": "FUVEST",
+    "numero": 77,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Em relação ao plano cartesiano Oxy, é correto afirmar que as \nequações 𝑥ଶ൅𝑦ଶെ4𝑥ൌെ3 e 𝑥ଶ൅𝑦ଶെ4𝑦ൌെ3 \nrepresentam",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Biologia",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "duas circunferências com raios de mesma medida e que se \ninterceptam em dois pontos.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "duas circunferências com raios de medidas diferentes e \nque se interceptam em dois pontos.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "duas circunferências que se interceptam em um único \nponto.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "duas circunferências concêntricas e que não se \ninterceptam.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "duas circunferências com centros distintos e que não se \ninterceptam.",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

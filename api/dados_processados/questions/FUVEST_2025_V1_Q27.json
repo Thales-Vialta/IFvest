@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q27",
+    "edital": "FUVEST",
+    "numero": 27,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Segundo o texto, o processo de derretimento das calotas \npolares",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "História",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "põe em dúvida a necessidade do conceito de segundo \nbissexto.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "desloca o fluxo de água para regiões afastadas da linha do \nEquador.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "deve antecipar em três anos o ajuste dos relógios \natômicos.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "ultrapassa o alcance do sistema do Tempo Universal \nCoordenado.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "tende a reduzir a velocidade de rotação da Terra.",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

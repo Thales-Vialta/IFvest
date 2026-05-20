@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q35",
+    "edital": "FUVEST",
+    "numero": 35,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "Um relógio digital utiliza os seguintes numerais para \nrepresentar um determinado horário: \nEsse relógio está colocado sobre uma mesa de vidro, de forma \nque o vidro reflete o horário em sua superfície. A figura \nmostra um exemplo dessa situação: \nD e 0 0 : 0 0 a t é a s 2 3 : 5 9 , q u a n t a s v e z e s o v i d r o r e f l e t i r á u m \nhorário válido?",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Geografia",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "96",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "360",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "540",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "640",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "960",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

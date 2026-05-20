@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q39",
+    "edital": "FUVEST",
+    "numero": 39,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Os grotões transformaram-se em jardins cortados a meio \npelas avenidas e pela sombra dos viadutos não há mais sapo. \nNos jardins encontrareis recintos fechados com instrutoras, \ndentistas, educadoras sanitárias dentro. São os parques \ninfantis, onde as crianças proletárias se socializam \naprendendo nos brinquedos o cooperativismo e a consciência \ndo homem social. \nMário de Andrade. “Dia de São Paulo”. Revista do Arquivo \nMunicipal. São Paulo: Departamento de Cultura, 1936, nº 19. \n \nO excerto relata alterações na paisagem urbana paulistana \ncom a implantação de novos equipamentos que visavam",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Inglês",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "substituir o ambiente degradado e nocivo dos cortiços e \nvilas operárias por espaços públicos marcados pela flora \nda Mata Atlântica.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "disciplinar o lazer das crianças com a introdução de \nnoções de saúde \npreventiva e de atividades racionais e \npedagógicas.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "produzir formas de ajustamento social que afastassem os \njovens do ócio e dos vícios, por meio da educação \nprofissionalizante.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "promover valores cristãos através da evangelização e do \nassistencialismo baseado na caridade e na recreação.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "organizar um novo programa escolar voltado para as \ncrianças proletárias, adotando uma pedagogia pautada no \nnacionalismo e civismo.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

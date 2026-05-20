@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q36",
+    "edital": "FUVEST",
+    "numero": 36,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "“Todos os dias que depois vieram, eram tempo de doer. \nMiguilim tinha sido arrancado de uma porção de coisas, e \nestava no mesmo lugar. Quando chegava o poder de chorar, \nera até bom – enquanto estava chorando, parecia que a alma \ntoda se sacudia, misturando ao vivo todas as lembranças, as \nmais novas e as muito antigas. Mas, no mais das horas, ele \nestava cansado. Cansado e como que assustado. Sufocado. Ele \nnão era ele mesmo. Diante de le, as pessoas, as coisas, \nperdiam o peso de ser. Os lugares, o Mutum – se esvaziavam, \nnuma ligeireza, vagarosos. E Miguilim mesmo se achava \ndiferente de todos. Ao vago, dava a mesma ideia de uma vez, \nem que, muito pequeno, tinha dormido de dia, fora de seu \ncostume – quando acordou, se ntiu o existir do mundo em \nhora estranha, e perguntou assustado: – ‘Uai, Mãe, hoje já é \namanhã?!’” \nJoão Guimarães Rosa. Campo Geral. \nConforme sugere o trecho, o sofrimento perturba a noção que \nMiguilim tinha do tempo, porque",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Geografia",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "a falta de acuidade visual não lhe permite distinguir as \népocas.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "o desamor ao pai o faz romper com a infância cedo demais.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "o aprendizado da morte embaralha os planos da memória.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "a sensação de vazio o leva a se sentir seguro no presente.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "os dias vividos no Mutum mostram-se cada vez mais curtos.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

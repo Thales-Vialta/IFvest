@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q63",
+    "edital": "FUVEST",
+    "numero": 63,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "U m a Ár v o r e P i t a gó r i ca é u m a f i g u r a p l a n a q u e é co n s t r u í d a \npor etapas. Na Etapa 1, ela começa com um quadrado de lado \n1 cm. Na Etapa 2, constroem-se dois quadrados acima do \nquadrado da Etapa 1, de tal forma que a medida de seus lados \nseja igual à medida dos catetos do triângulo retângulo \nisósceles que possui hipotenusa igual ao lado do quadrado da \nEtapa 1. Na Etapa 3, aplica-se a Etapa 2 em cada um dos novos \nquadrados obtidos, e assim por diante. Ou seja, em cada nova \ne t a p a , a p l i c a - s e a e t a p a a n t e r i o r e m c a d a u m d o s n o v o s \nquadrados obtidos. A figura a seguir exibe as quatro primeiras \netapas da construção da Árvore Pitagórica. \nDomínio público. Disponível em https://commons.wikimedia.org/. \nA partir de qual etapa da construção o lado de cada um dos \nnovos quadrados obtidos fica, pela primeira vez, menor do \nque 1 décimo de milésimo do lado do quadrado da Etapa 1?",
+    "descricao": "Note e adote: \n 𝑙𝑜𝑔ଵ଴2=0 , 3",
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Química",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "26",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "27",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "28",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "29",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "30",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

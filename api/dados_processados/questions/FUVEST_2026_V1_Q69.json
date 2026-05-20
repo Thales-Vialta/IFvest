@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q69",
+    "edital": "FUVEST",
+    "numero": 69,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "O texto informa que, de acordo com Paul Breslin, a \ninterpretação do estudo de Hanig foi equivocada, porque",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Biologia",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "a representação gráfica dos resultados foi elaborada \ndécadas depois sem base científica.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "o autor original investigou limiares de sensibilidade, sem \ndefender a exclusividade de sabores em regiões da língua.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "o\n foco da pesquisa foi o comportamento alimentar em \ndiferentes culturas.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "o objetivo central concentrou-se na classificação \nbioquímica dos receptores gustativos.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "a análise dos dados priorizou a resposta cerebral em vez \nde aspectos periféricos.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

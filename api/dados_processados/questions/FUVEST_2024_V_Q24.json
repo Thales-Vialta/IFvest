@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q24",
+    "edital": "FUVEST",
+    "numero": 24,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "“Os experimentos de difração e interferência da luz realizados \nno período de 1800 a 1803, em analogia com os processos de \ninterferência das ondas acústicas, corroboraram a natureza \nondulatória da luz. Por outro lado, Einstein introduziu, em \n1905, o conceito de fóton, em que cada componente \nmonocromática de frequência 𝑓 da radiação seria equivalente \na um sistema de partículas idênticas sem massa, cada qual \ncom energia ℎ𝑓, sendo ℎ≃6,626×10\n−34 J . s a c o n s t a n t e d e \nPlanck. A hipótese da existência de fótons só teve ampla \naceitação após os experimentos de Compton, em 1922, sobre \no espalhamento da radiação eletromagnética na faixa dos \nraios X por alvos de elementos leves, como o grafite.” \nAdaptado de F. Caruso e V. Oguri, Sobre a necessidade do conceito de fóton, \nRBEF 43, e20210011 (2021). \nDe acordo com o texto e seus conhecimentos, é correto \nafirmar:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "História",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "A radiação eletromagnética apresenta somente \ncomportamento ondulatório.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "O s e x p e r i m e n t o s d e C o m p t o n m o s t r a r a m q u e f e i x e s d e \nraios X exibem comportamento corpuscular.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "A energia de um fóton independe de seu comprimento de \nonda.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A hipótese da natureza corpuscular da radiação está em \ndesacordo com os resultados experimentais.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Einstein demonstrou que os experimentos de difração e \ninterferência da luz deveriam estar incorretos.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

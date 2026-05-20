@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q41",
+    "edital": "FUVEST",
+    "numero": 41,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "O carnaval, para além de ser a mais importante \nmanifestação cultural brasileira, é o exercício concreto e \nsensível de vários direitos conquistados e consagrados. Ele \ncelebra o direito à cidade, à manifestação, à associação e o \ndireito à liberdade de expressão. Como festa pagã e \nsincrética, afirma o direito à liberdade religiosa sem ser \nproselitista e, como representação cultural, amplia o espaço \ncívico para combiná-lo com festividade, criatividade e \nliberdade artística e cultural. \nO carnaval, nas suas diversas facetas, é político. E essa \ncaracterística não aparece somente nos debates promovidos \natravés da festa, mas também pela possibilidade de desfrutar \numa vida livre de censura de qualquer tipo por parte de pessoas \nde todas as regiões do país, em suas mais distintas realidades. \nOcupar as ruas é um ato político. O lazer e a folia em espaço \npúblico, o exercício do direito à fruição e de produzir e consumir \nconteúdos culturais diversos também são. É ainda mais \nrelevante o ato de externalizar e amplificar histórias, memórias \ne narrativas sobre grupos historicamente silenciados no país, \ncomo as populações negra, indígena e de tantas outras \ncomunidades tradicionais. A manifestação política através de \nbrincadeiras, danças, marchinhas, cantos e fantasias é das \nformas mais sublimes de expressão da aliança entre luta social, \ncultura e expressão estética. É a possibilidade que brasileiras e \nbrasileiros encontram de, lutando por meio da arte, fazer ecoar \numa voz esquecida no cotidiano. \nArtigo 19. 16/02/2024. Adaptado. \n \nAo afirmar que o carnaval é político, o texto objetiva",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Inglês",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "ressaltar a necessidade da festa popular para que \nbrasileiros e brasileiras possam ter algum momento de \nlazer.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "valorizar a ocupação do espaço público, resistindo contra \naqueles que não são favoráveis à folia e ao consumo.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "criticar os vários\n direitos adquiridos pelas classes mais \nsilenciadas da sociedade em sua luta social e cultural.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "defender posicionamentos e direitos por meio de formas \nde expressão culturais e artísticas.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "refletir, do ponto de vista sócio-histórico, sobre o consumo, \nque acentua as diferenças culturais e religiosas.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

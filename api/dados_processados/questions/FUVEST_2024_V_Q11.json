@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q11",
+    "edital": "FUVEST",
+    "numero": 11,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "cm, para armazenar biscoitos. Para o transporte desse \nproduto, são utilizadas caixa s para acondicionar essas \nembalagens, também no formato de paralelepípedo reto-\nretângulo, de dimensões 12 cm x 13 cm x 26 cm. A imagem a \nseguir ilustra um paralelepípedo reto-retângulo. \nDetermine o número máximo de embalagens que podem ser \nacondicionadas em cada caixa fechada para transporte, sem \nque o produto seja danificado.",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa e Literatura",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "48",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "52",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "56",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "60",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "61",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

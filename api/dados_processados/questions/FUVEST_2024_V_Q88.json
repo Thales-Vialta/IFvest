@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q88",
+    "edital": "FUVEST",
+    "numero": 88,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "The main players in the Spanish–Aztec War (1519–21) \nare well known: Hernán Cortés and Montezuma. Lesser-known, \nthough no less important, is a multilingual exiled Aztec woman \nwho was enslaved, then served as a guide and interpreter, then \nbecame Cortés’s mistress. She was known as Doña Marina, and \nas La Malinche. \nScholar and researcher Cordelia Candelaria writes: her \nparamount value to the Spaniards was not merely linguistic. \nShe was an interpreter/liaison who served as a guide to the \nregion, as an advisor on native customs and beliefs, and as a \nstrategist. \nLa Malinche was the daughter of an Aztec cacique \n(chief). This gave her an unusual level of education, which she \nwould later leverage as a guide and interpreter for the Spanish. \nThroughout Cortés’s travels, s he became indispensable as a \ntranslator, not only capable of functionally translating from one \nlanguage to the other, but of speaking compellingly, \nstrategizing, and forging political connections. \nIntegral as she was to Spain’s success, La Malinche is a \ncontroversial figure. Candelar ia quotes T. R. Fehrenbach as \nsaying, “If there is one villainess in Mexican history, she is La \nMalinche. She was to become the ethnic traitress supreme.” \nBut Candelaria argues that La Malinche’s act of turning her back \non her own people makes more psychological sense when we \nconsider that, at a young age, she had been sold by her own \nmother into slavery. Candelaria asks, “What else could this \noutcast from the Aztecs, ‘her own people,’ have done?” \nDisponível em https://daily.jstor.org/. Adaptado. \nSegundo o texto, em relação à imagem de La Malinche como \ntraidora do povo Asteca, a pesquisadora Cordelia Candelaria \nargumenta que a intérprete",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Matemática",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "havia sido preterida no seio da própria família.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "fez uso de idiomas em proveito próprio.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "era invejada pelos privilégios alcançados.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "ignorou as vulnerabilidades do povo mexicano.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "tentou se sobrepor aos líderes da época.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

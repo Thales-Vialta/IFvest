@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q14",
+    "edital": "FUVEST",
+    "numero": 14,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Observe o mapa e o gráfico: \n \nNúmero de imigrantes incluídos no cadastro de pessoas com \nrenda mensal de até meio salário-mínimo \n \n \nDisponível em https://portaldeimigracao.mj.gov.br. Adaptado. \n \nDistribuição relativa dos vínculos ativos de emprego formal de \nimigrantes estrangeiros na região Sul (2023) \n \n \nAtlas Temático do Observatório das Migrações em São Paulo. Adaptado. \n \nA partir do mapa e do gráfico, assinale a alternativa correta \nsobre o contexto apresentado na região Sul.",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa e Literatura",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "A segurança social garantida por rendas maiores favorece \no emprego formal no setor de serviços.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Os imigrantes cadastrados nessa região têm renda \nsuperior a um salário-mínimo, demonstrando maior \nsegurança social.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "O alto número de imigrantes cadastrados no CadÚnico \ndeve-se pela empregabilidade qualificada no comércio.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A redução na vulnerabilidade social dos imigrantes é \nresultado do alto nível de escolaridade na indústria.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Os baixos salários na indústria alimentícia refletem-se na \nvulnerabilidade dos imigrantes estrangeiros.",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

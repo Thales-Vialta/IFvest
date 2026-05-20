@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q40",
+    "edital": "FUVEST",
+    "numero": 40,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Considere os dois fragmentos a seguir: \n \nO fundamento psicológico sobre o qual se eleva o tipo das \nindividualidades da cidade grande é a intensificação da vida \nnervosa, que resulta da mudança rápida e ininterrupta de \nimpressões [...]. Talvez não haja nenhum fenômeno tão \ncaracterístico da cidade grande como o caráter blasé. [...] A \nessência do caráter blasé é o embotamento frente à distinção \ndas coisas [...]. Em parte por conta dessa situação \npsicológica, em parte em virtude do direito à desconfiança que \ntemos perante os elementos da vida na cidade grande, que \npassam por nós em um contato fugaz, somos coagidos a uma \nreserva, em virtude da qual mal conhecemos os vizinhos que \ntemos por muitos anos [...]. Ao mesmo tempo, essa reserva \ngarante ao indivíduo uma espécie [...] de liberdade pessoal. \nSimmel, Georg. (2005). As grandes cidades e a vida do espírito. Mana, \nTrad. Leopoldo Waizbort. Adaptado. \n \n \nAs luzes da cidade se acendiam, as cortinas de aço das \nportas desciam com barulho e os caixeiros, os empregados \nque passavam o dia sorridentes ou abstratos, por trás dos \nbalcões [...], se transformavam em homens misteriosos, \nindividuais, que metiam um paletó, tinham uma casa, uma rua \ne iam comer o seu jantar, dormir o seu sono, trancar a sua \nporta. [...] Todos ali tinham a sua vida isolada, sua vida \nparticular. \nE, naquela hora, cortavam as amarras, cada um \nprocurando o seu mundo pessoal, a sua pequenina ilha. \nRachel de Queiroz. Caminho de Pedras. Adaptado. \n \nNo primeiro trecho, publicado originalmente em 1903, o \nsociólogo Georg Simmel procurou condensar as \ncaracterísticas fundamentais da vida psíquica nas grandes \ncidades. Já no segundo, com que Rachel de Queiroz inicia o \ncapítulo 7 de Caminho de Pedras, vemos como o protagonista \nRoberto percebe sua cidade a bordo de um bonde. Lendo-os \nem conjunto, é possível afirmar:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Inglês",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "As observações de Roberto contrariam a análise de \nSimmel. O “sorriso” dos empregados contradiz o \ndiagnóstico de “embotamento” e “reserva” para com os \noutros.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A vida “isolada” e “particular” descrita por Roberto, com \nque todos “cortavam as amarras”, é uma expressão \nda \nmesma reserva que Simmel argumenta produzir alguma \nliberdade.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "Ainda que haja semelhanças nas leituras, o modo \n“abstrato” com que os empregados passavam seus dias \nnão é um aspecto psíquico das grandes cidades, mas da \nnecessária desconfiança em atividades comerciais.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A vida doméstica e particular sobre a qual Roberto reflete \ncontradiz o diagnóstico de “intensificação da vida \nnervosa”, sugerindo uma rotina de impressões repetidas e \nimutáveis.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "O retrato da cidade em Caminho de Pedras confirma a \nanálise de Simmel ao afirmar que a individualidade e o \n“embotamento frente à distinção das coisas” são expressos \nno espaço privado dos lares dos empregados.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

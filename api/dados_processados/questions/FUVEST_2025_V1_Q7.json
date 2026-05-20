@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q7",
+    "edital": "FUVEST",
+    "numero": 7,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Disponível em https://screenrant.com/funniest-peanuts-comics-charlie-\nbrown-vs-lucy/. \nFalácias são argumentos que podem até parecer à primeira \nvista bem construídos logicamente, mas são falhos, seja em \ntermos do uso da linguagem, de pertinência temática ou de \ncorreção formal. Os primeiros estudos sistemáticos das \nfalácias foram feitos pelo filó sofo Aristóteles, que classificou \nalguns dos argumentos falaciosos mais comuns. \nNo terceiro quadrinho da história, uma personagem se serve \nde um argumento falacioso bastante conhecido a fim de \npersuadir o outro. Esse argumento pode ser classificado como \num caso de qual tipo de falácia?",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa e Literatura",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "Ataque à pessoa.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Apelo à piedade.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Apelo à força.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "Ambiguidade.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Apelo à ignorância.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

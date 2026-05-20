@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q46",
+    "edital": "FUVEST",
+    "numero": 46,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "A maior parte da alimentação humana é constituída por grãos \ne cereais, que, em sua maioria, correspondem às sementes, em \ntermos botânicos. Esse consumo é adequado, uma vez que as \nsementes",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Inglês",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "constituem o único órgão de reserva de amido das plantas, \nsubstância altamente energética para os seres vivos em \ngeral.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "armazenam todas as vitami nas e nutrientes necessários \npara a planta e, portanto, também ao ser humano.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "possuem DNA da planta-mãe e do embrião, que constituem \nnutrientes sem os quais a espécie humana não sobrevive.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "contêm substâncias de reserva provedoras de energia para \no desenvolvimento do embr ião vegetal, que também \nservem de fonte energética aos seres humanos.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "possuem enzimas digestivas de amido e de proteínas, que \ndisponibilizam energia ao embrião vegetal e também são \nusadas para promover a digestão em seres humanos.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

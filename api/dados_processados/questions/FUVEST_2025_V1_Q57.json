@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q57",
+    "edital": "FUVEST",
+    "numero": 57,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Em países frios, é comum o uso de pequenos aquecedores de \nmãos, normalmente descartáveis, que podem ser colocados \ndentro de luvas. Uma alternativa mais sustentável é o \naquecedor de mão reutilizável , que é constituído por uma \nsolução aquosa supersaturada de acetato de sódio \narmazenada em um reservatório maleável, conforme \nmostrado na figura a seguir. \nUm choque mecânico nesse reservatório perturba a solução \nsupersaturada e leva à precipitação do sal, resultando no seu \naquecimento. Após o uso, o aquecedor pode ser regenerado \npor imersão em água quente, que dissolve o sal, deixando-o \npronto para ser reutilizado. \nEm relação à operação desse aquecedor, é correto afirmar:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Física",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "A precipitação do acetato de sódio é exotérmica e sua \nsolubilização é endotérmica.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "A diminuição da temperatura aumenta a solubilidade do \nacetato de sódio.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A solubilização do acetato de sódio para a regeneração do \naquecedor libera energia, aquecendo o banho de água.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Quando o aquecedor é regenerado, a solução interna \npassa de supersaturada para uma solução diluída.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A concentração de acetato de sódio na solução dentro do \nreservatório não muda durante a regeneração do aquecedor.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

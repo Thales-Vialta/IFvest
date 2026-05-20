@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "PISM_2025_D1-P1_Q9",
+    "edital": "PISM",
+    "numero": 9,
+    "tipo_ou_cor": "D1-P1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Fonte: https://institutopristino.org.br/inicio-do-projeto-\ngeotecnologias-para-gestao-hidrica-do-sinclinal-moeda-mg-2/.\nAcesso em: 16 de jun. de 2024.\nA imagem acima apresenta a área usualmente co-\nnhecida como Quadrilátero Ferr´ ıfero. Entretanto,\npesquisas têm apontado que o termo mais indicado\nseria Quadrilátero Aqú ıfero-Ferr´ ıfero, já que a área\nabriga o Aqú ıfero Cauê, com alta capacidade de ar-\nmazenamento de água.\nEsta capacidade se explica em decorrência das",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Geografia",
+    "tags": [
+      "PISM",
+      "2025",
+      "D1-P1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "caracter´ ısticas mineralógicas dos minerais ferru-\nginosos.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "caracter´ ısticas do relevo, com baixa variação nas\naltitudes.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "obras de engenharia humana, particularmente as\nbarragens.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "fraturas nas rochas metamórficas, nas quais a\náguá e armazenada.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "das propriedades qú ımicas do Ferro (Fe), abun-\ndantes nos Itabiritos.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

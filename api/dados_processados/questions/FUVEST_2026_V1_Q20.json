@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q20",
+    "edital": "FUVEST",
+    "numero": 20,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "O indígena sofre menos sob a República do que sob a \ndominação espanhola? Não existem mais corregimientos nem \nencomiendas, mas persistem os trabalhos forçados e os \nrecrutamentos. O sofrimento que lhe provocamos basta para \ndescarregar sobre nós a execração dos seres humanos. Nós \no conservamos na ignorância e na servidão, o envilecemos no \nquartel, o embrutecemos com o álcool, o lançamos a \ndestroçar-se nas guerras civis e, de tempos em tempos, \norganizamos caçadas e matanças. \nManuel González Prada. “Nuestros índios”. In: Ideas en torno de \nLatinoamérica. México: UNAM, 1986. Adaptado. \n \nO excerto, extraído de um texto publicado no início do \nséculo XX pelo peruano Manuel González Prada,",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "História",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "identifica mudanças na condição dos indígenas após a \nemancipação política, mas afirma a persistência de sua \nexploração no trabalho e de sua marginalização social.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "valoriza a ativa participação dos indígenas no \nprocesso de \nemancipação política, mas admite a dificuldade política de \nincorporá-los à nova ordem social.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "reconhece os crimes contra os indígenas cometidos \ndurante a colonização espanhola, mas enfatiza a melhoria \nnas relações sociais e na condição indígena sob a \nRepública.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "defende a persistência da exclusão social dos indígenas \nna República, mas a justifica em função das heranças \nrecebidas do período de colonização espanhola.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "critica a obrigatoriedade do alistamento militar dos \nindígenas, mas insiste na importância de sua participação \ne de seu envolvimento na construção da República.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

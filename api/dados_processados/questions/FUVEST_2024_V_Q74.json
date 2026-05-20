@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q74",
+    "edital": "FUVEST",
+    "numero": 74,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "Apesar de a África ser considerada o berço das civilizações e \nexistirem indícios de conhecimentos elementares de Química \nn o s u l d o c o n t i n e n t e c e r c a d e 1 0 0 . 0 0 0 a n o s a t r á s , o s \nconhecimentos químicos ensin a d o s s ã o e u r o c e n t r i s t a s . \nEntretanto, uma das grandes contribuições para o estudo de \nreatividade química é atribuída ao químico egípcio Ahmed \nHassan Zewail, agraciado com o prêmio Nobel em 1999 por \nseus estudos de reações químicas usando uma técnica \nconhecida como espectroscopia de femtossegundos. Essa \ntécnica possibilita identificar espécies com tempo de vida \ncurto utilizando pulsos de laser com duração de 10\n−15 s. \nEssa contribuição é relevant e p a r a o e s t u d o d e r e a ç õ e s \nquímicas, pois",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Biologia",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "todos os processos químicos são extremamente rápidos e \nnão podem ser estudados por técnicas que não sejam em \nfemtossegundos.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "as reações químicas podem passar por espécies instáveis \ne com pouco tempo de vida.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "o tempo existente para analisar os produtos de uma \nreação depende apenas da quantidade de produtos \nformada.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "permite entender como reagentes específicos se \ncomportam frente a processos reacionais que são \nextremamente lentos.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "apenas com uma técnica tão rápida é possível analisar o \ngrau de pureza dos reagentes isolados.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

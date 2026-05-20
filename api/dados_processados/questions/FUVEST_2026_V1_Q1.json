@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q1",
+    "edital": "FUVEST",
+    "numero": 1,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Caetano Veloso revela sua posição a respeito do fato narrado \nno fragmento Mas, embora me encha de orgulho o \npensamento de que meu pai possa ter trapaceado para me \nagradar, eu sempre preferi crer na autenticidade do sorteio. \nAssinale a alternativa em que a paráfrase do excerto mantém \no mesmo sentido do texto original.",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa e Literatura",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "Eu sempre preferi crer na autenticidade do sorteio e \nsempre tive orgulho de meu pai, mesmo sabendo que ele \npossa ter trapaceado no sorteio para me agradar.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Me enche de orgulho o pensamento de que meu pai \ntrapaceou, mesmo que eu creia na autenticidade do\n \nsorteio para me agradar.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Eu sempre preferi crer na autenticidade do sorteio, mas, \nmesmo com o pensamento de que meu pai trapaceou para \nme agradar, tenho orgulho dele.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Uma vez acreditando na autenticidade do sorteio, penso \nque, para me agradar, meu pai pode ter trapaceado, o que \nme faz ter um pensamento cheio de orgulho.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Eu, contudo, sempre preferi crer na autenticidade do \nsorteio, ainda que me encha de orgulho o pensamento de \nque, a fim de me agradar, meu pai possa ter trapaceado.",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

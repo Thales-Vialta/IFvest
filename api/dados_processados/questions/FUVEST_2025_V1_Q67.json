@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q67",
+    "edital": "FUVEST",
+    "numero": 67,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Pesquisas e terapias com células-tronco têm se mostrado cada \nvez mais promissoras pela possibilidade de seu uso no \ntratamento de diferentes tipo s de doenças, como câncer e \ndoenças degenerativas. As células-tronco podem se diferenciar \nem células especializadas, conforme exemplificado a seguir. \n \nDisponível em https://upload.wikimedia.org/wikipedia/ (Adaptado). \nAs células especializadas que derivam de uma mesma célula-\ntronco possuem os(as) mesmos(as)",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Química",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "genes.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "RNAs.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "proteínas.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "lipídeos.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "organelas.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

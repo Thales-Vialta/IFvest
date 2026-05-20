@@ -1,0 +1,12 @@
+{
+  "metadados": {
+    "codigos_questoes": [
+      "FUVEST_2026_V1_Q76",
+      "FUVEST_2026_V1_Q77"
+    ]
+  },
+  "conteudo": {
+    "enunciado": "Texto para as questões 76 e 77 \n \nO gráfico a seguir mostra o resultado do exame de audiometria \ntonal de um paciente. O eixo vertical refere-se ao nível de \nintensidade sonora α (medido em dB e aumentando de cima \npara baixo) necessário para que a pessoa possa ouvir o som \nemitido pelo audiômetro a uma dada frequência 𝑓 (medida em \nHz), representada no eixo horizontal. \n \nQuanto menor o valor de a(𝑓), melhor é a resposta auditiva do \npaciente naquela frequência 𝑓. O uso de aparelhos auditivos \npode ser uma forma de melhorar a resposta auditiva em \ndeterminadas frequências.",
+    "img_url": null
+  }
+}

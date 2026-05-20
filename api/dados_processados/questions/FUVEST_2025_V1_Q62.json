@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q62",
+    "edital": "FUVEST",
+    "numero": 62,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Um brinquedo bastante comum em parques de diversões, a \nmontanha-russa, utiliza-se da transformação parcial de \nenergia potencial em energia cinética (e vice-versa) como \nprincípio de funcionamento. Uma das montanhas-russas mais \nfamosas do mundo, a Takabisha, cuja pista possui mais de \n1 km de extensão, localiza-se no Japão e tem vista para o \nMonte Fuji. Nela, a subida inicial até o ponto mais alto, situado \na uma altura aproximada de 50 m do solo, é feita sob ângulo \nde aproximadamente 90 graus, seguida de uma descida \nvertiginosa, cuja velocidade, no ponto mais baixo desse \ntrecho, atinge cerca de 30 m/s em poucos segundos. \n \nMontanha-russa Takabisha. \nConsiderando um carrinho ocupado com massa total de 300 kg \nem repouso na posição de altura máxima, a energia mecânica \nperdida durante a descida inicial é, aproximadamente,",
+    "descricao": "Note e adote: \nAceleração da gravidade: g = 10 m/s2. \n#####",
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Química",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "1200 J.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "2500 J.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "5000 J.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "15000 J.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "20000 J.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

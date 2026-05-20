@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q84",
+    "edital": "FUVEST",
+    "numero": 84,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "A figura a seguir corresponde a células estomáticas da folha \nde uma planta de mata atlântica, em dois momentos distintos. \n \n \nÉ correto afirmar que a seta Z representa",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Matemática",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "a passagem de uma condição de escuro (noite) para alta \nluminosidade (dia).",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "a diminuição da concentração de solutos na célula \nestomática.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "o aumento da umidade relativa do ar ao longo do dia.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "a intensificação da concentração de água no\n solo em que \na planta se encontra.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "o aumento do nível de turgescência (turgor) da célula \nestomática.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

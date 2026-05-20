@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q68",
+    "edital": "FUVEST",
+    "numero": 68,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "[...] \nUm sino de vidro claro, \numa ampola cristalina e contrátil, \nflutua calma no seu caminho. \n“Peixinho, peixinho, deixe-a ir! \nPeixinho, peixinho, se apresse em fugir!” \nAli atrás, longos fios transparentes se arrastam \ne os olhos do peixinho a um banquete convidam. \n“Serão, por acaso, minhocas o que eu vejo de repente?” \n“Peixinho, peixinho, deixe-me alertar! \nPeixinho, peixinho, não se deixe enganar!” \nPróximo demais o peixinho chegou: \n“Ai, ai, ai, agora ela me pegou! \nFirme me amarrou e não consigo me soltar! \nFirme me envolve e arde de matar!” \n[...] \nTradução e adaptação de Flavia Souza, Stefano Hagen e Luiz Fontes. \nO f r a g m e n t o d e p o e m a a p r e s e n t a d o f o i e s c r i t o p e l o \nnaturalista Fritz Müller para suas filhas. O trecho do poema \npermite afirmar que a predação é realizada por um/uma",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Química",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "camarão.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "água-viva.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "tubarão.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "lula.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "plâncton.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

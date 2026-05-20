@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q38",
+    "edital": "FUVEST",
+    "numero": 38,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "No censo do IBGE 2022 foi possível perceber que, do total \nde 203,1 milhões de pessoas da população brasileira, \n177,5 milhões (87,4%) residiam em áreas urbanas, enquanto \n25,6 milhões viviam em áreas rurais. Em relação a 2010, \nquando o grau de urbanização foi de 84,4%, houve aumento \nde 16,6 milhões de pessoas morando em áreas urbanas e \nqueda de 4,3 milhões vivendo em áreas rurais. \nJá em relação à distribuição da população brasileira, o \nCenso 2022 trouxe uma importante constatação: o \ncrescimento das cidades médias. Cabem nessa classificação \ndo IBGE os municípios que contam entre 100 mil e 500 mil \nhabitantes. \nAlém disso, os dados também revelam que os maiores \npercentuais de população urbana foram observados nas \nregiões Sudeste (94,44%) e Centro-Oeste (91,35%), seguidas \ndas regiões Sul (88,24%), Norte (78,47%) e Nordeste \n(77,64%). \nA população rural, por sua vez, apresentou pela primeira \nvez decréscimo em todas as regiões do Brasil. Segundo o \nProf. Everaldo Melazzo, as cidades brasileiras estão ficando \ncada vez mais complexas e indicando algumas tendências \ninexistentes no Brasil até então. Este contexto de mudanças é \ndenominado de fragmentação socioespacial [...]. \n \nDisponível em https://jornal.unesp.br/. Adaptado. \n \nCom base no texto e em seus conhecimentos, é correto afirmar \na respeito das novas tendências sobre a urbanização do \nBrasil:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Geografia",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "O grau de urbanização vem aumentando na região Centro-\nOeste (91,35%) e Norte (78,47%), devido à expansão \nindustrial e ao impacto das áreas reflorestadas e com \nbaixa modernização agrícola.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Houve um aumento de 16,6 milhões de pessoas morando \nem áreas urbanas, revelando que as grandes metrópoles \ncontinuam como o principal polo de crescimento \npopulacional relativo, registrando taxas de aumento \nsuperiores às cidades médias e pequenas.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Em 2010, 84,4% da população absoluta do país vivia em \náreas urbanas e, em 2022, essa porcentagem passou para \n87,4%; esse aumento do grau de urbanização ocorreu \nsobretudo nas cidades médias (entre 100 e 500 mil \nhabitantes).",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "De acordo com o Censo de 2022, a população rural \nmanteve-se estável na última década, como mostram os \ndados das regiões Sul (88,24%) e Sudeste (94,44%), \nampliando a fragmentação socioespacial.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "No contexto do Censo de 2022, os pequenos municípios \nbrasileiros apresentaram o maior crescimento \npopulacional relativo do país, superando as cidades \nmédias e grandes, em função do avanço da \nindustrialização e da expansão do agronegócio.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

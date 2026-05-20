@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q47",
+    "edital": "FUVEST",
+    "numero": 47,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "iii. Busca \n \nPelos campos fora \nCaminhava sempre \nComo se buscasse \nUma presença ausente \n \n“Onde estás tu, morte? \nNão posso te ver: \nNeste dia de Maio \nCom rosas e trigo \nÉ como se tu não \nVivesses comigo \n[...] \nÉ verdade que passas \nPela cidade às vezes \nNos caixões de chumbo: \n \nMas viro o\n meu rosto \nPois não te compreendo \nÉs um pesadelo \nUma coisa inventada \nQue o vento desmente \nCom suas mãos frescas \nE a luz logo apaga” \n[...] \nSophia de Mello Breyner Andresen. O Cristo cigano. \n \nÉ tão tenaz o desvio que a esquivança encobridora ante a \nmorte exerce sobre a cotidianidade que, no ser-um-com-o-\noutro, seus ‘próximos’ ainda se empenham com frequência \nprecisamente junto ao ‘moribundo’ para o persuadir de que \nescapa da morte e retorna em seguida à tranquila \ncotidianidade do mundo de suas ocupações. Tal \n‘preocupação-com-o-outro’ pensa ‘consolar’ dessa maneira o \n‘moribundo’. Ela quer devolvê-lo à existência, ajudando-o a \nencobrir ainda mais completamente sua possibilidade de ser \nmais própria e irremetente. A gente se ocupa dessa maneira \nde uma constante tranquilização sobre a morte. Mas, no \nfundo, ela vale tanto para o ‘moribundo’ quanto para ‘os que \nconsolam’. E mesmo no caso do deixar de viver, a publicidade \nainda não deve ser perturbada, nem inquietada pelo \nacontecimento na sua ocupada despreocupação. Pois não \nraro se vê na morte dos outros uma inconveniência social, \nquando não mesmo uma falta de tato, cuja publicidade deve \nser poupada. \nMartin Heidegger. Ser e Tempo, §51. \n \nA escritora Sophia de Mello Breyner Andresen e o filósofo \nMartin Heidegger descrevem, por meio de recursos \nexpositivos bem diferentes, uma mesma atitude geral \ncomumente assumida por uma pessoa ante o desvelamento \nde sua própria mortalidade a partir da constatação da morte \nou do adoecimento mortal de uma outra pessoa. Qual \nalternativa melhor descreve essa atitude?",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Inglês",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "O enfrentamento heroico do absurdo existencial contido na \nmorte.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "O respeito silencioso às tradições culturais voltadas ao \nmorrer.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A empatia antecipadora com os mortos, participando de \nsua dissolução existencial.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A fuga acalmadora, que encobre o sentido existencial da \nmortalidade.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "A\n perda da sensibilidade, de modo a nem mesmo poder \nperceber a ocorrência da morte.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

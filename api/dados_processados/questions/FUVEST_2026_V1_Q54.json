@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q54",
+    "edital": "FUVEST",
+    "numero": 54,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Nossa forma de governo não entra em rivalidade com as \ninstituições dos outros. Nosso governo não copia o de nossos \nvizinhos, mas é um exemplo para eles. É verdade que somos \nchamados de democracia, pois a administração está nas \nmãos de muitos e não de poucos. Mas, enquanto existe justiça \nigual para todos e igualmente em suas disputas privadas, a \nreivindicação de excelência também é reconhecida; e quando \num cidadão é de alguma forma distinto, ele é preferido para o \nserviço público, não como uma questão de privilégio, mas \ncomo recompensa do mérito. Nem a pobreza é um obstáculo, \npois um homem pode beneficiar seu país, seja qual for a \nobscuridade de sua condição. Não há exclusividade em \nnossa vida pública, e em nossos negócios privados não \nsuspeitamos uns dos outros [...]. Enquanto estamos assim \nsem restrições em nossos negócios privados, um espírito de \nreverência permeia nossos atos públicos; somos impedidos \nde fazer o mal pelo respeito às autoridades e às leis, tendo \numa consideração especial por aquelas que são ordenadas \npara a proteção dos prejudicados, bem como por aquelas leis \nnão escritas. \nTucídides. Oração Fúnebre de Péricles. University of Minnesota. Human \nRights Library. Richard Hoocker, 1996. Adaptado. \n \nO excerto, que pretende reproduzir o discurso fúnebre de \nPéricles (século V a.C.) na Guerra do Peloponeso,",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Física",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "equipara os comportamentos privados às condutas \npúblicas.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "oferece uma visão crítica da democracia representativa.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "reproduz a opinião da época sobre a política nas pólis \ngregas.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "enaltece a democracia como \nmarca da superioridade \nateniense.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "defende que todas as pessoas tenham igual acesso a \ncargos públicos.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

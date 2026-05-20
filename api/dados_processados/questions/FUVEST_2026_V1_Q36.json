@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q36",
+    "edital": "FUVEST",
+    "numero": 36,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Para realizar o cálculo da diferença de altitude (altura) entre \ndois pontos A e B, localizados no terreno, um técnico utilizou \numa Estação Total (ET), equipamento usado para medir a \ndiferença entre níveis de pontos distintos. Ele posicionou o \nequipamento, que tem 1,6 m de altura, em um ponto M, \nequidistante na horizontal dos pontos A e B, a 40 m de cada \num, nos quais estão os prismas de leitura (miras), conforme a \nfigura a seguir: \n \nImagem sem escala \n \nAdmitindo-se que o ângulo de inclinação descendente, 𝛼஺, é \n7° e o ângulo de inclinação ascendente, 𝛼஻, é 5° e que a leitura \nno prisma, ℎ஻, no ponto B foi de 3,60 m, determine a diferença \nde altitude (altura), em metros, entre os pontos A e B.",
+    "descricao": "Note e adote: \n 𝑡𝑎𝑛(5°) ≅ 0.087 e 𝑡𝑎𝑛(7°) ≅ 0.122 \n#####",
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Geografia",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "1,60",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "2,80",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "3,16",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "3,96",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "4,80",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

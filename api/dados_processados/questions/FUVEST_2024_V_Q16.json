@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q16",
+    "edital": "FUVEST",
+    "numero": 16,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "A partir da leitura de Dois irmãos, com o foco na questão da \npaternidade de Nael, narrador do romance, pode-se afirmar:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa e Literatura",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "Nenhum dos dois irmãos assumiu a paternidade de Nael, \nnem Nael os reconheceu como pais.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "Nael é filho de Rochiram, de quem ganha a casa no fundo \ndo terreno para escrever suas memórias.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "N a e l g o s t a r i a q u e Y a q u b f o s s e s e u p a i , p e l o s p r o j e t o s e \nvisão de mundo que compartilhava com ele.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A cena final do romance, na qual Omar e Nael se \nencontram, confirma a paternidade de Omar.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Embora não quisesse ter tido filhos, Halim é o pai de Nael, \nOmar e Yaqub.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

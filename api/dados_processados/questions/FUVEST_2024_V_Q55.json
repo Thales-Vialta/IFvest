@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q55",
+    "edital": "FUVEST",
+    "numero": 55,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "C o m o i l u s t r a d o p e l a f o t o , o g e r a d o r d e V a n d e G r a a f , \nequipamento popular em parques de ciência, permite o \nacúmulo de cargas elétricas em uma cúpula metálica. A \ndistribuição de cargas na cúpula de um desses geradores, \nquando ninguém a toca, pode ser considerada esférica. Dois \ndesses geradores, A e B, estão separados por uma certa \ndistância. O gerador A contém uma carga +𝑄, e o gerador B, \numa carga +2𝑄, com 𝑄>0 . \nEntre as alternativas, assinale aquela que melhor corresponde \nao vetor campo elétrico resultante produzido pelos geradores \nno ponto médio P entre eles.",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Física",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "→",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "↑",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "←",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "↓",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "nulo",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

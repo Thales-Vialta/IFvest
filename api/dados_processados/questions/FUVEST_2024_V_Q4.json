@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q4",
+    "edital": "FUVEST",
+    "numero": 4,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "No anúncio, o segmento “won’t bestow mega-buck prices” \nindica",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa e Literatura",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "a tentativa de angariar fundos para patrocinar artistas \niniciantes.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "a falta de incentivo dos museus a pintores vanguardistas.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "a possibilidade de redução dos valores financeiros de \nobras de arte consagradas.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "a ausência de qualidade artística de quadros tradicionais.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "a crise financeira vivida por galerias de arte famosas.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

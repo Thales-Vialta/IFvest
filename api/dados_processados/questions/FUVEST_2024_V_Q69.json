@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q69",
+    "edital": "FUVEST",
+    "numero": 69,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "A partir do cladograma apresentado, que expressa algumas \nrelações filogenéticas entre vertebrados, é correto afirmar \nque",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Biologia",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "a lampreia é o ancestral comum de todos os vertebrados \nincluídos no cladograma.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "o tubarão surgiu da lampreia e deu origem aos \nvertebrados tetrápodes.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "os peixes (lampreia e tubarão) possuem um ancestral \ncompartilhado com os tetrápodes.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "o lagarto é mais proximamente relacionado ao tubarão \nque ao ser humano.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "o ser humano é o mais evoluído dentre todos os \nvertebrados incluídos no cladograma.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

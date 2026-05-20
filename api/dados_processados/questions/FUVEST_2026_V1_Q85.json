@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q85",
+    "edital": "FUVEST",
+    "numero": 85,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "A figura a seguir representa nichos ecológicos de duas \nespécies que utilizam um dado recurso ambiental em comum \ne de forma semelhante. \n \nÉ correto afirmar que a área N representa",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Matemática",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "uma região de sobreposição de nichos, na qual pode \nocorrer competição intraespecífica e interespecífica.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "uma área fictícia, já que, por definição, nicho é algo \nexclusivo de uma espécie e não pode se sobrepor a outro \nnicho.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "o conceito de habitat, que corresponde ao local em que \nduas ou mais espécies distintas coabitam.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "o próprio recurso compartilhado pelas duas espécies de \nforma simétrica e equilibrada.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "o surgimento de um outro nicho, no qual os organismos ali \npresentes podem evoluir, originando uma nova espécie.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

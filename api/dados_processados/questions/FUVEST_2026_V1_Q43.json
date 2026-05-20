@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q43",
+    "edital": "FUVEST",
+    "numero": 43,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Imagem ilustrativa da exposição imersiva de Van Gogh. \n \nNos últimos anos, exposições imersivas têm atraído um \npúblico amplo ao proporcionar experiências sensoriais e \nvisuais baseadas em obras de artistas consagrados, muitas \ndelas com trilha sonora, narração de cartas e projeções em \naltíssima definição. Contudo, parte da crítica especializada \ntem problematizado essa tendência de oferecer vivências \nmultissensoriais que buscam envolver o visitante por \ncompleto. As críticas apontam implicações relacionadas à \nnatureza da experiência estética, à espetacularização da arte, \nao patrocínio corporativo e ao sucesso de público mediado \npelas redes sociais. A crítica de arte Sheila Leirner, por \nexemplo, comenta: \n \nFica como se O Jardim das Delícias, A Tentação de Santo \nAntônio (telas de Hieronymus Bosch) e outras preciosidades \ncomo as frutas de Giuseppe Arcimboldo ou as festas \ncampestres de Brueghel fossem ilustrações ou decorações \npara a grandiloquência artificial e sensacionalista de um show \nde cabaré. Certo, pode ser muito bonito, mas será que estas \nmaravilhas pictóricas (em si) precisam de “efeitos especiais” \npara que cheguemos a elas? Até mesmo uma pequena \nreprodução em cartão postal pode ser mais fiel à nossa \npercepção... \nDisponível em https://sheilaleirnerblog.wordpress.com/. \n \nCom base nas informações e discussões apresentadas, \nassinale a alternativa que expressa a análise crítica mais \nfundamentada sobre o fenômeno das exposições imersivas:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Inglês",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "Embora promovam amplo acesso à arte, exposições \nimersivas tendem a diluir o conteúdo crítico e histórico das \nobras em favor de uma experiência sensorial voltada ao \nentretenimento, o que pode comprometer o potencial \nformativo e reflexivo da fruição estética.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "A tecnologia empregada nas exposições imersivas \npermite que o público se aproxime mais intensamente do \nprocesso criativo dos artistas, oferecendo uma \nreconstrução autêntica e historicamente precisa de suas \nintenções originais.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Ao integrar projeções em alta definição, trilhas sonoras e \nambientes cenográficos, as chamadas exposições \nimersivas potencializam a percepção visual das obras, \ndemonstrando que a experiência estética pode ser \nintensificada por meios artificiais sem prejuízo de seu valor \ncultural.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A crítica especializada, conforme mencionado, \ndesconsidera o valor pedagógico das exposições \nimersivas, pois, ao recorrerem a recursos de \nentretenimento, essas mostras democratizam o acesso à \narte e ampliam o repertório visual do público geral.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "O êxito de exposições imersivas no circuito internacional \ncomprova a crescente obsolescência do modelo \ntradicional de museu e sinaliza uma necessária ruptura \ncom a ideia de contemplação silenciosa e introspectiva \ndas obras.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

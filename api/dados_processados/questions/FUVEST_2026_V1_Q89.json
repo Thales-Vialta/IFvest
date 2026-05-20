@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q89",
+    "edital": "FUVEST",
+    "numero": 89,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "A família de Neide fazia questão de conservar o pomposo \nsobrenome, “Paranhos”, herdado dos tempos da escravatura. \nA manutenção do nome dos descendentes dos antigos \ncolonizadores, cuja família era tradicional na cidade, para o \nclã descendente de africanos escravizados, ganhara um \nsentido de enfrentamento aos brancos “Paranhos”. Para além \nde ser um destino histórico, era uma velada reivindicação de \numa fortuna familiar dos brancos, que em grande parte era de \npertença dos negros “Paranhos”. \nConceição Evaristo. Canção para ninar menino grande. \n \nNo excerto, o uso do mesmo nome por uma família branca e \numa família negra indica",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Matemática",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "a ascensão social dos “Paranhos” negros após o fim da \nescravidão, alcançada por meio dos programas \ngovernamentais de ajuda a ex-escravizados, e a \ndecadência dos “Paranhos” brancos trazida pela crise do \ncafé.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "o racismo expresso nas ações e decisões das instituições \npolíticas monárquicas, provenientes do período colonial, e \na manutenção da dominação socioeconômica dos \n“Paranhos” negros pelos “Paranhos” brancos.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "a persistência de um vínculo desigual entre as famílias, \noriundo do período da escravidão, e um esforço dos \n“Paranhos” negros de afirmar sua participação no \nenriquecimento dos “Paranhos” brancos.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "o esforço de construção de uma ordem social harmoniosa, \ndesenvolvida durante a Primeira República, e a \npersistência de ressentimentos e rivalidades pessoais \nentre os “Paranhos” brancos e os “Paranhos” negros.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "a dependência financeira dos “Paranhos” negros em \nrelação aos “Paranhos” brancos, provocada por sua \ncondição de escravizados, e a valorização da mistura \nracial como característica de formação do povo brasileiro.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

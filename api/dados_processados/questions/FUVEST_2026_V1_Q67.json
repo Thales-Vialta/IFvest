@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q67",
+    "edital": "FUVEST",
+    "numero": 67,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "A espectrometria de massas, utilizada para a identificação das \nproteínas no estudo apresentado no texto, é uma técnica que \npermite determinar com precisão a massa molecular de \nmoléculas carregadas. A determinação da massa exata da \nmolécula é feita a partir do conhecimento da sua carga e da \nrazão massa/carga (m/z), parâmetro que influencia no \nmovimento das espécies, permitindo sua determinação. Caso \na carga das moléculas seja unitária, a razão m/z é \nnumericamente igual à massa da espécie a ser identificada. \nCaso a carga seja 2, a razão m/z detectada é metade da \nmassa da molécula. \nA imagem a seguir representa, na forma de um gráfico, o \nresultado de uma análise por espectrometria de massas de \numa amostra pura contendo apenas uma espécie intacta com \nfórmula molecular [C44H69NO12Ca]2+ e massa exata, \nconsiderando os isótopos mais abundantes, de \n843,444 g/mol, detectada como m/z 421,722. \n \n \nA presença de outros sinais além do sinal de m/z 421,722, \nmesmo em uma amostra pura não contendo nenhuma outra \nespécie além do [C44H69NO12Ca]2+, deve-se",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Química",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "à presença de outros isótopos menos abundantes e mais \npesados de átomos presentes na molécula.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "às espécies com cargas unitárias que possuem massa \nmaior.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "à presença de outros isótopos mais abundantes e mais \npesados de átomos presentes na molécula.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "à carga do cálcio, que faz\n com que a espécie detectada \ntenha mais de uma massa molecular.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "à presença de outros isótopos menos abundantes e mais \nleves de átomos presentes na molécula.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

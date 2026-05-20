@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q75",
+    "edital": "FUVEST",
+    "numero": 75,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "O m a p a a s e g u i r r e t r a t a o N o r d e s t e d a Á f r i ca e a P e n í n s u l a \nArábica, no século IV. \nCARNINE, Douglas et alii. World History: Ancient through Modern Times. \nEvanston, IL: McDougal Littell, 2009. Adaptado. \nConsiderando as rotas comerciais representadas no mapa, \npelas quais se transportavam, por exemplo, cereais, marfim e \nescravizados, e que envolviam sociedades antigas, em especial \nos reinos de Axum, Cuxe e Egito, é correto afirmar que",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Biologia",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "o c o m é r c i o p r a t i c a d o n o n o r d e s t e d a Á f r i c a i s o l a v a a \nregião de outras áreas do continente.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "os comerciantes do Egito participavam apenas de rotas \ncomerciais marítimas.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "as atividades mercantis do Reino de Axum conectavam o \nMediterrâneo ao Oceano Índico.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "as rotas terrestres e marítimas na África e na Península \nArábica não se conectavam umas às outras.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "a cidade de Berenice se colocava como obstáculo ao \ncomércio do Mediterrâneo com o interior da África.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

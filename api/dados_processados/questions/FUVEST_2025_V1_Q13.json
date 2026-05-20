@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q13",
+    "edital": "FUVEST",
+    "numero": 13,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "As formas de colonização ibérica e inglesa na América foram, \ndurante muito tempo, consid eradas processos isolados, \nestruturados em dois modelos opostos: as colônias de \nexploração e as de povoamento, respectivamente. No \nentanto, elas constituíram um emaranhado de experiências \ncompartilhadas pelos impérios atlânticos. Os aspectos \ncomuns a essas formas de colonização foram a",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa e Literatura",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "partida dos colonizadores da metrópole, da qual saíram \npor fatores religiosos, e a adoção do trabalho livre como \nbase da produção.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "dominação e a exploração dos povos originários e o \nemprego sistemático do tr abalho forçado dessas \npopulações.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "introdução de colonos se m interesse na ocupação \ndemográfica e o objetivo exclusivo da extração de riquezas \nminerais.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "produção local organizada em pequenas propriedades e a \nutilização primordial da força de trabalho familiar.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "falta de interesse metropolitano pela exploração comercial \ne a inexistência de benefícios financeiros para a metrópole.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

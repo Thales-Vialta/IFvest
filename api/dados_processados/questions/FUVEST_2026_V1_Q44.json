@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q44",
+    "edital": "FUVEST",
+    "numero": 44,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Paul Cézanne. A montanha de Sainte-Victoire, 1904. \n \nAssim também o gênio de Cézanne consiste em fazer com \nque as deformações de perspectiva, pela disposição de \nconjunto do quadro, deixem de ser visíveis por si mesmas na \nvisão global e contribuam apenas, como ocorre na visão \nnatural, para dar impressão de uma ordem nascente, de um \nobjeto que surge a se aglomerar sob o olhar. (...) O desenho \ndeve então resultar da cor, se se quer que o mundo seja \nrestituído em sua espessura, pois é uma massa sem lacunas, \num organismo de cores, através das quais a fuga da \nperspectiva, os contornos, as retas, as curvas instalam-se \ncomo linhas de força, pois é vibrando que a órbita do espaço \nse constitui. \nMerleau-Ponty. A dúvida de Cézanne. \n \nMerleau-Ponty, filósofo francês do século XX, dedicou um \nespaço importante em sua filosofia à reflexão sobre a pintura \ne, em particular, à obra de Paul Cézanne. \nCom base na proposição do filósofo e na observação da tela \ndo artista, é correto afirmar que cabe à expressão por meio da \npintura",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Inglês",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "encontrar uma forma de representação pictórica que se \nsobreponha ao mundo visível.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "retratar a realidade, explicitando suas deformações de \nperspectivas.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "fazer aparecer a espessura do mundo, especialmente pela \nênfase à cor.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "deixar o mundo se revelar, sem o recurso técnico a \nqualquer mediação.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "destacar a cor sobre o desenho, para fazer aparecer as \nperspectivas.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

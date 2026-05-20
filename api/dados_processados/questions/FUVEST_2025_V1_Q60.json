@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q60",
+    "edital": "FUVEST",
+    "numero": 60,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "As massas de duas barras, uma de ferro e outra de aço \ninoxidável, armazenadas em um mesmo ambiente úmido e na \npresença de oxigênio, foram monitoradas ao longo do tempo. \nAssinale a alternativa que representa a variação das massas \nde ambas as barras ao longo do tempo. \n Ferro Aço inoxidável",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Química",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

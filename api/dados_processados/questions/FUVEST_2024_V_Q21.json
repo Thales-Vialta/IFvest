@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q21",
+    "edital": "FUVEST",
+    "numero": 21,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "Um estudante (FV), intrigado com a escala de pH entre 0 e 14, \nperguntou a um sistema de inteligência artificial (IA) sobre a \npossibilidade de existirem valores negativos de pH, conforme \ndescrito na figura: \nA resposta fornecida pelo sistema de inteligência artificial está",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "História",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "errada, pois pH negativo refere-se à concentração de H\n+ \nmaior que 1 mol/L, resultando em um valor de pH menor \nque zero.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "correta, pois pH negativo refere-se à concentração de OH− \nmaior que 1 mol/L, resultando em um valor de pH menor \nque zero.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "correta, assim como é possível existir pH maior que 14 em \nsoluções com concentração de H\n+ maior que 14 mol/L.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "errada, pois a escala de pH é fixa entre 0 e 14, \nindependentemente da concentração de H+.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "correta, pois o pH tende a diminuir e tornar-se negativo \nem soluções com concentração de íons H\n+ extremamente \nbaixa.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q52",
+    "edital": "FUVEST",
+    "numero": 52,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Em 19 de setembro de 2023, o Azerbaijão lançou uma ofensiva contra a autoproclamada República de Nagorno-Karabakh (RAHK \nou Artsakh), um território povoado por armênios sob bloqueio desde dezembro de 2022. Em 28 de setembro de 2023, a RAHK \nanunciou sua dissolução, que entrou em vigor a partir de 1º de janeiro de 2024, após mais de três décadas de existência não \nreconhecida. Em agosto de 2025, o governo norte americano propôs que a rota de transporte estratégica turco-azerbaijana seja \ncontrolada pelos EUA, por 99 anos. Essa proposta ainda está em curso, devido à oposição do Irã. \n \n \nReconfiguração geopolítica do Cáucaso (2023). Atlas Géopolitique Mondial, 2025. Adaptado. \n \nCom base no texto, na legenda do mapa e em seus conhecimentos, assinale a alternativa que explica os motivos da ofensiva do \nAzerbaijão contra os armênios.",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Física",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "O território armênio invadido pelo Azerbaijão é estratégico para o comércio de gás e petróleo com a Turquia e a União Europeia \n(UE) e\n há um projeto estratégico de transporte, no sul do território invadido, que permitirá uma rota de petróleo, gás e fluxo \ncomercial.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "O território no sul da Armênia é de interesse do Irã devido às reservas de hidrocarbonetos, causando vários conflitos com o \nAzerbaijão, que, ao defender a Armênia, cria enclaves de proteção territorial, resguardando as rotas comerciais até Ierevan, a \ncapital da Armênia.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "As bases militares de vários países estão concentradas no território armênio, que é disputado pela Turquia, Estados Unidos da \nAmérica e Rússia, sendo este último interessado na rota Nagorno-Karabakh, por ser estratégica ao escoamento de sua produção \nde gás e petróleo para a UE.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "O conflito entre Armênia e Azerbaijão força a Turquia a ter neutralidade e, ao mesmo tempo, permite o funcionamento dos \ngasodutos (TANAP) e oleodutos (BTC), a partir do controle que ela tem das rotas, dos pontos de passagem fechados e das \nbases militares.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "No conflito entre Armênia e Azerbaijão, o corredor de transporte estratégico ao sul do Azerbaijão, associando a ferrovia, escoa \ntoda a sua produção de petróleo, gás e fluxo comercial, conectando o território de Nagorno-Karabakh à Turquia e à área \nocupada pela Armênia.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

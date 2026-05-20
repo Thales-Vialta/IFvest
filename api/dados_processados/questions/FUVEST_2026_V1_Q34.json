@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q34",
+    "edital": "FUVEST",
+    "numero": 34,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "As cores das águas dos rios são resultado de transformações \nfísico-químicas, indicando fatores como os sólidos (material \ninorgânico) em suspensão (SIS) e o material orgânico \ndissolvido (MOD). A classificação científica das águas \namazônicas mais utilizada é a de Harald Sioli (1950), que \nidentificou três tipos: Brancas (alta concentração de SIS), \nPretas (alta concentração de MOD) e Claras (baixas \nconcentrações de SIS e MOD). Pesquisas mais recentes que \nanalisam dados hidroquímicos têm indicado uma composição \nquímica mais variada nas águas amazônicas, dividindo os rios \nda região também em dois tipos intermediários: A (subtipo das \náguas claras) e B (subtipo que está entre as águas brancas e \npretas). \n \nPrincipais rios da Região Hidrográfica Amazônica \n \n \nAtlas da Amazônia Brasileira, 2025. Adaptado. \n \nA partir das informações do mapa e do texto, assinale a \nalternativa correta.",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Geografia",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "As águas Pretas com alto teor orgânico na Amazônia são \nprovenientes dos processos erosivos e localizam-se em \náreas de Terras Pretas de Índio, o que caracteriza a \ncoloração escura exclusiva da sub bacia do Rio Negro, \ndiferindo\n das demais regiões amazônicas.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A baixa concentração de SIS e MOD nas águas Claras é \nresultado dos garimpos ilegais na Amazônia, devido à \nutilização de mercúrio e dos agrotóxicos nos cultivos da \nsoja nas regiões onde há maior desmatamento.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A classificação intermediária do tipo A tem características \nhidroquímicas alteradas devido ao impacto direto e \nindireto de mudanças no uso do solo, além de grandes \nprojetos de infraestrutura em toda parte norte-oriental da \nbacia amazônica.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "As águas intermediárias tipo B, com baixa concentração \nSIS e MOD, localizadas sobretudo no Baixo Amazonas, \npossuem essas características devido às mudanças no \nuso do solo nas últimas décadas e por ser uma área com \nmuitos igarapés.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "As águas Brancas, como as do Rio Solimões, com alta \nconcentração de SIS, têm essas características \nhidroquímicas devido aos processos erosivos de regiões a \nmontante, como, por exemplo, as nascentes do rio \nAmazonas na Cordilheira dos Andes.",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

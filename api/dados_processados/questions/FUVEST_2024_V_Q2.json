@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q2",
+    "edital": "FUVEST",
+    "numero": 2,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "Considerando o enfoque do texto na denúncia social, o eu \nlírico revela, predominantemente,",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa e Literatura",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "a crítica às reações da nossa sociedade frente aos \nproblemas que ficaram no passado.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "as justificativas para a segregação social no mundo \ncontemporâneo.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "a s t e n s õ e s s o c i a i s p r e s e n t e s h á t e m p o s , s o b a l u z d o s \nembates do momento atual.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "a importância de contornar os problemas sociais do \npassado.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "as peculiaridades das diferentes classes sociais ao \nenfrentar os problemas sociais atuais.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

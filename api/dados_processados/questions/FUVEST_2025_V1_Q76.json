@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q76",
+    "edital": "FUVEST",
+    "numero": 76,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Considere um cilindro 𝐶 de altura ℎ൐ 0 e cujo raio das \ncircunferências, do topo e da base, é 𝑟൐ 0; um cilindro 𝐶ଵ \ncujo raio é igual ao de 𝐶 e altura igual a \n௛\nଶ; e um cilindro 𝐶ଶ \ncom altura ℎ e raio igual a \n௥\nଶ. \nSendo 𝑉, 𝑉ଵ e 𝑉ଶ os volumes e 𝐴, 𝐴ଵ e 𝐴ଶ as áreas laterais dos \ncilindros 𝐶, 𝐶ଵ e 𝐶ଶ, respectivamente, é correto afirmar:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Biologia",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "𝑉ൌ𝑉 ଵ൅𝑉ଶ e 𝐴ൌ𝐴 ଵ൅𝐴ଶ",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "𝑉ൌ𝑉 ଵ൅𝑉ଶ e 𝐴ൌ𝐴 ଵ൅2𝐴ଶ",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "𝑉ൌ𝑉 ଵ൅2𝑉ଶ e 𝐴ൌ𝐴 ଵ൅2𝐴ଶ",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "𝑉ൌ𝑉 ଵ൅2𝑉ଶ e 𝐴ൌ𝐴 ଵ൅𝐴ଶ",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "𝑉ൌ 2𝑉ଵ൅2𝑉ଶ e 𝐴ൌ 2𝐴ଵ൅2𝐴ଶ",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q42",
+    "edital": "FUVEST",
+    "numero": 42,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "Considere os textos a seguir sobre o campo magnético \nterrestre, essencial para a manutenção da vida no planeta: \n“O campo magnético é o resultado do movimento do ferro \nlíquido que envolve o núcleo interno do planeta, formado de \nferro sólido. Ao girar a uma velocidade maior que aquela da \nsuperfície, o ferro líquido produz um campo magnético com \ndois polos magnéticos opostos, próximos aos polos Norte e \nSul geográficos.”\n(1) \n“O campo magnético do planeta, porém, não é estável e vem \nenfraquecendo continuamente desde pelo menos 1832, \nquando o físico e matemático alemão Carl Friedrich Gauss \naferiu pela primeira vez sua intensidade. De lá para cá, \nmedições mais frequentes e precisas confirmam que a \nintensidade diminui à taxa de 17 nanoteslas (nT) por ano – o \ncampo tem 66 mil nT nos polos e 22 mil nT sobre uma faixa do \nhemisfério Sul que vai da África à América do Sul.”\n(2) \nFontes: \n(1) O norte da questão, Revista Pesquisa FAPESP, junho de 2018. Adaptado. \n(2) Uma falha no campo magnético da Terra passeia sobre o Brasi l, Revista \nPesquisa FAPESP, maio de 2021. \nC o m b a s e n o s t e x t o s e n a f i g u r a a p r e s e n t a d o s e n o s s e u s \nconhecimentos, é correto afirmar que:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Inglês",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "A variação da intensidade do campo magnético terrestre \nao longo da linha do Equador é menor do que 10−6 T.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "O campo magnético terrestre é constante em módulo ao \nlongo do meridiano de Greenwich.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "O campo magnético terrestre é uniforme e esférico, tal \ncomo o campo gerado por um dipolo magnético.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Embora atualmente o campo magnético terrestre tenha \nintensidade maior nas regiões dos polos, esta é \nconsideravelmente menor na região do Brasil e adjacências.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "A geração do campo magnético é naturalmente explicada \npor uma distribuição estática de cargas no núcleo interno \ndo planeta.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

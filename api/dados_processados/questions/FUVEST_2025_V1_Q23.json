@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q23",
+    "edital": "FUVEST",
+    "numero": 23,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Considere o texto a seguir. \n \nThe Event Horizon Telescope Collaboration. \n“Com observações feitas pela primeira vez em luz \npolarizada, a nova imagem do buraco negro que se esconde \nno coração da Via Láctea revelou um campo magnético com \numa estrutura muito semelhante à de outro buraco negro \nsituado no centro da galáxia M87, sugerindo que campos \nmagnéticos intensos podem ser comuns a todos os buracos \nnegros. \nA luz é uma onda eletromagnética que nos permite ver \nobjetos. Por vezes, os campos elétrico e magnético associados \nà onda oscilam em direções preferenciais, definindo o que \nchamamos de luz polarizada. Apesar de estarmos rodeados \npor luz polarizada, aos olhos humanos essa luz é indistinguível \nda luz dita ‘normal’. No plasma que rodeia estes buracos \nnegros, as partículas que giram em torno das linhas de campo \nmagnético conferem-lhe um padrão de polarização com \norientação na direção perpendicular ao campo magnético do \nburaco negro, o que permite aos astrônomos ver com muitos \ndetalhes o que se passa nas regiões dos buracos negros e \nmapear as suas linhas de campo magnético.” \n“Astrônomos descobrem campos magnéticos em espiral nas bordas de \nburaco negro da Via Láctea”, Jornal da USP 29/03/2024. Disponível em \nhttps://jornal.usp.br/ciencias/ (Adaptado). \nCom base no texto e em seus conhecimentos, é correto \nafirmar:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "História",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "A medida do padrão de polarização da luz mencionada no \ntexto permite somente o mapeamento das linhas de \ncampos magnéticos na direção paralela à direção da \npolarização.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "O olho humano pode discriminar as diferentes direções da \nluz polarizada dos buracos negros, mapeando suas linhas \nde campo.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Campos magnéticos como os mencionados no texto são \ncriados apenas por cargas elétricas em repouso no plasma \nque rodeia os buracos negros.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "O plasma é formado por partículas eletricamente \ncarregadas, dado que essas partículas exibem um \nmovimento circular perpendicular à direção do campo \nmagnético.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "O processo de mapeamento das linhas de campo \nmagnético mencionado no texto pode ser realizado por \nmeio da detecção de qualquer tipo de onda \neletromagnética gerada em buracos negros.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

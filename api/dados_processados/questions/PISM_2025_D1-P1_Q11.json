@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "PISM_2025_D1-P1_Q11",
+    "edital": "PISM",
+    "numero": 11,
+    "tipo_ou_cor": "D1-P1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Fixe os seguintes números reais :a = π , b = 3\ne c = 3,2.\nAssinale a alternativa que representa a ordenação\ndos númerosa, b e c na reta real I R:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Matemática",
+    "tags": [
+      "PISM",
+      "2025",
+      "D1-P1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "a b c",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "b a c",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "b c a",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "a = b c",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "b a = c",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

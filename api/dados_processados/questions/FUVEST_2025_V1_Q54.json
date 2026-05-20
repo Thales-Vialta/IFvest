@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q54",
+    "edital": "FUVEST",
+    "numero": 54,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "“A distribuição dos mosquitos, a frequência de suas picadas e \no tempo de eclosão de seus ovos são afetados pela \ntemperatura, pluviosidade e velocidade do vento, além de \noutros fatores, como deslocamento e densidade \npopulacionais. Por exemplo, com uma temperatura de 27 °C, \no período de incubação dos ovos é de dez dias; no entanto, a \n37 °C, esse período passa a se r de sete dias. Além disso, a \nintermitência das chuvas no final da estação do verão e os \nventos calmos acentuam a proliferação e a atuação do vetor.” \nMENDONÇA, Francisco de Assis. Aquecimento Global e Saúde: uma \nperspectiva geográfica – notas introdutórias. Terra Livre, 2003 (Adaptado). \nCom base no texto, assinale a alternativa correta.",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Física",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "A elevação da temperatura e o aumento da pluviosidade, \nsomados ao desmatamento, à urbanização e à circulação \nde pessoas em várias áreas, potencializam a expansão da \ndengue.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "A dengue é um problema nacional e está relacionada ao \nfato de o Brasil ser um país tropical com áreas de florestas, \naspectos que, combinados à dispersão da população, \ncontribuem para minimizar a epidemia.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A proliferação do mosquito Aedes aegypti ocorre em \náreas pouco povoadas nos cent ros urbanos, associada às \nbaixas temperaturas que intensificam a transmissão da \ndoença.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "No território brasileiro, as áreas com baixas temperaturas \nreduzem o tempo necessário para eclosão dos ovos, \naumentando a proliferação do mosquito Aedes aegypti e \na frequência de picadas.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A dengue é um problema de saúde pública em escala \nmundial e sua disseminação está associada à diminuição \nde temperatura, aumento da velocidade do vento e \nredução da precipitação.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

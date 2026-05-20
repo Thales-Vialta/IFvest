@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q90",
+    "edital": "FUVEST",
+    "numero": 90,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Quando no dia seguinte, também no final da tarde, Fio \nJasmim se dirigiu para a pequena joalheria, ele pensou em ser \nmais cuidadoso ao pronunciar qualquer nome de mulher perto \nde Dolores dos Santos. Quando contou o incidente para os \ncompanheiros maquinistas, os mais velhos riram dele e \nperguntaram qual o motivo de ele estar tão preocupado com \na pequena distração cometida. Nem ele sabia bem o porquê. \nEntretanto, não gostava de pronunciar o nome da esposa para \noutras mulheres. A de casa é santa, pensava ele. Se ele \ntivesse dito pelo menos Juventina, seria mais fácil explicar. \nAssustado com o próprio pensamento, Fio Jasmim não \nentendia o que estava se passando com ele. Estaria por acaso \npensando em alguma conquista? Ouvira dizer que ela era uma \nmulher namoradeira, mas que não parava com homem algum, \ntinha um gênio indomável. Todas essas considerações não lhe \nimportavam, não estava interessado na mulher. Mas e se ela \nestivesse interessada nele... \nConceição Evaristo. Canção para ninar menino grande. \n \nNo romance de Conceição Evaristo, Fio Jasmim, por meio de \nsuas viagens, é o elo que agrega as várias personagens \nfemininas que se relacionam com ele. De acordo com essa \nconsideração, Fio Jasmim",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Matemática",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "atende a uma forma de masculinidade que rompe com os \nestereótipos, expressando uma identidade inovadora e \ndesvinculada das expectativas sociais.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "relaciona-se com as personagens femininas de maneira \nigualitária e com respeito mútuo, que não correspondem \nàs dinâmicas de poder desiguais.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "reproduz uma masculinidade estereotipada por meio de \natitudes que, em larga medida, atendem às expectativas \nsociais e culturais, reproduzindo estereótipos do gênero.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "resiste a expectativas internas e externas, o que subverte \num esperado comportamento masculino.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "sente culpa e arrependimento por seu comportamento \ncom mulheres, apesar de reforçar ideais de virilidade e \ndominação do estereótipo da masculinidade.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

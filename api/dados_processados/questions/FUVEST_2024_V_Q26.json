@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q26",
+    "edital": "FUVEST",
+    "numero": 26,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "Nas embalagens de lâmpadas d e LED atuais, está indicada \numa “temperatura de cor” (expressa na escala Kelvin), que \nc o r r e s p o n d e à t o n a l i d a d e d a l u z e m i t i d a p e l a l â m p a d a . A \n“temperatura de cor” não indica a temperatura de operação \nda lâmpada, servindo apenas como uma referência da cor \npredominante da radiação eletromagnética termicamente \nemitida por um corpo a essa dada temperatura. \nA densidade () de energia eletromagnética irradiada é \nfunção do comprimento de onda  da luz emitida. As curvas \npresentes nos gráficos das alternativas mostram () dividida \np e l o s e u v a l o r m á x i m o (𝜆୫á୶). O máximo de cada curva \ncorresponde ao comprimento de onda 𝜆୫á୶ predominante da \nluz irradiada. \nCom base nessas informações, assinale a alternativa que \napresenta o gráfico que melhor corresponde à situação em \nque a cor predominante da luz irradiada seja amarela.",
+    "descricao": "Note e adote: \nVelocidade da luz no vácuo: 3×1 0 ଼ m/s. \nCores associadas a frequências de luz visível: \n Cor Frequência aproximada (Hz) \nVermelha 4,4 x 1014 \nAmarela 5,0 x 1014 \nVerde 6,0 x 1014 \nAzul 6,3 x 1014 \nVioleta 7,5 x 1014",
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "História",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

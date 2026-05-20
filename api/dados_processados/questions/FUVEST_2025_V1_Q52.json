@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q52",
+    "edital": "FUVEST",
+    "numero": 52,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "As enchentes ocorridas no Rio Grande do Sul, em maio de \n2024, prejudicaram a infraestrutura de comunicação. A \npopulação afetada era informada sobre as notícias relativas às \nenchentes ao sintonizar, por rádio de pilhas, frequências de \nonda AM, cujo alcance é maior. \nUma onda AM é modelada matematicamente por equações \nque envolvem a função cosseno, cuja variável independente é \no tempo t, que aparece multiplicado pela frequência f da \nonda. \nComo exemplo, pode-se considerar a equação referente ao \nprocesso de modulação de uma onda AM: \n𝑠ሺ𝑡ሻൌ𝐴 ሾ1 ൅𝑘 𝑚ሺ𝑡ሻሿcos ሺ2𝜋 𝑓 𝑡ሻ , \nem que 𝐴 é a amplitude, 𝑓 a frequência, 𝑘 a constante da \nsensibilidade à amplitude e 𝑚ሺ𝑡ሻ o sinal que contém a \ninformação. \nQuando a frequência f é multiplicada por 3, o comprimento \nda onda sofre alteração. Por causa dessa multiplicação, qual \ntransformação ocorre no gráfico da função cosseno original?",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Física",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "Expansão vertical.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Translação horizontal.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Expansão horizontal.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Contração horizontal.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "Contração vertical.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

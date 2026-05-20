@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "PISM_2025_D1-P1_Q19",
+    "edital": "PISM",
+    "numero": 19,
+    "tipo_ou_cor": "D1-P1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Atualmente, o Brasil tem sofrido com longos per´ ıodos\nde seca no norte do pá ıs e grandes enchentes na região\nsul. Assim, a água potável no nosso dia a dia tem se\ntornado cada vez mais importante para a população.\nDurante o processo de tratamento de água para a\nprodução de água potável,",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Química",
+    "tags": [
+      "PISM",
+      "2025",
+      "D1-P1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "a etapa de desinfecção gera um precipitado que\nmata os microorganismos.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "galhos, folhas, terra e outras impurezas são se-\nparados da água na etapa de desinfecção.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "o flúor é adicionado com a finalidade de eliminar\nmicroorganismos, como as bactérias.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "ocorrem várias etapas, entre elas a floculação, a\ndecantação e a destilação.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "o sulfato de alum´ ınio é utilizado para formar flo-\ncos com part´ ıculas de impurezas.",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

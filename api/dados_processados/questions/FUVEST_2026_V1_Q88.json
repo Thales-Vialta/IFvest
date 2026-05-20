@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q88",
+    "edital": "FUVEST",
+    "numero": 88,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Entre 1810 e 1850 os debates acalorados giraram em torno \ndo fim do tráfico internacional, da sua legislação, da sua \nrepressão, num impressionante vaivém, ou na famosa \nexpressão: “Para inglês ver”. Até que o comércio internacional \nde almas fosse extinto em 1850, e na verdade alguns anos \ndepois, muita pressão externa foi necessária. O fim do tráfico \nnão significou a abolição da escravidão, que ainda \npermaneceria forte por quase quarenta anos. \nLilia M. Schwarcz e Flávio Gomes. “Apresentação”. In: Dicionário da \nescravidão e liberdade. São Paulo: Companhia das Letras, 2018. \nAdaptado. \n \nDe acordo com o excerto, é correto afirmar:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Matemática",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "O fim do tráfico internacional de escravizados em 1850 \nimplicou a substituição da mão de obra africana pela \nindígena.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Os importadores de escravizados foram duramente \nprejudicados com a promulgação da lei Feijó de 1831.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Os debates parlamentares entre os anos\n 1810 e 1850 \ndefendiam formas de indenização aos proprietários.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "O fim do tráfico internacional após 1850 favoreceu o tráfico \ninterprovincial.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "Os apelos internacionais pela abolição do tráfico \nrevelavam os interesses de imigrantes europeus.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

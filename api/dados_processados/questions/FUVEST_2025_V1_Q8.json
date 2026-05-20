@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q8",
+    "edital": "FUVEST",
+    "numero": 8,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "“Eu não venero a criação mais do que o Criador, mas venero a \ncriatura criada como eu sou, adotando a criação de maneira \nlivre e espontânea, de modo que Ele possa elevar nossa \nnatureza e nos tornar partícipes de Sua natureza divina. Sendo \nassim, eu me atrevo a fazer uma imagem do Deus invisível não \ncomo invisível, mas como tendo se tornado visível por nossa \ncausa, tornando-se carne e sangue. Eu não faço uma imagem \nda divindade imortal. Eu pinto a carne visível de Deus, pois é \nimpossível representar o espírito e ainda mais Deus, que dá \nvida ao espírito.” \nJohn Damascene. On holy images. Disponível em \nhttps://www.gutenberg.org/files/49917/ (Adaptado). \nNessa citação, João Damasceno (675-749), monge e teólogo \ncristão do período medieval, dirige-se contra o movimento \niconoclasta ao",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa e Literatura",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "colocar a criatura no mesmo nível do Criador.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "reduzir a divindade a seus elementos materiais.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "identificar a imagem visível com a natureza divina.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "negar o dogma da divindade de Jesus Cristo.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "justificar a veneração de imagens sagradas.",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

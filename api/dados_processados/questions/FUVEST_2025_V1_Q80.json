@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q80",
+    "edital": "FUVEST",
+    "numero": 80,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Leia o excerto a seguir de A Ética Protestante e o Espírito do \nCapitalismo, de Max Weber. \n“Temos de nos emancipar da seguinte visão: que se pode \ndeduzir a Reforma das transformações econômicas como algo \n‘necessário em termos de desenvolvimento histórico’. Por \noutro lado, não se deve de forma alguma defender uma tese \ntão disparatadamente doutrinária que afirmasse que o \n‘espírito capitalista’ pôde surg ir somente como resultado de \ndeterminados influxos da Reforma. \nEm face da enorme barafunda de influxos recíprocos entre \nas bases materiais, as formas de organização social e política \ne o conteúdo espiritual das épocas culturais da Reforma, \nprocederemos tão-só de modo a examinar de perto se, e em \nquais pontos, podemos reconhecer determinadas ‘afinidades \neletivas’ entre certas formas da fé religiosa e certas formas da \nética profissional. Por esse meio serão elucidados o efeito \nque, em virtude de tais afinidades eletivas, o movimento \nreligioso exerceu sobre o desenvolvimento da cultura \nmaterial.” \nWEBER, Max. A Ética Protestante e o Espírito do Capitalismo. São Paulo: \nCompanhia das Letras, 2004, p.82-83 (Adaptado). \nA partir da ideia expressa no excerto acerca da relação entre \no desenvolvimento do capita lismo e alguns elementos da \ndoutrina calvinista, é correto afirmar que",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Matemática",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "as ideias calvinistas impulsionaram o capitalismo e \nlevaram os comerciantes germânicos a buscar a \nacumulação irrestrita de capitais.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "o crescimento acelerado dos mercados consumidores \nfacilitou, no século XVI, a ac eitação das ideias calvinistas \npelos banqueiros e negociantes europeus.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "as condições materiais, so ciais e políticas da Europa \nCentral contribuíram, no século XVI, para a expansão do \ncapitalismo e para a repressão do calvinismo.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "a união entre os comerciantes contra o Sacro Império \nRomano Germânico e contra o Papado determinou a \nadoção de práticas capitalist as e calvinistas na Europa \nmedieval.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "a defesa calvinista do trabalho árduo e o estímulo ao \ncomportamento austero do crente tiveram impactos \npositivos na formação de condutas adequadas ao \ndesenvolvimento do capitalismo.",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

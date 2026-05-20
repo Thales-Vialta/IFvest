@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q16",
+    "edital": "FUVEST",
+    "numero": 16,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "A construção de uma rampa que seja acessível a usuários de \ncadeira de rodas deve seguir a norma ABNT NBR 9050. Esse \ndocumento regulamenta a inclinação que a rampa deve ter a \ndepender do desnível máximo de cada segmento de rampa, \nconforme o seguinte quadro: \nInclinação e desnível máximo de cada segmento de rampa \nDesnível h (em m) Inclinação i admissível (em %) \n1 ൏ℎ൑ 1,5 5 \n0,8 ൏ℎ൑ 1 5 ൏𝑖൑ 6,25 \n0 ൏ℎ൑ 0,8 6,25 ൏𝑖൑ 8,33 \nAcessibilidade a edificações, mobiliário, espaços e equipamentos urbanos. \nDisponível em https://www.prefeitura.sp.gov.br/cidade/ (Adaptado). \nA inclinação 𝑖 da rampa em porcentagem (%) é calculada \ndividindo a altura ℎ do desnível do segmento da rampa, em \nmetros, pelo comprimento da projeção horizontal 𝑐, em \nmetros, e multiplicando o resultado por 100. A figura a seguir \nmostra uma rampa de dois segmentos. \n \nDeterminada rampa de dois segmentos foi construída da \nseguinte maneira: \n- o primeiro segmento possui projeção horizontal de 10 m e \ninclinação de 6%; \n- o segundo segmento possui projeção horizontal de 7 m e \ndesnível de 0,5 m. \nCom base no que foi apresentado sobre a normativa, o que é \ncorreto afirmar sobre a adequação dessa rampa à norma de \nacessibilidade?",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa e Literatura",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "A rampa não está adequada, pois os dois segmentos não \nestão de acordo com a norma.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A rampa está adequada, pois os dois segmentos estão de \nacordo com a norma.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A rampa não está adequada, pois o primeiro segmento \nnão está de acordo com a norma.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "A rampa não está adequada, pois o segundo segmento não \nestá de acordo com a norma.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A rampa está adequada, pois, apesar de o segundo \nsegmento não estar de acordo com a norma, o primeiro \nestá.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

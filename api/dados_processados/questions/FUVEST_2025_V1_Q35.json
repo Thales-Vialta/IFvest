@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q35",
+    "edital": "FUVEST",
+    "numero": 35,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "“Ele vê o gesto do advogado Dr. Otávio Conti, no café, \nmetendo a mão no bolso, tirando uma cédula de cem mil-\nréis e entregando-a ao Duque: ‘— Vá levantar esta letra. Você \nme devolve depois.’ Não é bem caridade... Ele não sabe \nexplicar... Há nisso um certo tom de versatilidade... de \nfacilidade... de um tal ou qual afrouxamento do caráter... Ele \nvê o Andrade tirando, com o gesto do Dr. Otávio Conti, a \n‘mesma’ cédula do bolso e entregando-lha ... A casa \naristocrática acha-se perto. A numeração já está em quase \ntrezentos. Uma pequena aragem que sopra levemente nesta \nparte alta da rua passa-lhe pelas mãos e esfria-as ... O seu \ncorpo suado fica como que um bloco gelado e dá-lhe a \nsensação de que se encolhe, se retrai dentro da sua roupa \nquente e assoleada, que dela se despega como duma \ncarapaça. Ao mesmo tempo o coração, que batia lá no fundo \ndo peito, veio palpitar bem à superfície, quase à flor da pele, \nmeio engasgando-o.” \nDyonélio Machado. Os ratos. \nDentre as frases em destaque, a que caracteriza os efeitos \nfisiológicos em Naziazeno da re ação de luta ou fuga pela \nativação do sistema nervoso simpático é:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Geografia",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "Ele vê o gesto do advogado Dr. Otávio Conti, no café, \nmetendo a mão no bolso, tirando uma cédula de cem mil-\nréis e entregando-a ao Duque.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Ele não sabe explicar... Há nisso um certo tom de \nversatilidade... de facilidade... de um tal ou qual \nafrouxamento do caráter...",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Ele vê o Andrade tirando, com o gesto do Dr. Otávio Conti, \na “mesma” cédula do bolso e entregando-lha...",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Uma pequena aragem que sopra levemente nesta parte \nalta da rua passa-lhe pelas mãos e esfria-as.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Ao mesmo tempo o coração, que batia lá no fundo do \npeito, veio palpitar bem à superfície, quase à flor da pele, \nmeio engasgando-o.",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

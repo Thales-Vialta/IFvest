@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q71",
+    "edital": "FUVEST",
+    "numero": 71,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "P a r a e s f r i a r u m c o p o c o n t e n d o 2 5 0 m L d e á g u a f e r v e n t e \n(100°C), é comum utilizar o seguinte método: \nPasso 1. Colocar esse copo \ndentro de uma vasilha em \ncontato com 1 litro de água à \ntemperatura ambiente (25°C), \ncomo mostrado na figura. \nPasso 2. Esperar que entrem \nem equilíbrio térmico. \nPasso 3. Tirar o copo e trocar a água da vasilha por outro litro \nde água à temperatura ambiente. \nPasso 4. Colocar o copo em contato com a água “nova” e \nesperar que entrem em equilíbrio térmico. \nA p ó s o p a s s o ( 4 ) d e s s e m é t o d o , a t e m p e r a t u r a d a á g u a n o \ncopo será aproximadamente:",
+    "descricao": "Note e adote: \nConsidere apenas trocas de calor \ne n t r e a á g u a n o c o p o e a á g u a n a \nvasilha. Despreze quaisquer trocas de \ncalor do sistema com o ambiente.",
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Biologia",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "14\n°C",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "28°C",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "40°C",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "60°C",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "84°C",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

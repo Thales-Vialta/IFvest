@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q78",
+    "edital": "FUVEST",
+    "numero": 78,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Disponível em https://andertoons.com/math/cartoon/7359/. \nContribui para o efeito de comicidade do cartum a",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Biologia",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "atitude do docente diante da apatia do grupo, incapaz de \nproduzir uma resposta.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "certeza do aluno em seu argumento, desafiando a \nautoridade do professor.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "interpretação por parte do discente de símbolos \nmatemáticos ligados à teoria dos conjuntos.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "adoção pelo professor de duas formas semelhantes e \neficazes de resolver a mesma equação.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "rivalidade entre os colegas para determinar quem possui \nmais conhecimento.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

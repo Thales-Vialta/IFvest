@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q30",
+    "edital": "FUVEST",
+    "numero": 30,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "Para gerar hidrogênio, foi utilizado o aparato ilustrado na \nfigura. \nDurante o processo de geração de H2\nApós o processo de geração de H2 \nAo frasco à esquerda adicionou-se uma quantidade pré-\ndeterminada de raspas de zinco metálico e ácido clorídrico. \nEm seguida, o frasco foi fechado com uma rolha conectada a \numa tubulação. À medida que o hidrogênio é produzido pela \nreação Zn\n0(s) + 2H+(aq) → Zn 2+(aq) + H 2(g), o gás se acumula \ne m u m a p r o v e t a p r e v i a m e n t e c h e i a d e á g u a . D a d o q u e a \nsolubilidade do hidrogênio na á gua é desprezível, o volume \nocupado pelo gás na proveta corresponde ao volume de \nhidrogênio produzido durante a reação. \nConsiderando que, nas condições do experimento, foram \ngerados 49,8 mL de hidrogênio, qual a quantidade de Zn \nmetálico, em gramas, que de fato reagiu?",
+    "descricao": "Note e adote: \nVolume molar do gás ideal nas condições do experimento = 24,9 L. \nMassa molar do Zn = 65,4 g/mol.",
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Geografia",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "0,07",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "0,13",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "0,26",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "0,29",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "0,48",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

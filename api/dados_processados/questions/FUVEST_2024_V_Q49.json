@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q49",
+    "edital": "FUVEST",
+    "numero": 49,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "No Código de Obras e Edificações da Prefeitura de São Paulo, \nencontra-se a regulamentação para vagas de estacionamento \nem um edifício para diferentes tipos de veículos. De acordo \ncom o código, as dimensões de uma vaga de estacionamento \nsão estabelecidas de acordo com o tipo de veículo, conforme \na seguinte tabela: \nTabela: Dimensões das vagas de estacionamento em função do tipo \nde veículo (medidas em metros). \nCódigo de Obras e Edificações da Prefeitura de São Paulo. Adaptado. \nNa figura a seguir, é apresentada parte de um projeto de \ngaragem para um edifício. Foram projetadas vagas para \nautomóveis e uma vaga para moto, no formato de \nparalelogramo, com ângulo α de medida 60°. \nObservação: A imagem não está em escala. \nA p ó s a v a g a d a m o t o , r e s t o u u m e s p a ç o n a g a r a g e m . O s \nresponsáveis pela obra estão avaliando a possibilidade de \ncolocar algum objeto que possa ser utilizado pelos \ncondôminos do edifício. Qu a l a m e d i d a d o s e g m e n t o \ndestacado (tracejado) nesse espaço?",
+    "descricao": "Note e adote: \ncos (60°) = 0,5 ; sen (60°) = √ଷ\nଶ",
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Física",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "0,75 m",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "1,15 m",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "1,25 m",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "2,20 m",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "2,25 m",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

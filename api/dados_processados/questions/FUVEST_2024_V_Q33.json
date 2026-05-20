@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q33",
+    "edital": "FUVEST",
+    "numero": 33,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "Uma empresa farmacêutica produz certo medicamento, o \nqual é formado por quatro componentes, conforme indicado \nna tabela I. O custo do grama de cada um dos componentes \ndesse medicamento também é apresentado nessa tabela. \nTabela I \nComposição do \nmedicamento \nQuantidade \n(em mg) \nCusto \n(em R$/g) \nComponente A 200 700 \nComponente B 70 500 \nComponente C 130 300 \nComponente D 100 120 \nPara a produção do próximo lote do medicamento, a empresa \nt e r á u m g a s t o d i f e r e n t e p a r a f a b r i c á - l o , p o i s o s c u s t o s d e \nalguns componentes sofreram alterações, conforme mostra a \ntabela II. \nTabela II \nComposição do \nmedicamento \nVariação no \ncusto (em %) \nComponente A + 7 \nComponente B − 5 \nComponente C 0 \nComponente D + 10 \nQual é o aumento, em reais, no custo do medicamento?",
+    "descricao": "Note e adote: \nConsidere que os outros custos de \nprodução permaneceram inalterados.",
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Geografia",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "9,25",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "12,00",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "12,75",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "36,00",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "86,00",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

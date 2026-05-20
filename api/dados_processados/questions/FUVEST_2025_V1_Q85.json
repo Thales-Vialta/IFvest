@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q85",
+    "edital": "FUVEST",
+    "numero": 85,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "“Se a derrama for lançada, \nhá levante, com certeza. \nCorre-se por essas ruas? \nCorta-se alguma cabeça? \nDo cimo de alguma escada, \nprofere-se alguma arenga? \nQue bandeira se desdobra? \nCom que figura ou legenda? \nCoisas da Maçonaria, \ndo Paganismo ou da Igreja? \nA Santíssima Trindade? \nUm gênio a quebrar algemas? \nAtrás de portas fechadas, \nà luz de velas acesas, \nentre sigilo e espionagem, \nacontece a Inconfidência.” \nOs versos de Cecília Meireles, no Romanceiro da \nInconfidência, remetem",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Matemática",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "à insurreição promovida por maçons e reinóis, adeptos do \niluminismo, contra a cobrança do quinto real sobre a \nexploração de diamantes na Capitania de Minas Gerais.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "à possibilidade de sublevação motivada pela defesa da \nliberdade, por indivíduos de diferentes setores de Minas \nGerais, ante a ameaça de cobrança de impostos \nmetropolitanos.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "à disputa entre católicos apoiadores do recolhimento do \ndízimo nas Minas Gerais e republicanos defensores da \nsuspensão de impostos cobrados pelo Estado e pela Igreja.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "ao movimento de setores reacionários da sociedade \nmineira, responsáveis por conspirar contra os \nidealizadores da Conjuração e denunciar os seus planos de \nrevolução.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "à trapaça e delação, que fizeram parte da Conjuração e \nocorreram em razão das discrepâncias ideológicas dos \ndenunciantes em relação aos rebelados.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

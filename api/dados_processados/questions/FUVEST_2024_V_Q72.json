@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q72",
+    "edital": "FUVEST",
+    "numero": 72,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "U m p r o t ó t i p o d e m á q u i n a t é r m i c a c a s e i r a b a s e i a - s e n u m \nmotor de quatro etapas e pode ser construído com o auxílio \nde uma bomba de bicicleta, uma pequena câmara de pneu e \num aquecedor térmico. Na primeira etapa, o gás da câmara \nde pneu é comprimido adiabaticamente. Na segunda etapa, o \ngás é aquecido isovolumetricamente. Na terceira etapa, o gás \nsofre uma expansão adiabática e, finalmente, na quarta \netapa, um resfriamento isovolumétrico. \nAssinale a alternativa que melhor representa o diagrama \ncorrespondente a essa máquina térmica no plano \npressão (𝑝) 𝑥 volume (𝑉).",
+    "descricao": "Note e adote: \nDespreze efeitos de dilatação ou contração da câmara do pneu.",
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Biologia",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

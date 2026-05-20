@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q61",
+    "edital": "FUVEST",
+    "numero": 61,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "O gráfico a seguir representa a curva de biomassa e \nbiodiversidade em diferentes partes do globo. \nGRIGORIEV, A.A. The theoretical fundaments of modern physical Geography. \nIn: The interaction of sciences in the Earth, Moscou, 1968. Adaptado. \nSobre os ambientes do globo terrestre que podem ser \nexemplificados pelos dados demonstrados no gráfico, é \ncorreto afirmar que, onde o índice de aridez é igual a",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Química",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "1 e o balanço de radiação é igual a 70 kcal/cm\n2, a curva de \nbiomassa e biodiversidade atinge o ápice, caracterizando, \npor exemplo, o ambiente de uma floresta equatorial.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "2 e o balanço de radiação é igual a 40 kcal/cm2, é possível \ninferir os ambientes compostos por savanas ou cerrados, \ncom crescimento da curva de biomassa e biodiversidade.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "0 e o balanço de radiação é igual também a 0, encontram-\nse os ambientes desérticos muito quentes, a exemplo do \ndeserto do Saara.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "3 e o balanço de radiação é igual a 0, a curva de biomassa \ne biodiversidade indica exe mplo típico de ambiente \ntropical úmido.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "1,5 e o balanço de radia ção é igual a 55 kcal/cm\n2, a curva \nde biomassa e biodiversidade diminui, caracterizando os \nambientes com presença de neve eterna.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q56",
+    "edital": "FUVEST",
+    "numero": 56,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Aristóteles produziu aquela que é considerada a primeira \nclassificação dos organismos vivos, no mundo ocidental. Nela, \nconsiderou principalmente a existência de características \ncompartilhadas para dividir os seres vivos em distintas \ncategorias. Atualmente, a classificação dos seres vivos pauta-se \nno paradigma da Escola Filogenética (cladística). Tal escola",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Física",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "também realiza a análise de características compartilhadas \nentre os diferentes grupos de organismos, buscando \nidentificar ancestrais comuns e relações de parentesco entre \neles.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "busca as diferenças entre os grupos de seres vivos, \nagrupando-os exclusivamente com base nessas diferenças, \ndesconsiderando características compartilhadas.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "abandona os princípios aristotélicos e adota ideias que \npropõem que os seres vivos evoluem com o passar do tempo, \ntornando-se sempre melhores que as gerações anteriores.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "determina que os seres vivos se adaptam às condições do \nmeio em que vivem e produzem descendentes portadores \ndessas adaptações, de forma sucessiva.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "considera que características compartilhadas surgem \napenas por convergência adaptativa, ou seja, organismos de \nlinhagens diferentes, em um mesmo ambiente, podem \ndesenvolver características comuns.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

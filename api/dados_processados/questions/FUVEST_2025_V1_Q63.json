@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q63",
+    "edital": "FUVEST",
+    "numero": 63,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "A utilização de matrizes energéticas limpas, tais como aquelas \nque não aumentam a concentração de CO\n2(g) na atmosfera, é \nessencial para evitar a escalada das alterações climáticas \ncausadas pela emissão de gases de efeito estufa. Considere a \nproposta apresentada na figura a seguir para a produção de \numa matriz energética limpa. \n \n(I) Capturar o CO 2(g) atmosférico utilizando NaOH(aq) para formar \nNa2CO3(aq). (II) Tratar essa solução, na presença de um catalisador, \ncom H2(g) oriundo de fontes renováveis, para gerar CH 4(g), um gás \ncombustível. \nCom base nessas informações e em seus conhecimentos, \nassinale a alternativa correta.",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Química",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "O catalisador participa da reação de produção de metano \ne se decompõe em NaOH.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A combustão do CH 4 não emite CO 2, motivo pelo qual a \nproposta se configura como uma matriz energética limpa.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A proposta não representa uma matriz energética limpa, \npois a combustão completa de 1 mol de CH 4 emite mais \nCO2 do que o que é utilizado para a sua síntese.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A retirada de CO2 da atmosfera seria maior se a proposta \nde usar uma matriz energética limpa se resumisse \nunicamente em utilizar o H2 como combustível.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Em relação ao ciclo do carbono, a proposta é semelhante \nao uso do etanol como combustível veicular.",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

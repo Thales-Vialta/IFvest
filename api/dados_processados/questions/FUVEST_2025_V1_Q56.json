@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q56",
+    "edital": "FUVEST",
+    "numero": 56,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "O processo de mumificação usado pelos egípcios começava \ncom a retirada dos órgãos e desidratação do corpo utilizando \numa mistura natural, obtida em leito de lagos, de sais solúveis \nde sódio, como carbonato, hidrogenocarbonato, cloreto e \nsulfato. Após a desidratação, o corpo era preenchido com uma \nmistura de serragem e ervas aromáticas como canela, cássia, \nmirra e até mesmo cebola, que, por conterem álcoois e \naldeídos com propriedades anti microbianas, dificultavam a \ndecomposição do corpo. Por fim, o corpo era envolvido em \ntecido embebido em resinas insolúveis em água, como \nbetume ou óleo de cedro, que, após seco, formava uma \ncamada impermeabilizante. \nA partir dessas informações, assinale a alternativa correta.",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Física",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "Os sais de sódio menciona dos, por serem hidrofílicos, \nrepelem a água.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Propanona e hexano são exemplos de álcoois e aldeídos \nantimicrobianos.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Assim como o betume e ól eo de cedro, qualquer outro \ncomposto orgânico serviria como impermeabilizante.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Todo sal iônico poderia ser utilizado em substituição aos \nsais de sódio mencionados.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A impermeabilidade conferida pelas resinas se deve às \nsuas características apolares ou muito pouco polares.",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

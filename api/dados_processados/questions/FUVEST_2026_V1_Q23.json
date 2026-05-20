@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q23",
+    "edital": "FUVEST",
+    "numero": 23,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "No ano de 2024, o Atlas da Mata Atlântica identificou uma \nperda de 143,66 km2 de florestas maduras dentro do limite de \naplicação da Lei da Mata Atlântica. A área foi muito \nsemelhante à do ano anterior, com uma queda de apenas 2% \nna taxa de desmatamento de um ano para o outro, o que \ndenuncia a situação de vulnerabilidade do Bioma. Além da \nredução tímida, a taxa ainda está longe do menor \ndesmatamento já registrado desde a primeira edição do Atlas, \nem 1985: os 113,99 km2 observados no período de 2017 a \n2018. O gráfico apresenta a área de desmatamento e a \ntendência para a série histórica. \n \n \nDisponível em https://sosma.org.br/. Adaptado. \n \nAcerca das informações do texto e da análise do gráfico, é \npossível concluir que",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "História",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "a área de desmatamento apresenta ciclos sazonais em \nfunção da variabilidade natural do clima, \nindependentemente da atividade antrópica.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "os anos de 2017 e 2018 apresentaram áreas reduzidas de \ndesmatamento associadas à menor procura por \nmadeiras \nde áreas de silvicultura.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "os primeiros 15 anos de monitoramento (1985 a 1999) são \nmarcados por três períodos de elevação da área de \ndesmatamento.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "é possível observar uma redução consistente na área de \ndesmatamento da Mata Atlântica (km2/ano) ao longo de \ntoda a série histórica.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "há uma evolução crescente da área de desmatamento nos \nlimites da Mata Atlântica, em especial nos últimos 10 anos \nde monitoramento.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

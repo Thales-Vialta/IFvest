@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q25",
+    "edital": "FUVEST",
+    "numero": 25,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "Quando uma solução de NaCl é colocada em contato com uma \nchama, observa-se uma luz amarela (figura I). Quando esse \nmesmo experimento é realizado na presença de uma lâmpada \nde Na, a chama aparenta estar preta (figura II). \n(I) Chama na presença de \nsolução de NaCl. \n(II) Chama na presença de solução de \nNaCl, irradiada com lâmpada de Na. \nConsiderando que um material emite e absorve radiação em \num mesmo comprimento de onda, assinale a afirmação \ncorreta sobre o experimento.",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "História",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "Na figura (I), a chama é amarela devido à absorção de luz \npelos átomos de Na; enquanto, em (II), a chama está preta \nporque o Na deixa de absorver quando a chama é irradiada \npela lâmpada de sódio.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "N a f i gu r a (I ), a c h a m a é a m a r e l a p o r q u e e s t a é a co r d e \nqualquer chama; enquanto, em (II), a chama está preta \nporque o Na absorve a energia da chama.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "N a f i gu r a (I ), a c h a m a é a m a r e l a p o r q u e e s t a é a co r d e \nqualquer chama; enquanto, em (II), a chama está preta \ndevido à combustão incompleta.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Na figura (I), a chama é ama rela devido à emissão de luz \npelos átomos de Na; enquanto, em (II), a chama está preta \ndevido à combustão incompleta.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Na figura (I), a chama é ama rela devido à emissão de luz \npelos átomos de Na; enquanto, em (II), a chama está preta \np o r q u e o s á t o m o s d e N a d a c h a m a a b s o r v e m a l u z \nproveniente da lâmpada de Na.",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

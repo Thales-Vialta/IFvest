@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q37",
+    "edital": "FUVEST",
+    "numero": 37,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "A respeito dos contos “Nós matamos o Cão Tinhoso!”, “Dina”, \n“Papá, cobra e eu” e “Nhinguitimo”, de Nós matamos o Cão \nTinhoso!, é possível afirmar:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Geografia",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "Os narradores e os protagonistas são crianças.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "São narrados em primeira pessoa, por narradores-\nprotagonistas.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Os protagonistas são oprimid os socialmente, e a reação \ndeles não é endereçada aos opressores.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "São fábulas, e os protagonistas são animais.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "O espaço representado é o das grandes cidades \nmoçambicanas.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

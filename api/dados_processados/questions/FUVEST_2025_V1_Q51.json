@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q51",
+    "edital": "FUVEST",
+    "numero": 51,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "A figura a seguir representa a variação espacial da \ntemperatura do ar por tipo de área, considerando diferentes \npadrões de uso e ocupação do solo de um município. \nRevista Pesquisa FAPESP – Setembro/2023 (Adaptado). \nA explicação para as caract erísticas desse perfil de \ntemperatura do ar deve-se",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Física",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "à maior ocorrência de áreas verdes nas periferias, que \nabsorvem mais radiação solar e aquecem o ambiente, \nultrapassando os 32 °C.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "à maior absorção de radiaç ão solar nas áreas centrais das \ncidades, compostas em sua maioria por asfalto, vidro e \nconcreto.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "ao efeito de sombreamento dos edifícios nas áreas \ncentrais, com maior disponib ilidade de radiação solar e \ntemperaturas inferiores a 30 °C.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "à presença de áreas comerciais e residenciais ao longo de \ntodo perfil, que elevam a temperatura acima dos 32 °C e \nreduzem a umidade.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "à maior reflexão da radiação solar nas áreas centrais pelo \nasfalto, por apresentarem albedo menor que as \nsuperfícies vegetadas.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

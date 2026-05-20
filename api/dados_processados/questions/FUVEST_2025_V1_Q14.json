@@ -1,0 +1,75 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q14",
+    "edital": "FUVEST",
+    "numero": 14,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "“Brasileiros! (...) está conhecida nossa ilusão ou engano em \nadotarmos um sistema de governo defeituoso em sua origem, \ne mais defeituoso em suas partes componentes. As \nconstituições, as leis e todas as instituições humanas são \nfeitas para os povos e não os povos para elas. Eia, pois, \nbrasileiros, tratemos de constituirmos de um modo análogo \nàs luzes do século em que vivemos; o sistema americano deve \nser idêntico; desprezemos instituições oligárquicas, só cabidas \nna encanecida Europa.” \nANDRADE, Manoel de Carvalho Paes de. Manifesto de proclamação da \nConfederação do Equador. Apud TORRES, João Camillo de Oliveira. A \ndemocracia coroada: Teoria política do Império do Brasil. Petrópolis: Vozes, \n1964. p.522 (Adaptado). \nO excerto apresenta trecho do manifesto divulgado pelos \nrebeldes da Confederação do Equador (1824) e reage \nexplicitamente",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa e Literatura",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "à dissolução da Assembleia Co nstituinte e à outorga de \numa constituição elaborada pelo Conselho de Estado.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "ao distanciamento do governo brasileiro em relação à \nCoroa Portuguesa e à política europeia do período.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "ao caráter descentralizador do regime monárquico e ao \naumento da autonomia das províncias.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "ao poder exercido pelos produtores nordestinos de \nalgodão e pelos cafeicultores paulistas.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "à adoção de regime republicano pela Constituição e ao \nfechamento do parlamento nacional.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "aplicação imparcial e consisten te de princípios éticos e \nmorais.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "promoção de punições rigorosas para qualquer tipo de \ncrime.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "distribuição de recursos econômicos de maneira \nequitativa, com ênfase no coletivo.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "garantia de que todos recebam o que lhes é devido, \ncontemplando direitos individuais.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "proteção exclusiva dos direitos das minorias, aumentando \nsua visibilidade social.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

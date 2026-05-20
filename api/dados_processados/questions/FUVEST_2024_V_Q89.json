@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q89",
+    "edital": "FUVEST",
+    "numero": 89,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "“O preconceito linguístico é tanto mais poderoso porque, em \ngrande medida, ele é ‘invisív el’, no sentido de que quase \nninguém fala dele, com exceção dos raros cientistas sociais \nque se dedicam a estudá-lo. Pouquíssimas pessoas \nreconhecem a existência do preconceito linguístico, quem \ndirá a sua gravidade como um sério problema social.” \nBAGNO, Marcos. Preconceito linguístico: o que é, como se faz. Edições \nLoyola, São Paulo, 1999. \nCom base na leitura do texto, é possível depreender que o \npreconceito linguístico, apesa r de nocivo para a sociedade, \nmuitas vezes é despercebido. Nesse sentido, assinale a \nalternativa que apresenta um exemplo de preconceito \nlinguístico.",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Matemática",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "A língua falada é um instrumento de sobrevivência em \nsociedade.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A língua varia tão rapidamente quanto as mudanças que \nocorrem na sociedade.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Existem muitas maneiras de se expressar a mesma ideia.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Os habitantes de uma cidade grande não possuem \nsotaque na língua falada.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "Todo falante nativo de uma língua a conhece plenamente.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

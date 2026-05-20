@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q9",
+    "edital": "FUVEST",
+    "numero": 9,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Em meados do século XIX, Nísia Floresta publicou no Brasil \nseu Opúsculo Humanitário, uma ardente defesa da educação \ncomo meio para eliminar os obstáculos que impediam as \nmulheres de contribuir, em condições de igualdade com os \nhomens, com a sociedade brasileira. Para tanto, contrapõe o \nestado da educação das mulheres nas nações ditas civilizadas \ne cultas ao péssimo estado da educação, pública e privada, \nreligiosa e laica no Brasil, assumindo que a educação é uma \nexpressão do grau de civilização das nações e muito influente \nsobre sua moralidade. Meio século mais tarde, Émile Durkheim \ndedicou duas obras à educação escolar: Educação e \nSociologia e A Educação Moral. Nelas, o sociólogo francês \nconcebe a escola como um espaço de transmissão da \ncivilização às novas gerações por meio da sua socialização \nnos sentimentos, ideias e valores da sociedade, além da \npromoção da solidariedade com as múltiplas sociedades das \nquais participamos e com a humanidade como um todo. Ao \nfuncionar como uma forma de vinculação às normas sociais \npor meio de uma compreensão racional da moralidade que \nsubjaz a esses sentimentos, ideias e valores, a escola seria \ntambém um espaço de produção de autonomia. Mas, para que \nassim seja, esses sentimentos, ideias e valores deveriam ser \njustificáveis exclusivamente pela razão, sem invocar princípios \nreligiosos, que são exclusivistas. É correto afirmar que em seus \nescritos sobre educação, Durkheim e Floresta convergem ao",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa e Literatura",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "reafirmar a importância dos valores religiosos da \nsociedade na educação como um projeto moralizante, \nainda que critiquem a educação católica.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "conceber a\n educação das mulheres como manifestação \nde uma lei necessária do progresso das nações, \nexpressão do positivismo dos autores.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "indicar a função da escola de integrar seus estudantes às \nnormas e valores morais característicos de uma sociedade \npara permitir que com ela contribuam.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "justificar uma educação escolar segregada de grupos \nmenos integrados socialmente, como as mulheres, em \nvirtude de normas e valores da sociedade.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "defender uma educação com caráter cívico e nacionalista, \nque afirme a superioridade da nação e promova as glórias \nda civilização nacional.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "PISM_2025_D1-P1_Q15",
+    "edital": "PISM",
+    "numero": 15,
+    "tipo_ou_cor": "D1-P1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Deseja-se construir uma piscina retangular com lados\nmedindo x e y em um terreno. A parte do terreno dis-\npon´ ıvel para a construção da piscina tem o formato\nde um triângulo retângulo de lados 6, 8 e 10 me-\ntros. A piscina deve ser constrú ıda de forma que um\nde seus lados esteja sobre a hipotenusa do triângulo\nretângulo.\nQual é a área máxima poss´ ıvel do retângulo for-\nmado pela piscina?",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Matemática",
+    "tags": [
+      "PISM",
+      "2025",
+      "D1-P1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "24 m2",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "20 m2",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "16 m2",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "12 m2",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "8 m2\n’\nPágina 7 de 13\nQUÍMICA - OBJETIVAS\nA tabela perí odica se encontra dispon´ ıvel para\nconsulta no final da prova.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

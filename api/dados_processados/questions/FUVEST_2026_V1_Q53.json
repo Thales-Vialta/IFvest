@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q53",
+    "edital": "FUVEST",
+    "numero": 53,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "A anexação, definida como a incorporação unilateral de \nterritório de outro Estado, é proibida pela Carta das Nações \nUnidas e pelo direito internacional geral, que enfatizam a \nproibição do uso da força e o respeito à integridade territorial \ndos Estados (Carta da ONU, 1945). \n \n \nDisponível em https://www.parlamentomercosur.org. Adaptado. \n \nPartindo da carta da ONU e do mapa, é possível indicar que \nse refere",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Física",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "à invasão das tropas venezuelanas à área que pertence a \nfronteira norte do Brasil, contrariando o Acordo de \nGenebra.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "à retomada de áreas da região de Essequibo, pelo \nSuriname, que foram invadidas pelo exército \nvenezuelano \nna crescente tensão com a Guiana.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "à anexação da região do rio Orinoco, rico em reservas \nminerais, pela Venezuela, conforme preconiza o Acordo de \nGenebra.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "aos novos limites definidos para o território da Venezuela \nem acordos com o Mercosul em conformidade com o \nProtocolo Porto de Espanha.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "à anexação da região de Essequibo pela Venezuela, \ncontrariando a Arbitragem de 1904 que determinou que a \nárea deveria ficar sob jurisdição da Guiana.",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

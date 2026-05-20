@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q6",
+    "edital": "FUVEST",
+    "numero": 6,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Para uma atividade de campo voltada à valorização do \npatrimônio histórico e cultural, professores de geografia \nlevaram seus estudantes a um parque temático de \nmonumentos geográficos. Eles visitaram a réplica de uma \npirâmide regular de base quadrada com vértice a 18 metros \nde altura em relação ao centro da base. As faces da pirâmide \nestão voltadas para as direções norte, sul, leste e oeste. Para \nacessar o vértice da pirâmide, os estudantes precisaram \npercorrer uma trilha de pedestre e subir a rampa localizada na \nface norte. A trilha compreende os lados oeste, sul, leste e \nmetade do lado norte do quadrado. Essa rampa está \nlocalizada exatamente no meio da face, ou seja, é o apótema \nda pirâmide. \nSabendo-se que o volume da pirâmide é de 864 m3, quantos \nmetros, aproximadamente, os estudantes tiveram que \npercorrer para chegar até o topo da pirâmide?",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa e Literatura",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "36",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "41",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "48",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "54",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "61",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

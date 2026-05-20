@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "PISM_2025_D1-P1_Q17",
+    "edital": "PISM",
+    "numero": 17,
+    "tipo_ou_cor": "D1-P1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "O solo tem, em sua composição, substâncias sólidas,\nl´ ıquidas e gasosas. Entre as substâncias gasosas estão\no gás carbônico, o óxido n´ ıtrico e o metano.\nSobre esses gases presentes no solo, assinale a al-\nternativa CORRETA.",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Química",
+    "tags": [
+      "PISM",
+      "2025",
+      "D1-P1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "A pecuáriá e uma atividade que contribui para a\npoluição do solo e do ar, devido, exclusivamente,\nà liberação de gás carbônico pelos animais.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "O gás carbônico, ao reagir com água e formar\num ácido, tem sua concentração diminú ıda, o\nque torna o solo mais fértil.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "O metano é um gás que, ao chegar à atmosfera,\npode contribuir para o efeito estufa, aumentando\na temperatura do planeta.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "O nitrogênio que forma o óxido n´ ıtrico tem pro-\npriedades diferentes daquele presente nos fertili-\nzantes.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "O óxido n´ ıtrico é um poluente espec´ ıfico do solo,\npois ele é produzido pelos microrganismos pre-\nsentes nele.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

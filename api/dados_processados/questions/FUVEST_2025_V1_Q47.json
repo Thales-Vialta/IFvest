@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q47",
+    "edital": "FUVEST",
+    "numero": 47,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "A figura a seguir representa os níveis médios de consumo de \ngordura saturada na dieta para adultos com idade ≥20 anos. \nMICHA, R. et al., (2014). British Medical Journal, v. 348. g2272. DOI: \n10.1136/bmj.g2272. \nConsiderando apenas os dados da figura, os habitantes da \nAustrália e da Rússia apresentam maiores riscos de \ndesenvolver doenças",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Inglês",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "renais.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "respiratórias.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "cardiovasculares.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "cerebrais.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "neuromusculares.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

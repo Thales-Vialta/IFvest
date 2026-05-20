@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q87",
+    "edital": "FUVEST",
+    "numero": 87,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Tecidos de Ijebu \n“Os ijebus vestem-se quase sempre com panos produzidos \npor eles próprios. São fazendas de algodão, matéria-prima \nque obtêm localmente. Nas famílias, as tarefas de colher \nalgodão, fiá-lo, tecê-lo e ting i-lo estão costumeiramente a \ncargo das mulheres, e sabe-se ser muito grande a quantidade \nde tecidos manufaturados em Ijebu e dali exportados, não \napenas para os países vizinhos, mas até mesmo para o Brasil, \ncujos navios vêm buscar em Lagos essa mercadoria tão \napreciada pela gente de origem africana transplantada para \naquela terra distante. As cores mais comuns, depois da branca \ne da azul, são a amarela, a vermelha, a carmesim e a verde. \nAlguns panos são de uma só cor, outros são multicoloridos.” \nOSIFEKUNDE. Notícia sobre o país e o povo dos Ijebus. In: COSTA E SILVA, \nAlberto. Imagens da África. São Paulo: Penguin, 2012. p.361. \nO texto é parte de um relato das memórias de um ex-\nescravizado natural de Ijebu, na atual Nigéria, trazido ao Brasil \nno início do século XIX. O excerto faz menção",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Matemática",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "à existência de um comércio de produtos manufaturados \nentre a África e a América.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "à prerrogativa masculina na produção de tecidos naquela \nregião da África.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "à baixa qualidade das manufaturas africanas em \ncomparação com as da Europa.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "à impossibilidade de acesso, por africanos e \nafrodescendentes, a produtos vindos da África.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "ao comércio de africanos escravizados para o trabalho nas \nplantações de algodão.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

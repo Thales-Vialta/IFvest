@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q57",
+    "edital": "FUVEST",
+    "numero": 57,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Em abril de 2025, uma empresa de biotecnologia anunciou que \nhavia criado lobos com características de lobos-gigantes, ou \ndire-wolves, uma espécie extinta há milhares de anos. Para isso, \na empresa obteve o genoma de lobos-gigantes e o comparou \ncom o genoma de lobos modernos. Com base nesta \ncomparação, foram feitas 20 modificações em 14 genes do \ngenoma do lobo moderno, utilizando tecnologias de edição \ngênica. Em seguida, o núcleo de uma célula de lobo moderno \ncontendo o DNA editado foi inserido em óvulos anucleados de \ncachorras. Por fim, os óvulos foram inseminados em cachorras, \npossibilitando a gestação. O resultado foi o nascimento de três \nfilhotes, dois machos e uma fêmea, que possuem pelagem \nbranca e espessa, além de um tamanho corporal maior, \nlembrando o fenótipo esperado de um lobo-gigante. \n \nDisponível em: https://colossal.com/. \n \nSe, no futuro, a empresa resolver acasalar estes filhotes, \nespera-se que a prole seja parecida com",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Física",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "cachorros, pois os óvulos utilizados para gerar os filhotes \né desta espécie.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "lobos-gigantes, uma vez que cada geração tenderá a ser \nmais parecida com a espécie extinta.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "lobos modernos selvagens, uma vez que as edições no \ngenoma não são hereditárias.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "lobos modernos modificados, pois os núcleos utilizados \npara gerar os filhotes são desta espécie.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "nenhuma espécie conhecida, pois os efeitos da edição \ngenética são imprevisíveis.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

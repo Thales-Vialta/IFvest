@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q41",
+    "edital": "FUVEST",
+    "numero": 41,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Na letra da música, o verso “Like you are a poet trapped inside \nthe body of a finance guy”",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Inglês",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "enaltece a romantização e idealização de épocas passadas.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "destaca o papel de contextos externos no manejo de \nfrustrações.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "expressa o sentimento de insatisfação ou inadequação em \nrelação às expectativas sociais.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "critica a revelação de segr edos e o rompimento de \nfronteiras pessoais.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "enfatiza a importância da sorte e de elementos culturais \ncomo mitos e rituais.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

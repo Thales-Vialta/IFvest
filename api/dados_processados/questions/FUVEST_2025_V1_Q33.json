@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q33",
+    "edital": "FUVEST",
+    "numero": 33,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "WASSENBERGH, Sam Van; MIELKE, Maia. Physics Today, vol. 77 (2024) \n(Adaptado). \nEm um estudo relatado no periódico Physics Today, cientistas \nbelgas mostraram que os pica-paus não dispõem de \nmecanismos de absorção de choques em seus ossos do crânio, \nao contrário do que se acreditava anteriormente. Nos \nexperimentos realizados, verificou-se que o cérebro de um \npica-pau pode experimentar desacelerações instantâneas de \naté 400 𝑔, sendo 𝑔 o módulo da aceleração da gravidade. \nSuponha que, durante uma batida em um tronco de árvore, o \ncrânio do pica-pau, suposto perfeitamente rígido, sofra uma \ndesaceleração constante de 200 𝑔 ao longo de um tempo de \n2,0 milissegundos. Qual é a distância percorrida pelo crânio do \npica-pau durante esse tempo, até atingir momentaneamente \no repouso?",
+    "descricao": "Note e adote: \nAceleração da gravidade: 𝑔 = 10 m/s2. \n#####",
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Geografia",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "2,0 mm",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "4,0 mm",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "8,0 mm",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "16 mm",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "32 mm",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

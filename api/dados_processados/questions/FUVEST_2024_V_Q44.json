@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q44",
+    "edital": "FUVEST",
+    "numero": 44,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "“Industrializar é uma condição de vida, é uma absoluta e \nimperiosa necessidade, é mesmo um dever de que já não está \nao nosso alcance declinar. Nem que o quiséssemos, não \npoderíamos sobreviver conservando-nos nação pastoril e \nagrícola, no velho estilo, exportando café e umas poucas \nmatérias-primas [...] Industrializar um país não é uma obra \nmágica que possa ser feita sem preparo, ao simples sopro de \numa aspiração. É necessário que exista uma mentalidade \nindustrial, um estado de espírito propício ao \ndesenvolvimento, é necessário que existam gerações \npreparadas para a ação.” \nOLIVEIRA, Juscelino Kubitschek de. I ndustrialização: batalha pela própria \nsobrevivênc\nia da nacionalidade. São Paulo: Serviço de Publicações da \nFederação e Centro das Indústrias do Estado de S. Paulo, 1957. p.9-10. \nA “mentalidade industrial”, proposta pelo então presidente \nJuscelino Kubitschek, concretiza-se em seu governo (1956-\n1961) sob a forma",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Inglês",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "de grandes investimentos na educação básica e na \nfundação de centros de pesquisa.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "de incentivos à diversificação e mecanização da produção \nagrícola.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "d a i m p l a n t a ç ã o d e f o r m a s racionais de organização do \ntrabalho.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "da ação governamental embasada em concepção \nnacionalista e trabalhista.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "de um projeto desenvolvimentista amparado por incentivos \ne captação de recursos estrangeiros.",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

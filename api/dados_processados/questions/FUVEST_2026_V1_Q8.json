@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q8",
+    "edital": "FUVEST",
+    "numero": 8,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "A escola não pode ignorar as diferenças sociolinguísticas. \nOs professores e, por meio deles, os alunos têm que estar bem \nconscientes de que existem duas ou mais maneiras de dizer a \nmesma coisa. E mais, que essas formas alternativas servem a \npropósitos comunicativos distintos e são recebidas de \nmaneira diferenciada pela sociedade. Os alunos que chegam \nà escola falando “nós cheguemu”, “abrido” e “ele drome”, por \nexemplo, têm que ser respeitados e ver valorizadas as suas \npeculiaridades linguístico-culturais, mas têm o direito \ninalienável de aprender as variantes de prestígio dessas \nexpressões. Não se lhes pode negar esse conhecimento, sob \npena de se fecharem para eles as portas, já estreitas, da \nascensão social. \nBORTONI-RICARDO, S. M. Nós cheguemos na escola, e agora? \nSociolinguística & Educação. São Paulo: Parábola, 2005. Adaptado. \n \nDe acordo com o texto, cabe aos professores",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa e Literatura",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "respeitar as variações linguísticas dos alunos, mas solicitar \nque eles utilizem a norma culta no ambiente escolar.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "incentivar o uso das variações regionais dos alunos, mas \nmostrar a eles que a escola recebe variantes de forma \npreconceituosa.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "respeitar as particularidades\n linguísticas dos alunos, mas \ndar a eles condições de aprender outras variantes.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "mostrar aos alunos que eles podem cometer erros em \nrelação ao uso de verbos, mas que isso pode ser \nprejudicial à ascensão social.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "ensinar aos alunos a norma padrão da língua, mas permitir \nque eles cometam erros para não serem excluídos pela \nsociedade.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

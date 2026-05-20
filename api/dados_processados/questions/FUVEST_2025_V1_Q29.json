@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q29",
+    "edital": "FUVEST",
+    "numero": 29,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Considerando os seres vivos atuais, as informações trazidas \npelo texto e os princípios da Teoria Sintética da Evolução, é \ncorreto afirmar que",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Geografia",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "as espécies necessariamente se adaptarão às novas \nmudanças do planeta.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "somente espécies de dias longos, ou seja, aquelas que \nprecisam de mais horas de luz, sobreviverão às mudanças \nprevistas.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "é difícil prever como se dará a evolução das espécies, \nporque esse é um processo mediado pelo acaso.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "nenhuma espécie sobreviverá às mudanças na Terra e \nnovas espécies surgirão em seu lugar.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "espécies aquáticas terão vantagem adaptativa sobre \nespécies terrestres, uma vez que todos os continentes \nsubmergirão com o derretimento das geleiras.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

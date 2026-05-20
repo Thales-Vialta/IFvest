@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q19",
+    "edital": "FUVEST",
+    "numero": 19,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "O efeito Compton, descoberto na década de 1920, é hoje \namplamente utilizado durante tratamentos radioterápicos. O \nefeito relaciona-se à mudança no comprimento de onda de \nfótons de raios X quando interagem com partículas como \nelétrons ou prótons, conforme ilustrado na figura a seguir. \n \nQuando um fóton com comprimento de onda 𝜆଴ incide sobre \numa partícula, ele emerge dessa interação formando um \nângulo 𝜃 com sua direção inicial de movimento, e seu novo \ncomprimento de onda 𝜆′ é dado pela relação \n𝜆ᇱൌ𝜆଴൅𝛼\n𝑚 ሺ1 െcos 𝜃ሻ, \nem que 𝛼 é uma constante positiva e 𝑚 é a massa da partícula. \nCom base nessas informações e em seus conhecimentos \nsobre a propagação das ondas eletromagnéticas, assinale a \nalternativa correta.",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "História",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "A maior variação no comprimento de onda do fóton ocorre \nquando o ângulo 𝜃 é igual a 90°.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Se o ângulo 𝜃 é igual a 30°, o fóton emergente tem \nfrequência menor do que a frequência inicial.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "Quando 𝜃 = 0, a velocidade do fóton emergente é menor \ndo que a do fóton incidente, devido à conservação da \nquantidade de movimento.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Se o ângulo 𝜃 é igual a 60°, a variação no comprimento de \nonda do fóton é menor se a partícula for um elétron do \nque se a partícula for um próton.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Um fóton que emergiu perpendicularmente à sua direção \ninicial não sofreu mudança em sua frequência.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

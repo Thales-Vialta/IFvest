@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q19",
+    "edital": "FUVEST",
+    "numero": 19,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Observe e analise a obra artística de Cildo Meireles: \n \n \nAnverso e reverso de Zero Cruzeiro, de Cildo Meireles. Acervo Fundação \nCultural Banco Itaú. \n \nEm Zero Cruzeiro, obra criada em 1978,",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "História",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "a assinatura reproduzida na nota é a do presidente do \nBanco Central e confere um efeito oficial e realístico à nota \nZero Cruzeiro.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "a indicação do valor nominal sugere a estabilização \neconômica promovida pelas políticas públicas da época \ncom a diminuição\n da inflação.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "a ilustração empregada na composição subverte o culto \ndos heróis nacionais e introduz a presença de pessoas \ncomuns e anônimas, com frequência desvalorizadas.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "a obra sugere a indistinção entre a criação artística e a \nnota de dinheiro, uma vez que ambas têm valor de troca.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "a imagem exalta a valorização de setores marginalizados \nque foram beneficiados com as políticas de inclusão social \nadotadas pelo regime militar.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

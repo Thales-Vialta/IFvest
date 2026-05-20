@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q11",
+    "edital": "FUVEST",
+    "numero": 11,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Em relação aos conectivos sublinhados no texto, é correto \nafirmar:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa e Literatura",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "seja...seja evidencia a dúvida das autoras quanto aos \ncampos afetados pelo cancelamento.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "que é utilizado para intensif icar o valor dos movimentos \nsociais na luta pela diversidade.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "sendo assim indica adesão autoral diante das formas de \nsanção aplicadas pelos agentes do cancelamento.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "mas sim ressalta a diferença entre como se pune na \ncultura do cancelamento e no direito penal.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "como introduz uma comparação entre distintas ações \npassíveis de gerar cancelamento.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

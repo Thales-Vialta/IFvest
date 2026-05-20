@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q58",
+    "edital": "FUVEST",
+    "numero": 58,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "A toxicidade do Pb e o risco de sua ingestão ganharam \nnotoriedade na mídia devido à presença desse elemento em \ncopos térmicos amplamente comercializados. A exposição ao \nPb, no entanto, pode ocorrer também por fontes naturais, \ncomo a ingestão de água em contato prolongado com \nminérios como a anglesita, rico em PbSO\n4 (Kps = 1,0 × 10 ꟷ8). \nSabendo que a legislação estabe lece a concentração máxima \nde Pb de 0,01 mg/L para água potável, assinale a alternativa \ncorreta em relação à ingestão de água que tenha contato \nprolongado com a anglesita.",
+    "descricao": "Note e adote: \nMassa molar (g/mol): Pb = 207 \n#####",
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Física",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "Não é segura, pois a concentração de Pb na água será de \n2,07×101 mg/L, maior que o valor permitido.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "É segura, pois a concentração de Pb na água será de \n1×10ꟷ4 mg/L, menor que o valor permitido.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Não é segura, pois a concentração de Pb na água será de \n1×10ꟷ8 mg/L, menor que o valor permitido.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "É segura, pois a concentração de Pb na água será de \n1×10ꟷ2 mg/L, igual ao valor permitido.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "É segura, pois a concentração de Pb na água será de \n2,07×10ꟷ6 mg/L, maior que o valor permitido.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

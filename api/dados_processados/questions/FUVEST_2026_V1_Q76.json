@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q76",
+    "edital": "FUVEST",
+    "numero": 76,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Considerando os valores de α registrados em 8000 Hz e \n500 Hz para esse paciente, qual a razão entre as intensidades \ndas ondas sonoras emitidas pelo audiômetro nessas duas \nfrequências?",
+    "descricao": "Note e adote: \nA relação entre o nível de intensidade sonora a(𝑓), em dB, e a \nintensidade 𝐼(𝑓) da onda sonora a uma frequência 𝑓 é dada por \na(𝑓) =1 0 logଵ଴ቀ\nூ(௙)\nூబ\nቁ \nonde 𝐼଴ é a intensidade do limiar da audição. \nObserve que, para 𝐼(𝑓) = 𝐼଴ , tem-se a = 10 log10(1) = 0 dB \n#####",
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Biologia",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "10\n2",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "103",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "104",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "105",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "106",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

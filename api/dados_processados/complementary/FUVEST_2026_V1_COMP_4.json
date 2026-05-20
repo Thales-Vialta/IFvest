@@ -1,0 +1,12 @@
+{
+  "metadados": {
+    "codigos_questoes": [
+      "FUVEST_2026_V1_Q62",
+      "FUVEST_2026_V1_Q63"
+    ]
+  },
+  "conteudo": {
+    "enunciado": "Texto para as questões 62 e 63 \n \nQuem viajou de avião já ouviu o famoso aviso: “Em caso de \ndespressurização da cabine, máscaras de oxigênio cairão \nautomaticamente acima do seu assento. Puxe uma das \nmáscaras, coloque-a sobre o nariz e a boca e respire \nnormalmente (...)”. Porém, ao invés de aviões conterem \ncilindros de oxigênio que alimentam as máscaras, esse gás é \ngerado por meio de uma reação química. No compartimento \nsobre cada passageiro encontra-se um reservatório contendo \num sal como o clorato de sódio (NaC,O3) que, ao se \ndecompor, produz oxigênio (O2), cloreto de sódio (NaC,) e \ncalor. O clorato de sódio é estável em temperatura ambiente, \ne sua decomposição só se inicia quando o passageiro puxa a \nmáscara, o que dispara um gatilho que gera calor suficiente \npara iniciar a reação que, então, se mantém autossuficiente \naté consumo total do reagente.",
+    "img_url": null
+  }
+}

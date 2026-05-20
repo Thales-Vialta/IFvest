@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q85",
+    "edital": "FUVEST",
+    "numero": 85,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "Números figurados são números que expressam o total de \npontos em certas configurações geométricas. Um exemplo de \nnúmeros figurados são os triangulares, os quais são números \nnaturais que podem ser representados geometricamente na \nforma de um triângulo. Os quatro primeiros números \ntriangulares estão ilustrados na figura I. Apesar de o número \n1 não representar um triângulo, ele é considerado um número \ntriangular. \n \nFigura I \nOutro exemplo de número figurado é o número oblongo, o \nqual representa o total de pontos de um quadro retangular \nem que o número de colunas é uma unidade a mais do que o \nnúmero de linhas. Os quatro primeiros números oblongos \nestão ilustrados na figura II. Apesar de o número 2 não \nrepresentar um quadro retangular, ele é considerado um \nnúmero oblongo. \n \nFigura II \nA respeito de números triangulares e números oblongos, \nassinale a alternativa correta.",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Matemática",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "162 é o 15º número triangular.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "O 13º número triangular é primo e o 30º número oblongo \né ímpar.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "156 não é um número oblongo, nem triangular.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "210 é um número triangular e oblongo.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "A diferença entre dois números triangulares consecutivos \nsão termos de uma progressão geométrica.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

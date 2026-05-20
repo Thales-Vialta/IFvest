@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q86",
+    "edital": "FUVEST",
+    "numero": 86,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "“Para praticar a agricultura, os tupis derrubavam árvores e \nfaziam a queimada – técnica que iria ser incorporada pelos \ncolonizadores. Plantavam f eijão, milho, abóbora e \nprincipalmente mandioca, cuja farinha se tornou também um \nalimento básico da Colônia. A economia era basicamente de \nsubsistência e destinada ao co nsumo próprio. Cada aldeia \nproduzia para satisfazer a suas necessidades, havendo poucas \ntrocas de gêneros alimentícios com outras aldeias. \nMas existiam contatos entre elas para a troca de mulheres e de \nb e n s d e l u x o , c o m o p e n a s d e t u c a n o e p e d r a s p a r a s e f a z e r \nbotoque. Dos contatos resultavam alianças em que grupos de \naldeias se posicionavam uns co ntra os outros. A guerra e a \ncaptura de inimigos – mortos em meio à celebração de um \nritual canibalístico – eram elementos integrantes da sociedade \ntupi. Dessas atividades, reservadas aos homens, dependiam a \nobtenção de prestígio e a renovação das mulheres.” \nFAUSTO, Boris. História do Brasil. São Paulo: Edusp, 2006. p.40. \nD e a c o r d o c o m o t e x t o , é c o r r e t o a f i r m a r q u e , n o p e r í o d o \ncolonial brasileiro, as sociedades pertencentes ao tronco \nlinguístico Tupi",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Matemática",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "praticavam o canibalismo devido à escassez de alimentos \nnas regiões em que viviam.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "desenvolviam uma cultura a grícola de subsistência que \nnão abolia a existência de sistemas de troca.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "cultivavam produtos agrícolas que deixaram de ser \nconsumidos após a chegada dos colonizadores.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "organizavam-se em unidades políticas autônomas, que \nevitavam contatos comerciais entre si.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "realizavam rituais em que homens e mulheres \ndesempenhavam funções idênticas.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

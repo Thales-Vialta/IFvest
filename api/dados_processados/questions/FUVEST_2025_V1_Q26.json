@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q26",
+    "edital": "FUVEST",
+    "numero": 26,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Atualmente 80% do comércio mundial transita pelos mares, principalmente em rotas que passam pelos Canais do Panamá e de \nSuez. Com a redução das calotas polares, novas rotas estão surg indo no Ártico. Mesmo com sua fragilidade ambiental, a região \npassou a ser uma nova fronteira para o comércio mundial. \nCarto Le monde en cartes, n.59, maio-junho 2020 (Adaptado). \nCom base no texto, na leitura do mapa e em seus conhecimentos sobre as rotas marítimas, assinale a alternativa correta.",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "História",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "A rota que liga os portos de Murmansk a Churchill é vantajosa em razão da facilidade de acesso e de não interferir na Zona\nEconômica Exclusiva, evitando conflitos territoriais.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Os percursos advindos das rotas Noroeste e Nordeste possibilit am maior estratégia geopolít ica dos países pertencentes à\nregião, que utilizam, para isso, todas as zonas turísticas como sítios para bases militares.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A rota Nordeste, que liga Roterdã a Shangai, aumenta a distância percorrida pelas frotas marítimas e ainda pode ser ameaçada\npela ampliação da cobertura de gelo no futuro.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A rota Noroeste, que liga Ásia a América, é percurso já consagrado pelo tráfego marítimo intenso, por sua menor distância e\npor percorrer muitos portos comerciais e bases militares.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "O fluxo comercial possibilitado pelas rotas Noroeste e Nordeste tende a se concentrar no Estr eito de Bering, reduzindo a\ndistância a ser percorrida em relação aos trajetos via Canais do Panamá e de Suez.",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q79",
+    "edital": "FUVEST",
+    "numero": 79,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "“A China enviou ontem navios de guerra e dezenas de caças \npara Taiwan, em retaliação a uma reunião entre a presidente \nd a i l h a , T s a i I n g - W e n , e o p r e s i d e n t e d a C â m a r a d o s \nDeputados do EUA, Kevin McCarty, na Califórnia”. \nO Estado de São Paulo, 08/04/2023. Adaptado. \nA reportagem faz alusão ao aumento das tensões geopolíticas \nentre China e Taiwan. Sobre esse tema, é correto afirmar:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Matemática",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "As tensões iniciaram-se no final de década de 1970, em \ndecorrência das mudanças políticas e econômicas \nperpetradas pelo então presidente chinês Deng Xiaoping, \nque resultaram na declaração de independência de \nTaiwan em relação à China.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Iniciadas ainda na primeira metade do século XX, as \ntensões entre China e Taiw an aumentaram desde então \nem decorrência da presença m ilitar dos EUA no território \ntaiwanês, o que contraria os interesses geopolíticos \nchineses na região.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "As tensões decorreram do aumento da influência russa \nsobre o território taiwanês, com foco na exploração do \npotencial mercado consumidor , considerado estratégico \npara o aumento das exportações do gás natural russo.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Com apoio soviético, Taiwan conseguiu independência do \nterritório chinês no final da década de 1960. Após o fim da \nG u e r r a F r i a , t o r n o u - s e u m a p o t ê n c i a t e c n o l ó g i c a , o q u e \nampliou o interesse geopolítico chinês na retomada desse \nterritório.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Taiwan é reconhecido como país independente pelos EUA \ne t e m e m e r gi d o n a r o t a d o s co n f l i t o s e n t r e o s go v e r n o s \nestadunidense e chinês, o que pode ser interpretado como \nindício do deslocamento do eixo geopolítico do mundo \npara o sudeste asiático.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

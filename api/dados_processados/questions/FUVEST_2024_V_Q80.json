@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q80",
+    "edital": "FUVEST",
+    "numero": 80,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "A figura mostra dados do Fundo Monetário Internacional \n(FMI) sobre a série histórica (1992 e 2010) e uma projeção \n(2028) dos 10 países com o maior Produto Interno Bruto (PIB). \n \nDisponível em https://www.statista.com/chart/22256/. Adaptado. \nSobre esses dados, é correto afirmar:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Matemática",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "Entre 2010 e 2028, a Indonésia, que não figurava entre os \ndez maiores PIBs, aparecerá no ranking e m r a z ã o d a \nprodução agrícola e do extrativismo mineral, enquanto \nq u e a I t á l i a s o f r e r á q u e d a n a e c o n o m i a d e v i d o à \ninstabilidade política do país.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Entre 1992 e 2028, o Brasil ap resentou elevação na sua \nprodução e sofrerá declínio no ranking, assim como o \nReino Unido, em razão desses países terem declinado de \ntratados econômicos globais.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Entre 1992 e 2010, China e Índia apresentaram \ncrescimento de suas economias em razão do aumento da \ncapacidade produtiva, do potencial de consumo interno e \nda infraestrutura na produção industrial.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "Entre 1992 e 2010, Japão e Alemanha sofreram queda e \nestabilização no seu Produto Interno Bruto justificada pelo \nfato de ambos os países serem potências hegemônicas na \nprodução de tecnologia.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Entre 2010 e 2028, Rússia e França terão declínio nas suas \neconomias por se encontrarem enfraquecidas por \nconflitos bélicos, dependência energética e redução \npopulacional em seus países.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

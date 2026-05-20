@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q52",
+    "edital": "FUVEST",
+    "numero": 52,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "“A história do skate no Brasil passou por fases diferentes e até \nmesmo antagônicas. Em 1988, por exemplo, na cidade de São \nPaulo, sob acusação de ser prática displicente, foi promulgada \na Lei n º 25.871, pelo então p refeito Jânio Quadros, que \nproibia a prática da modalidade nas ruas da cidade. Essa \nproibição foi alterada no ano seguinte, quando a nova prefeita \nda cidade, Luiza Erundina, em um de seus primeiros atos, \nrevogou essa mesma lei e liberou a prática do skate nas ruas \nda cidade. \nAnos depois, em 2015, o Br asil somava 8,4 milhões de \npraticantes de skate, segundo pesquisa Datafolha. \nJá em 2021, quando o skate estreou como modalidade \nolímpica nos Jogos de Tóquio, o Brasil se destacou como o \nsegundo país com mais medalhas olímpicas na modalidade. \nNo mesmo ano, a indústria nacional ligada ao esporte foi \nconsiderada a segunda maior do mundo, atrás apenas dos \nEstados Unidos, cujo mercado é estimado em US$ 4,5 bilhões \nao ano.” \nThais Carrança, BBC News Brasil em São Paulo, 26 julho 2021. Adaptado. \nA partir da leitura do texto, é correto afirmar:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Física",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "O skate adentrou o mundo esportivo, entre outros \nmotivos, por pressão dos praticantes da modalidade. No \nentanto, práticas esportivas que surgem pautadas pelo \nl a z e r o u p o r a t i v i d a d e s c o t i d i a n a s n ã o d e v e r i a m s e r \nconsideradas modalidades esportivas por não terem sido \ninstitucionalizadas desde sua origem.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Eventos esportivos de grande alcance, tal qual a \nOlimpíada, deveriam considerar as estruturas normativas \nque dão origem aos esportes para inseri-los nas \ncompetições. Apenas dessa forma, seria possível garantir \na autenticidade das modalidades e justificar a inserção do \nskate como esporte olímpico.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Os esportes são uma forma de representação das práticas \nsociais. Sendo assim, as transformações sociais podem \nresultar em alterações de regras esportivas, na \nesportivização de práticas de lazer e até na extinção de \nmodalidades esportivas.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "Os esportes podem sofrer alterações normativas ao longo \ndos tempos. Com tal efeito, torna-se equivocado datar a \ncriação de um esporte, pois ele já pode ter sofrido \nalterações que descaracterizaram sua origem.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "O skate, bem como outras práticas esportivas, foi criado \nde modo discreto, por grupos pequenos, e ganhou força e \nascensão a partir do aumento de incentivo financeiro para \nsua realização, o que é determinante para um esporte \nalcançar reconhecimento mundial. \nTEXTO PARA AS QUESTÕES 53 E 54 \nOver the last two decades, technology companies and \npolicymakers warned of a “dig ital divide” in which poor \nchildren could fall behind their more affluent peers without \nequal access to technology. Today, with widespread internet \naccess and smartphone ownership, the gap has narrowed \nsharply. \nBut with less fanfare a different division has appeared: \nAcross the country, poor children and adolescents are \nparticipating far less in sports and fitness activities than more \naffluent youngsters are. Call it the physical divide. Data from \nmultiple sources reveal a significant gap in sports participation \nby income level. \nA combination of factors is responsible. Spending cuts \nand changing priorities at some public schools have curtailed \nphysical education classes and organized sports. At the same \ntime, privatized youth sports have become a multibillion-\ndollar enterprise offering new opportunities — at least for \nfamilies that can afford hundreds to thousands of dollars each \nseason for club-team fees, uniforms, equipment, travel to \ntournaments and private coaching. \n“What’s happened as sports has become privatized is \nt h a t i t h a s b e c o m e t h e h a v e s a n d h a v e - n o t s , ” s a i d J o n \nSolomon, editorial director for the Aspen Institute Sports and \nSociety Program. “Particularly for low-income kids, if they \ndon’t have access to sports within the school setting, where \na r e t h e y g o i n g t o g e t t h e i r p hysical activity?” Mr. Solomon \nsaid. “The answer is nowhere.” \nThe New York Times. 24 March 2023. Adaptado.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

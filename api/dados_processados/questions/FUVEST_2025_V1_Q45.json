@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q45",
+    "edital": "FUVEST",
+    "numero": 45,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Considere que a expectativa de vida no Brasil à idade de 19 \nanos pode ser calculada, de forma aproximada, como a média \naritmética simples entre a expectativa de vida estimada à \nmesma idade dos homens e das mulheres. O mesmo pode ser \nfeito à idade de 20 anos. \nSegundo dados do IBGE, em 2022, a expectativa de vida \nestimada no Brasil à idade de 19 anos era 58, e a expectativa \nde vida estimada dos homens à mesma idade era 54,7. \nSabe-se que a diferença entre a expectativa de vida estimada \ndos homens e a das mulheres se manteve à idade de 20 anos \ne que a expectativa de vida estimada dos homens a essa idade \n(EVH\n20) era 53,8. \nCom base nos dados apresentados, assinale a alternativa que \napresenta a expectativa de vida estimada das mulheres à \nidade de 19 anos (EVM 19) e a expectativa de vida estimada à \nidade de 20 anos no Brasil (EVB20) em 2022. \n EVM 19 EVB 20",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Inglês",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "54,7 54,7",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "54,7 58",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "60 54",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "61,3 56",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "61,3 57,1",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

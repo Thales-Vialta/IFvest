@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q29",
+    "edital": "FUVEST",
+    "numero": 29,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "Fogareiros abastecidos com pequenos botijões de gás são \nequipamentos corriqueiros em trilhas e escaladas de duração \nprolongada para possibilitar o cozimento de alimentos. Em \ngeral, esses botijões são abastecidos com propano, isobutano \nou n-butano. A tabela mostra a temperatura de ebulição e o \ncalor liberado na combustão desses três gases, à pressão \natmosférica. \n Temperatura de \nebulição \n(°C) \nCalor liberado na \ncombustão \n(kcal/m\n3 de substância \nna fase gasosa) \nPropano −42 5065 \nIsobutano −12 8211 \nn-Butano −1 8411 \nCom base nessas informações, qual seria o gás mais indicado \npara a utilização em um ambiente com temperatura típica de \n−6 °C, considerando a viab ilidade e o consumo de gás \nnecessário para o preparo de alimentos?",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Geografia",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "P r o p a n o , p o r e s t a r l í q u i d o e m − 6 ° C e , d e n t r e a s \nsubstâncias líquidas nessa temperatura, sua combustão \nfornecer mais calor por volume de gás.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "I s o b u t a n o , p o r e s t a r g a s o s o e m − 6 ° C e , d e n t r e a s \nsubstâncias gasosas nessa temperatura, sua combustão \nfornecer mais calor por volume de gás.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "n-Butano, por estar gasoso em −6 °C e, dentre as \nsubstâncias gasosas nessa temperatura, sua combustão \nfornecer mais calor por volume de gás.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "n-Butano, por estar líquido em −6 °C e, dentre as \nsubstâncias gasosas nessa temperatura, sua combustão \nfornecer menos calor por volume de gás.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "I s o b u t a n o , p o r e s t a r g a s o s o e m − 6 ° C e , d e n t r e a s \nsubstâncias gasosas nessa temperatura, sua combustão \nfornecer menos calor por volume de gás.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

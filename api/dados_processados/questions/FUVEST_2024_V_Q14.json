@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q14",
+    "edital": "FUVEST",
+    "numero": 14,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "Na série ficcional Wandinha, o poder da visão é transmitido entre \nas bruxas, conforme o modelo genealógico hipotético a seguir: \nConsiderando a genealogia apresentada, o poder da visão tem \nherança",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa e Literatura",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "autossômica dominante, porque se apresenta somente \nem mulheres.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "autossômica recessiva, sendo todos os homens \nhomozigóticos dominantes.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "ligada ao X recessiva, e os filhos homens inativam esse \ncromossomo.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "ligada ao X recessiva, por que aparece em todas as \ngerações.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "ligada ao X dominante, sendo letal para fetos masculinos \ncom o alelo dominante.",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

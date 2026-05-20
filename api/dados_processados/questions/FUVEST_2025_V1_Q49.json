@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q49",
+    "edital": "FUVEST",
+    "numero": 49,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Observe as imagens de satélite que indicam o desmatamento \nde 12.272 hectares no município de Formosa do Rio Preto \n(BA), região do MATOPIBA, composta pelos estados do \nMaranhão, Tocantins, Piauí e Bahia, no período 2019-2022. \n \n \n \n \n \n \n \nMapBiomas. 2023. Relatório de desmatamento no Brasil (Adaptado). \nCom base na análise temporal das imagens, assinale a \nalternativa que apresenta, respectivamente, o bioma \ncorrespondente à região do MATOPIBA, a atividade \neconômica desenvolvida nesse local e o possível impacto \nambiental negativo decorrente de tal atividade.",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Física",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "Cerrado, agropecuária e processos erosivos.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "Cerrado, silvicultura e contaminação do solo.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Amazônia, mineração e poluição das águas.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Caatinga, pastagem e impermeabilização da superfície.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Caatinga, extrativismo e perda de biodiversidade.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

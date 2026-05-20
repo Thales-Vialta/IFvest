@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q10",
+    "edital": "FUVEST",
+    "numero": 10,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "“Por quê? Porque pensar em direitos humanos tem um \npressuposto: reconhecer qu e aquilo que consideramos \nindispensável para nós é tam bém indispensável para o \npróximo. (...). \nNesse ponto as pessoas são frequentemente vítimas de uma \ncuriosa obnubilação. Elas afirmam que o próximo tem direito, \nsem dúvida, a certos bens fundamentais, como casa, comida, \ninstrução, saúde, coisas que ninguém bem formado admite \nhoje em dia que sejam privilégio de minorias, como são no \nBrasil. Mas será que pensam que seu semelhante pobre teria \ndireito a ler Dostoievski ou ouvir os quartetos de Beethoven? \n(...). Ora, o esforço para incluir o semelhante no mesmo \nelenco de bens que reivindicamos está na base da reflexão \nsobre os direitos humanos.” \nCANDIDO, Antonio. Vários escritos. 3ª ed. revista e ampliada. São Paulo: \nDuas Cidades, 1995. \nCom base na leitura do texto, pode-se afirmar que Antonio \nCandido defende que o acesso a bens como a literatura e a \nmúsica",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa e Literatura",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "é privilégio de minorias, pois são bens que exigem \nreflexão.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "deve ser reivindicado como um direito, e não como um \nprivilégio.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "v i t i m i z a a s p e s s o a s q u e n ã o t ê m a c e s s o a b e n s \nfundamentais para viver.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "humaniza as minorias privil egiadas, incentivando-as a \ncompartilhar seu conhecimento.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "é indispensável para quem luta pelos direitos humanos. \n \n \n \n \n \n \n \n \n \n \n \n \nTEXTO PARA AS QUESTÕES 11 E 12 \nVincent van Gogh. Salvador Dalí. Frida Kahlo. Casual perusers \nof ads everywhere would be forgiven for thinking that art \ngalleries are enjoying some sort of golden age. The truth is less \nexciting, more expensive and ce rtainly more depressing. For \nthis is no ordinary art on offer; this art is “immersive”, the \nlatest lovechild of TikTok and enterprising warehouse \nlandlords. The first problem with immersive art? It's not \nactually very immersive. A common trope of “immersive” \nretrospectives is to recreate original pieces using gimmicky \ntech. But merely aiming a projector at a blank canvas doesn’t \ndo much in the way of sensory stimulation. My favourite \nelement of an “immersive” show I have been to was their \nfaithful recreation of Van Gogh’s bedroom. An ambitious feat, \ne x e c u t e d w i t h s o m e f u r n i t u r e a n d , o f c o u r s e , m u t i l a t e d \npastiches of his paintings. Wh ile projectors, surround sound \nand uncomfortably wacky seating are mainstays of immersive \nart, there are also the VR headsets. But many exhibitions don’t \neven include these with the standard ticket, so my return to \nreality has twice been accompanied by an usher brandishing \na credit card machine. Sometimes these installations are so \nbanal and depthless, visitors have often walked through \ninstallations entirely oblivio us to whatever is happening \naround them. Despite the fixation “immersive experiences” \nhave with novelty, the products of their labours are \nremarkably similar: disappointing light shows punctuated by a \nfew gamified set pieces. \nDisponível em https://www.vice.com/en/article/. Adaptado.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q28",
+    "edital": "FUVEST",
+    "numero": 28,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Essa imagem, chamada de “A \nformatura da capivara”, foi \ngerada por Inteligência \nArtificial (IA). Em 2024 estimou-\nse que 30 milhões de imagens \nforam geradas diariamente no \nmundo utilizando modelos de \nIA a um gasto energético \nmédio de 131 kJ por imagem. \nO uso intenso dessa tecnologia \ntem levado à reativação de \nusinas termoelétricas e à construção de novas usinas \nnucleares para suportar os servidores que realizam o \nprocessamento de IA. Considerando que toda a energia para \ngerar essas imagens fosse proveniente da combustão \ncompleta de carvão, a pegada de carbono diária medida em \ntoneladas de CO2 formado, resultante da produção dessas \nimagens, seria de",
+    "descricao": "Note e adote: \nMassa molar (g/mol) : C = 12; O = 16 \nEntalpia de combustão completa do carvão: ΔH = - 393 kJ/mol \n#####",
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "História",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "0,2.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "10.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "150.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "280.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "440.",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

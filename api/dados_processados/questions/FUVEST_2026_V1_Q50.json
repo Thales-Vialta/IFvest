@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q50",
+    "edital": "FUVEST",
+    "numero": 50,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Entre os deveres de todo devoto do Islã está a \nobrigatoriedade de pelo menos uma vez na vida fazer uma \nperegrinação a Meca, cidade sagrada na qual Maomé \nprimeiro pregou a religião. Nem todos podiam fazer a \nperegrinação, mas muitos faziam, geralmente juntando-se às \ncaravanas que percorriam o Saara, chegando a Meca a partir \ndo Cairo. Essa circulação de pessoas, que entravam em \ncontato com os lugares nos quais era intenso o ensino do Islã, \ncriava vínculos entre todo o mundo muçulmano do Sael, norte \nda África e península Arábica. Os ensinamentos islâmicos \neram ainda reforçados pela ação dos ulemás, estudiosos do \nAlcorão que se assentavam em algumas cidades ou \npassavam períodos em diferentes lugares. As escolas \ncorânicas, nas quais os meninos liam e decoravam o Alcorão, \ntambém eram lugares de atuação dos ulemás, que mantinham \nvivo o ensino do islã. \nMarina de Mello e Souza. África e Brasil africano. São Paulo: Ática, 2007. \n \nAo tratar do islamismo na Idade Média, o texto caracteriza",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Física",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "a transformação abrupta nas práticas e hábitos religiosos \ndos fiéis e o autodidatismo do ensino religioso na \nalfabetização de adultos e crianças.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "o fanatismo dos líderes religiosos e a exigência contínua \nde obediência e subserviência dos fiéis que \ndesejavam \nalcançar a salvação.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "a igualdade de gêneros na formação religiosa de crianças \ne adultos e a ausência de preocupação com a unidade \ninstitucional da religião.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "o caráter educativo e doutrinário das peregrinações dos \nfiéis e a homogeneidade da origem étnico-racial do \nconjunto dos fiéis.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "a disposição de ampliar o conhecimento de textos \nreligiosos pelos fiéis e a formação de redes de relações \nentre povos e grupos sociais distintos.",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

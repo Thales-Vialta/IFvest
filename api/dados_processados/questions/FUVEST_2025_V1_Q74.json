@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q74",
+    "edital": "FUVEST",
+    "numero": 74,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Considere agora um outro experimento feito em condições \nsemelhantes, em que o manômetro indica uma pressão de \n5 atm e, sem que a pressão no interior da garrafa se altere, ele \né cuidadosamente substituído por uma rolha de 10 g de massa \ne 2 cm de diâmetro (igual ao diâmetro interno do bocal da \ngarrafa). Logo após a rolha se r encaixada no local, ela é \nexpelida devido à pressão interna da garrafa ser maior que a \npressão atmosférica. \nA aceleração da rolha no momento em que ela é expelida é \nde, aproximadamente,",
+    "descricao": "Note e adote: \nAssuma que a pressão atmosférica seja de 1 atm = 105 Pa. \nUtilize π = 3. \nConsidere que as forças relevantes atuando sobre a rolha no momento \nem que é expelida são apenas aquelas relativas à diferença de pressão \nentre os seus lados interno e externo. \n#####",
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Biologia",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "12 m/s2.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "120 m/s2.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "1200 m/s2.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "12000 m/s2.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "120000 m/s2.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

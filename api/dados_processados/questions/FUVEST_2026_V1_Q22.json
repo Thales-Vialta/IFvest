@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q22",
+    "edital": "FUVEST",
+    "numero": 22,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Disponível em https://cartum.folha.uol.com.br/charges/. \n \nEm termos da interação entre os recursos verbais e imagéticos \nna charge, é correto afirmar:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "História",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "A representação imagética dos indígenas como \nmiseráveis é hiperbólica, reforçando o sentido da pergunta \n“Por que mais terras?”, o que evidencia uma atitude autoral \nfavorável ao marco temporal.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A distribuição espacial do casal\n e da família indígena \npersonifica a polarização política, o que fica demarcado \npela oposição “nós” contra “eles” na fala da mulher.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A expressão “mais terras”, em contraste com o espaço \nocupado pela família indígena, busca mostrar que já há \nsoluções alternativas para a delimitação de terras para os \npovos originários no tecido urbano.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Ocorre uma quebra de expectativa entre a representação \nda família indígena e a expressão “perfeitamente \nintegrados”, o que colabora para o teor crítico da charge \nem relação ao marco temporal.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "A postura do casal, em relação aos indígenas, sinaliza \nempatia e mostra o seu interesse na derrubada do marco \ntemporal, que tem levado indígenas à pobreza nas \nmetrópoles brasileiras.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

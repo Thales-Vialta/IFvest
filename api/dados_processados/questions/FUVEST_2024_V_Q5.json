@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q5",
+    "edital": "FUVEST",
+    "numero": 5,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "Considerado o contexto, a expressão “be worth” tem sentido \nde",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa e Literatura",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "prontidão.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "esperteza.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "valorização.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "apelo.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "experimento.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

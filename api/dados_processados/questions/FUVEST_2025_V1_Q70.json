@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q70",
+    "edital": "FUVEST",
+    "numero": 70,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Seja ሺ𝑎௡ሻ uma progressão aritmética cujo primeiro termo é 𝑎ଵ \ne a razão 𝑟, ambos números reais. É possível construir uma \noutra sequência ሺ𝑏௡ሻ, em que o primeiro termo é um número \nreal 𝑏ଵ e com a seguinte lei de formação \n𝑏௡ାଵൌ 𝑏௡൅𝑎௡ , \nsendo 𝑛൐ 0 um número natural. \nPor exemplo, se 𝑏ଵൌ0 e \nሺ𝑎௡ሻൌሺ1,3,5,7,9,11, …ሻ , \ntem-se \nሺ𝑏௡ሻൌሺ0,1,4,9,16,25, … ሻ. \nCom base em tais informações, os valores de 𝑎ଵ e 𝑟 foram \nescolhidos de forma que ሺ𝑏௡ሻ também seja uma progressão \naritmética de razão 𝑟′. Nessas condições, é correto afirmar:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Biologia",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "𝑟′ ൌ 𝑎ଵ",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "𝑟′ ൌ2𝑎ଵ",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "𝑟′ ൌ 𝑟",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "𝑟′ ൌ2𝑟",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "𝑟ᇱൌ𝑏ଵെ𝑎ଵ",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

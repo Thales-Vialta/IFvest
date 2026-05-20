@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q34",
+    "edital": "FUVEST",
+    "numero": 34,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "“São os ratos!... Vai escutar com atenção, a respiração \nmeio parada. Hão de ser muitos: há várias fontes daquele \nguinchinho, e de quando em quando, no forro, em vários \npontos, o rufar... \nA casa está cheia de ratos...” \nDyonélio Machado. Os ratos. \nA obra Os ratos (1935), de Dyonélio Machado, narra o dia em \nque Naziazeno saiu pela cidade de Porto Alegre no intuito de \nconseguir dinheiro para pagar a conta do leiteiro. Os animais \nque dão título à narrativa apenas aparecem em seus últimos \ncapítulos e ocupam o tempo reservado para o descanso do \nprotagonista. É possível, então, afirmar:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Geografia",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "Naziazeno, inconformado com sua condição de devedor, \nperambula pela cidade, encontrando refúgio junto aos \nratos que o acolhem.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Os ratos são os credores de Naziazeno zoomorfizados, que \nse encontram à espreita para a cobrança de outras dívidas.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Os “guinchinhos”, que ressoam nos ouvidos de Naziazeno, \nsão o eco de seu dia de perambulação, como se \nlembrassem os obstáculos que venceu.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Os ruídos dos roedores mostram que Naziazeno, ao pagar \na sua dívida, esquece os obstáculos que venceu.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "O contraste entre o repouso de Naziazeno e o \naparecimento dos roedores denuncia a permanência da \nsua situação de penúria social e financeira.",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

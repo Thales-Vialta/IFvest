@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q1",
+    "edital": "FUVEST",
+    "numero": 1,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Texto 1 \n“Afinal, depois de ver todas as coisas daquele museu, acabei \nme perguntando se os brancos já não teriam começado a \nadquirir também tantas de nossas coisas só porque nós, \nYanomami, já estamos começa ndo também a desaparecer. \nPor que ficam nos pedindo nossos cestos, nossos arcos e \nnossos adornos de penas, enquanto garimpeiros e fazendeiros \ninvadem nossa terra?” \nKOPENAWA, Davi; ALBERT, Bruce. Queda do céu: palavras de um xamã \nyanomami. São Paulo: Companhia das Letras, 2015. p.429. \n \nTexto 2 \n“Em seu trabalho, Glicéria debruça-se sobre a artesania do \nmanto tupinambá, símbolo das tradições ancestrais de seu \npovo. A artista chama de cosmo-técnica a feitura do manto, e \nhoje busca compreender qual era sua função cultural e social \nem sua comunidade. Recentemente, a artista esteve na \nEuropa e encontrou mantos datados do século XVII, que foram \nlevados do Brasil ao longo da colonização, na Dinamarca. \nSegundo Glicéria, ‘hoje, as pessoas entendem o manto como \narte, arte contemporânea, mas eu vejo muito além. É um \nancestral nosso’.” \nInstituto Pipa. Ocupação dos artistas premiados do Pipa 2023: Glicéria \nTupinambá. Disponível em: https://www.premiopipa.com/2023/10/ \n(Adaptado). \n \nA reflexão de Davi Kopenawa sobre a apropriação de objetos \nindígenas por museus e a pesquisa de Glicéria Tupinambá \nsobre o manto tupinambá em contextos europeus permitem \nexplorar diversas dimensões da arte indígena. \n \n \nGlicéria Tupinambá, Assojaba Tupinambá, 2021. Disponível em: \nhttps://dasartes.com.br/de-arte-a-z/. \n \nCom base nos textos e na imagem, assinale a alternativa que rela ciona corretamente as reflexões apresentadas à importância da \narte e dos artefatos culturais na discussão sobre questões indígenas no Brasil.",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa e Literatura",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "A arte indígena, ao ser exposta em museus europeus, perde seu significado original e se tran sforma apenas em objeto de \ndecoração, desvinculando-se completamente de suas raízes culturais e simbólicas, de acordo com David Kopenawa.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Glicéria Tupinambá, ao retomar elemen tos tradicionais em suas obras, busca uma representação autêntica que resiste à \ndomesticação cultural imposta pelos colonizadores, valorizando o aspecto utilitário desses objetos.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "O trabalho de Glicéria Tupinambá, ao redescobrir os mantos tu pinambá na Europa, revela como a arte indígena pode servir \ncomo uma ponte para o entendimento e a valorização das culturas indígenas por sociedades que historicamente as \nmarginalizaram.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Para David Kopenawa, a guarda de artefatos indígenas em museus da Europa é uma forma eficaz de preservação e valorização \nda cultura indígena, pois demonstra reconhecimento da sua importância e esforço, por parte da sociedade, para proteger os \ndireitos territoriais desses povos.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A arte, como mostrado por Glicéria Tupinambá, atua como um meio de resistência cultural, em que elementos tradicionais são \nrecontextualizados para contestar narrativas coloniais e re afirmar identidades indígenas em face de processos de \ndesapropriação e desaparecimento.",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

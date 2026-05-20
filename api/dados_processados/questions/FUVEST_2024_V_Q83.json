@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q83",
+    "edital": "FUVEST",
+    "numero": 83,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "Nos excertos, os escritores moçambicanos descrevem, cada \num em seu contexto, cenas de violência. Sobre elas, é correto \nafirmar:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Matemática",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "Luís Bernardo Honwana descreve uma cena de violência \npsicológica velada do capataz contra a mulher, sem que \nela perceba a agressão sofrida.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Luís Bernardo Honwana expõe a violência social de que a \nmulher é vítima ao relatar uma discussão acalorada que \nela trava com o capataz.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Luís Bernardo Honwana narra uma luta física entre o \ncapataz e a mulher, a qual tenta resistir à agressão sofrida, \nmas acaba por consentir com a relação.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Paulina Chiziane apresenta e l e m e n t o s n a r r a t i v o s q u e \npermitem identificar a agr essão psicológ ica e física \npraticada, pelo marido, contra a mulher.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "Paulina Chiziane associa a violência contra a mulher a um \nprocesso educativo que visa zelar pela estabilidade da \nrelação conjugal e pela felicidade do casal.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "metadados": {
+    "codigos_questoes": [
+      "FUVEST_2026_V1_Q58",
+      "FUVEST_2026_V1_Q59"
+    ]
+  },
+  "conteudo": {
+    "enunciado": "Texto para as questões 58 e 59 \n \nNearly a century ago, Edwin Hubble discovered that the \nuniverse is getting larger. Modern measurements of how fast it is \nexpanding disagree, however, suggesting that our understanding \nof the laws of physics might be off. Everyone expected the sharp \nvision of the James Webb Space Telescope to bring the answer \ninto focus. But a long-awaited analysis of the telescope’s \nobservations released late Monday evening once again gleans \nconflicting expansion rates from different types of data, while \nhoming in on possible sources of error at the heart of the conflict. \nTwo rival teams have led the effort to measure the cosmic \nexpansion rate, which is known as the Hubble constant, or H0. \nOne of these teams, led by Adam Riess of Johns Hopkins \nUniversity, has consistently measured H0 to be about 8 percent \nhigher than the theoretical prediction for how fast space should \nbe expanding, based on the cosmos’s known ingredients and \ngoverning equations. This discrepancy, known as the Hubble \ntension, suggests that the theoretical model of the cosmos might \nbe missing something—some extra ingredient or effect that \nspeeds up cosmic expansion. \nRiess and his team released their latest measurement of H0 \nbased on Webb data this spring, getting a value that agrees with \ntheir earlier estimates. \nBut for years a rival team led by Wendy Freedman of the \nUniversity of Chicago has urged caution, arguing that cleaner \nmeasurements were needed. Her team’s own measurements of \nH0 have invariably landed closer than Riess’ to the theoretical \nprediction, implying that the Hubble tension may not be real. \nSince the Webb telescope started taking data in 2022, the \nastrophysics community has awaited Freedman’s multipronged \nanalysis using the telescope’s observations of three types of \nstars. Now, the results are in: Two types of stars yield H0 \nestimates that align with the theoretical prediction, while the \nthird—the same type of star Riess uses—matches his team’s \nhigher H0 value. \nDisponível em https://wired.com/. 08 Sep 2024. Adaptado.",
+    "img_url": null
+  }
+}

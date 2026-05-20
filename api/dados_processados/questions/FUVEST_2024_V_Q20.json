@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q20",
+    "edital": "FUVEST",
+    "numero": 20,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "O gráfico a seguir ilustra o perfil de digestão de quatro \nsubstâncias no organismo humano, de acordo com a variação \ndo pH. \nA análise dos dados permite concluir que a(s)",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "História",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "digestão da substância I é feita por amilases presentes no \nduodeno.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "digestão da substância II é feita por lipases presentes da \nboca.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "substância III é um amido digerido por amilases presentes \nboca.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "substância IV é uma proteína digerida pela bile no \nestômago.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "substâncias I, II e III são digeridas, respectivamente, na \nboca, no estômago e no duodeno.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q11",
+    "edital": "FUVEST",
+    "numero": 11,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Sempre que brilha um novo dia, e que nos bate à porta o \njornal, apoderamo-nos com solicitude dessa folha e \navidamente percorremos a sessão das Câmaras do dia \nantecedente em procura do assunto que temos escrito no \ncoração e no espírito - a educação da mulher brasileira -, e \ndobramos a folha desconsolados e aguardamos o dia \nseguinte, que se escoa na mesma expectativa, no mesmo \ndesengano! \n(...) \nUm dia raiará mais propício para nós, em que os \nescolhidos da nação brasileira se dignem de achar a \neducação da mulher um objeto importante para dele \nocuparem-se, com a circunspecção que merece. \nNísia Floresta. Opúsculo Humanitário. \n \nSonhando ser mestra, eu não imaginava o descanso, o \nrepouso ameno que daria à minha mãe como recompensa dos \ngrandes sacrifícios feitos por ela para meu bem-estar, eu não \npensava em ser útil, em tornar-me necessária, imprescindível. \nEu queria ser mestra para não morar em um cortiço mal-\nalumiado, infecto, úmido, nesta terra onde há tantas flores, \ntanta luz e tantas alegrias. O caso é que fosse qual fosse a \nmão que me escreveu no pensamento a resolução de vir a ser \nprofessora – pertencesse ela à tentação diabólica do luxo ou \nà compreensão de um dever –, fosse qual fosse, eu a \nabençoo. \nJulia Lopes de Almeida. Memórias de Martha. \n \nA partir da leitura dos excertos e das obras citadas, é correto \nafirmar:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa e Literatura",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "Opúsculo Humanitário e Memórias de Martha são obras \nque defendem fortemente o abolicionismo e o acesso à \neducação pela população afrodescendente brasileira.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Opúsculo Humanitário defende a modernização da política \nbrasileira, e Memórias de Martha narra\n a ascensão social \nda protagonista por meio da sua profissionalização.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Opúsculo Humanitário e Memórias de Martha, obras \nseminais do feminismo no Brasil, defendem a educação \nprofissional feminina a fim de prepará-las para a sua \nemancipação econômica.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Opúsculo Humanitário e Memórias de Martha destacam o \nespaço rural brasileiro como o lugar adequado para a \nemancipação feminina.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Opúsculo Humanitário e Memórias de Martha são obras \nque reivindicam uma solução para as contradições sociais \ne econômicas do Brasil no século XIX, com ênfase na \ndefesa da educação feminina.",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

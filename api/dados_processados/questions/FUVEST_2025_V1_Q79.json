@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q79",
+    "edital": "FUVEST",
+    "numero": 79,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Migrações e invasões no Império Romano, séculos IV e V. \nDisponível em https://www.britannica.com/ (Adaptado). \nA análise do mapa permite identificar deslocamentos de \npovos não romanos caracterizados",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Matemática",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "pela concentração de rotas migratórias em território \nbizantino.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "pela inexistência de invasões direcionadas para o norte da \nÁfrica.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "pela inexpressiva diversidade de povos das correntes \nmigratórias.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "pela proeminência de migrações na porção ocidental do \nImpério Romano.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "pelo predomínio de invasões por rotas marítimas em \ndetrimento das rotas terrestres.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

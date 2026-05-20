@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q13",
+    "edital": "FUVEST",
+    "numero": 13,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "Matrizes podem ser usadas para se obter informações sobre \numa rede social. Para compreender como isso pode ser feito, \nconsideremos como exemplo uma pequena rede social \nformada por 4 pessoas: 𝑃ଵ,𝑃ଶ,𝑃ଷ,𝑃ସ. A matriz associada a essa \nrede social é a matriz 4×4 : \n \nO valor 1 (um) na posição 𝑎ଷଶ (linha 3, coluna 2) da matriz \nsignifica que a pessoa 𝑃ଷ segue a pessoa 𝑃ଶ, ao passo que o \nvalor 0 (zero) na posição 𝑎ଶସ (linha 2, coluna 4) significa que a \npessoa 𝑃ଶ n ã o s e g u e a p e s s o a 𝑃ସ. O valor 0 (zero) será \natribuído às posições 𝑎௜௜. O significado do valor da posição \n𝑏௠௡ d a m a t r i z p r o d u t o 𝑀×𝑀=𝑀 ଶ é a quantidade de \nconexões da pessoa 𝑃௠ até a pessoa 𝑃௡ passando exatamente \npor uma pessoa, diferente delas duas, que chamaremos de \nconexão de grau 2. \nDessa forma, os valores das posições da matriz 𝑀\nଶ p o d e m \nrefletir o alcance da rede social, suas potencialidades e \nfraquezas, a influência de certos membros dela, dentre outros \naspectos. \nCom relação à rede social apresentada, é correto afirmar que:",
+    "descricao": "Note e adote: \nA posição 𝑏௠௡ da matriz produto 𝑀×𝑀=𝑀 ଶ é dada pela expressão \n𝑏௠௡=𝑎 ௠ଵ𝑎ଵ௡+𝑎 ௠ଶ𝑎ଶ௡+𝑎 ௠ଷ𝑎ଷ௡+𝑎 ௠ସ𝑎ସ௡",
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa e Literatura",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "Existem 5 pares de pessoas diferentes ( 𝑃௜≠𝑃௝) que não \npossuem conexões de grau 2.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Existem 6 pares de pessoas diferentes ( 𝑃௜≠𝑃௝) que \npossuem apenas uma conexão de grau 2.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "Existem 3 pares de pessoas diferentes ( 𝑃௜≠𝑃௝) que \npossuem 2 conexões de grau 2 diferentes.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Existem 3 pessoas que possuem conexões de grau 2 com \ntodas as outras pessoas da rede social.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Existe apenas 1 pessoa 𝑃௜ (𝑖 ≠ 3 ) tal que 𝑃௜ e 𝑃ଷ seguem-se \nmutuamente.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

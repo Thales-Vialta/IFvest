@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q42",
+    "edital": "FUVEST",
+    "numero": 42,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Os espetáculos circenses organizados ao final do século XVIII \nuniam o cômico e o dramático, como historicamente já faziam \noutras formas de espetáculo, por meio da combinação da \natuação das famílias de saltimbancos, ciganos, atores da \nCommedia dell’Arte, e mesclavam a pantomima e o palhaço \ncom a acrobacia, os equilíbrios, as exibições equestres e a \ndoma de animais em um mesmo espaço. Desde aquele \nmomento, fica visível a emergência não somente de novos \nmodelos de espetáculos, mas também novas estruturas de \norganização e produção desses espetáculos, caracterizadas \npela delimitação do espaço físico das apresentações, \ncobrança compulsória de entradas e alternância entre \nexibições de equilibristas, acrobatas, artistas equestres, \ncomediantes, pantomimas e representações diversas, ou seja, \num espetáculo pautado na íntima mistura de expressões e \nartistas originários de diferentes espaços e formações. \nLOPES, Daniel de Carvalho; SILVA, Ermínia. Circo: percursos de uma arte \nem transformação contínua. Cadernos do GIPE-CIT, v. 1, 2020. \nAdaptado. \n \nNo contexto histórico, o circo",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Inglês",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "bem como outras expressões artísticas, interage e se \napropria, continuamente, de elementos estéticos, sociais, \nculturais, políticos e tecnológicos da época e da \nsociedade em que se apresenta, revelando, assim, sua \ncontemporaneidade.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "é constituído pelas interações que estabelece com os \nvariados elementos que o compõem, e o local de sua \nmanifestação é similar e perene às realizações \nespetaculares dos séculos anteriores.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "presente no Brasil a partir do início do século XX promove \numa ruptura do circo tradicional e início do circo novo que \nnão se constitui com elementos antes explorados.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "moderno descaracteriza o modelo encontrado nos \nséculos XVII e XVIII e faz emergir uma nova expressão \nartística que ainda há de se configurar por um novo nome, \ndiferente de circo.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "tradicional não tinha como principal característica divertir \nos espectadores, haja vista a veiculação de artistas com \ncorpos ditos grotescos nos espetáculos; nos dias atuais \nreconhece-se a mudança de objetivo que traz no circo a \nclara representação de entretenimento e diversão a partir \nde corpos virtuosos.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

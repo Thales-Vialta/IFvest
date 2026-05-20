@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q18",
+    "edital": "FUVEST",
+    "numero": 18,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "Em 2023, a imprensa mundial anunciou a criação da \nalmôndega de carne de mamute. A ilustração a seguir resume \na biotecnologia envolvida nesse processo. \nDisponível em https://www.dailymail.co.uk/. Adaptado. \nA almôndega de mamute possui células",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa e Literatura",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "com mitocôndrias de elefante.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "musculares recriadas de mamute.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "que produzem gordura de mamute.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "com mais genes de ovelha que de mamute.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "de diferentes tecidos do elefante.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

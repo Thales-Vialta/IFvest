@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q31",
+    "edital": "FUVEST",
+    "numero": 31,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "O reservatório de um caminhão-pipa tem a forma de um \ncilindro circular reto com eixo horizontal e dimensões internas \nde 6 metros de comprimento e 2 metros de diâmetro. Uma \nescola contratou o serviço do caminhão-pipa para abastecer \nsua caixa d’água. Após o a bastecimento, o motorista \npercebeu que o reservatório do caminhão estava cheio até \n3/4 de sua altura, conforme ilustrado na figura. \nQual foi o volume, em metros cúbicos, de água utilizada para \nabastecer a caixa d’água da escola, sabendo que o \nreservatório do caminhão estava cheio antes do \nabastecimento?",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Geografia",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "(2 π - √ଷ\nସ)",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "(2 π - \nଷ√ଷ\nଶ )",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "(2 π + \nଷ√ଷ\nଶ )",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "(4 π + √ଷ\nସ)",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "(4 π + \nଷ√ଷ\nଶ )",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

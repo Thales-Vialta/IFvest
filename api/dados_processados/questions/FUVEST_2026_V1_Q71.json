@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q71",
+    "edital": "FUVEST",
+    "numero": 71,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Para muitas pessoas, um ovo perfeitamente cozido tem uma \ngema cremosa e uma clara firme. A gema atinge uma textura \ncremosa a 65 °C, mas a clara fica totalmente firme a 85 °C. \nMétodos comuns de cozimento frequentemente resultam em \num ovo com clara e gema duras (1), um ovo com clara dura e \ngema cremosa (2) ou um ovo com clara e gema cremosas (3). \nPesquisadores da Universidade de Nápoles, entretanto, \nperceberam que alternar o cozimento dos ovos em água a \n100 °C e 30 °C a cada dois minutos, totalizando 32 minutos \n(4), faz com que as duas regiões do ovo (clara e gema) \nrespondam de formas diferentes às temperaturas alternadas. \nAplicando o método estudado (4), a temperatura da clara \noscila antes de finalmente se estabilizar em torno de 85 °C, \nenquanto a temperatura da gema sobe lentamente até atingir \n67 °C, quando chega à consistência desejada. \nA figura a seguir compara o ovo cozido para cada um dos \nmétodos descritos. \n \nDi Lorenzo, E., Romano, F., Ciriaco, L. et al. “Periodic cooking of eggs”. \nCommun Eng 4, 5 (2025). Adaptado. \n \nSuponha que, em cada método de cozimento, cada parte do \novo (clara e gema) seja aquecida de uma temperatura inicial \nde 20 ºC até as respectivas temperaturas finais apresentadas \nna figura. A quantidade de calor total recebida Qn pelo \nconjunto gema + clara para o método de cozimento (n = 1, 2, \n3, 4), em ordem crescente, é:",
+    "descricao": "Note e adote: \nCalor específico a pressão constante: \nClara: 3,8 J/g.K; Gema: 3,1 J/g.K. \nMassa do ovo = 50 g. \nAssuma que a massa da clara seja igual à da gema. \n#####",
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Biologia",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "Q4<Q1<Q3<Q2",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Q3<Q4<Q2<Q1",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "Q1<Q3<Q2<Q4",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Q3<Q2<Q4<Q1",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Q4<Q3<Q1<Q2",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

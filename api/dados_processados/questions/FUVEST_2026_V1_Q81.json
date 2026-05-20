@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q81",
+    "edital": "FUVEST",
+    "numero": 81,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "O processo de comunicação entre plantas discutido no texto \npode ocorrer de diversas formas. Uma delas baseia-se na \nemissão de moléculas por uma planta atacada, chamada de \nemissor, e a recepção dessas moléculas por uma outra planta, \nchamada de receptor. Dependendo do tipo de ataque e das \nespécies envolvidas, essa comunicação pode acontecer tanto \npor via aérea, quanto por via do solo, facilitada pela água \npresente. \n \n \nConsiderando os processos de sinalização entre plantas \ndescritos, é correto afirmar:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Matemática",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "Na via aérea, os compostos gerados pelo emissor podem \nser polares para que possuam uma volatilidade elevada.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Na comunicação pelo solo, \nas moléculas devem ser \nnecessariamente apolares, para que possam ser \nsolubilizadas no meio, atingindo o receptor.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "As moléculas transportadas por via aérea seriam \nfacilmente solubilizadas no solo por conta da sua baixa \npolaridade.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "As moléculas polares geradas pelas folhas são facilmente \ntransportadas pelo solo por conta de suas relativas baixas \nsolubilidades.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "As moléculas responsáveis pela comunicação por via \naérea devem possuir alta volatilidade e baixa polaridade.",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

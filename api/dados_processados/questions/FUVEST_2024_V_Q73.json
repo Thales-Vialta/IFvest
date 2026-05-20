@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q73",
+    "edital": "FUVEST",
+    "numero": 73,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "Um experimento de demonstração sobre ondas estacionárias \nfaz uso de uma canaleta disposta horizontalmente, contendo \ngrãos de areia fina e seca. Abaixo da canaleta, posiciona-se um \nalto-falante que transmite um som, produzindo, na canaleta, \numa vibração, associada a uma onda estacionária com um \ncomprimento de onda bem definido. O diagrama representa \numa imagem digitalizada dos grãos de areia depositados na \nbase da canaleta em um certo instante. Utiliz e a régua da \nfigura, graduada em centímetros, para assinalar a alternativa \nq u e a p r e s e n t a a m e l h o r a p r o x i m a ç ã o p a r a o v a l o r d o \ncomprimento de onda da vibração em questão.",
+    "descricao": "Note e adote: \nO s g r ã o s d e a r e i a t e n d e m \nnaturalmente a se acumular em torno \ndos pontos nos quais o deslocamento \ntransversal da canaleta é nulo.",
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Biologia",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "1,2 cm",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "5,1 cm",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "6,8 cm",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "11,3 cm",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "18,1 cm",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

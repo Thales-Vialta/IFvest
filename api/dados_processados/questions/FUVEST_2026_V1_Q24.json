@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q24",
+    "edital": "FUVEST",
+    "numero": 24,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "A área de cobertura vegetal observada no arquipélago das \nIlhas Shetlands do Sul, na Antártida, próxima à Península \ndesse continente, aumentou de 0,86 km² em 1986 para \n11,95 km² em 2021, indicando uma taxa de mudança \nacelerada nos últimos anos. Essa tendência ecoa um padrão \nmais amplo de esverdeamento em ambientes de clima frio, \nque sugere futuras mudanças generalizadas nos \necossistemas terrestres na Antártida e em seu funcionamento \na longo prazo. \n \n \nImagem ilustrativa da presença de musgos na Ilha Ardley. \n \n \nIlha Ardley (62° S) e evolução temporal do Índice de Vegetação \nNormalizado (NDVI) e do Índice de Vegetação Verde (TCG, \nsigla em inglês para Tasseled Cap Greenness). \n \nDisponível em doi.org/10.1038/s41561-024-01564-5. Adaptado. \n \nO processo de esverdeamento (greening) da área \napresentada na imagem, sua evolução temporal desde 1986 \ne os elementos do texto permitem concluir que",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "História",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "a construção de bases de pesquisa científica em \ndiferentes pontos da área favorece a presença e a \nexpansão dos musgos na região.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "ocorre um \nprocesso natural de recomposição florística da \nregião impulsionado pela radiação solar demonstrada pelo \nNDVI e TCG, desde 2016.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "existe uma evidência da associação do greening à \nelevação da temperatura do ar e menor cobertura de gelo, \ndemonstrado no gráfico de 2016.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "os dados temporais de NDVI e TCG permanecem \nconstantes ao longo da série histórica de dados \nrepresentada para a região.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "a elevação do nível do mar na região com cada vez menos \numidade do ar tem como consequência o processo de \ngreening.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

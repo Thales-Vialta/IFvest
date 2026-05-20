@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q71",
+    "edital": "FUVEST",
+    "numero": 71,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Aumenta nos hospitais brasileiros a presença de bactérias \nresistentes a antibióticos \n“A disseminação de bactérias resistentes a antibióticos é \num pesadelo mundial. Ela avança rapidamente e representa \numa ameaça a uma das maiores conquistas da medicina \nmoderna: a capacidade de eliminar infecções. Sem \nantibióticos eficientes, fica quase impossível realizar cirurgias, \ntransplantes e outros tratamentos em segurança. \nExpostas à concentração adequada dos antibióticos e por \ntempo suficiente, as bactérias facilmente morrem. Se a \ndosagem e duração do tratamento forem inferiores ao \nnecessário para aniquilá-las, uma parte pode sobreviver e se \nmultiplicar, acumulando alterações no material genético que \nlhes permitem escapar à ação dos fármacos. \nAs bactérias estão em todos os lugares: na água, no solo, \nno ar e nas superfícies, inclusive no nosso corpo. Com o uso \nintensivo de antibióticos na saúde humana e na produção de \nalimentos, as bactérias são co ntinuamente expostas a esses \nfármacos. Esse contato favorece a seleção das variedades \nresistentes.” \nRevista Pesquisa FAPESP – Janeiro/2024 (Adaptado). \nO gráfico a seguir ilustra o cr escimento de uma espécie de \nbactéria em meio de cultura, com e sem antibiótico. Foram \ntestados três antibióticos diferentes (1, 2 e 3). \n \n \nConsiderando o texto e o gráfico, sobre a resistência de \nbactérias a antibióticos, é correto afirmar:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Biologia",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "A combinação de mais de um antibiótico durante um \ntratamento reduz a quantidade de antibióticos lançada na \nrede de esgoto e as chances de surgirem bactérias \nmutantes na natureza.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Para reduzir as chances de seleção de bactérias \nresistentes, é necessário aumentar a concentração de \nantibióticos presentes na natureza e matar as bactérias \npatogênicas livres.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Mutações aleatórias que acontecem nas bactérias, \nassociadas à exposição prolongada a antibióticos, \ncontribuem para a seleção de bactérias resistentes a \nantibióticos.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "O antibiótico 3 será eficiente, nas mesmas concentrações \nutilizadas no experimento, para tratar infecções causadas \npelas linhagens de bactérias presentes no dia 16 de cultivo.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Dentre todos os antibióticos testados, o 2 é o mais \neficiente para combater a bactéria do experimento \nrelatado, enquanto o 1 é o menos eficiente.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

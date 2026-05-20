@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q44",
+    "edital": "FUVEST",
+    "numero": 44,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Disponível em https://br.pinterest.com/. \n“Quem negaria que os futuros ainda não são? Mas já está na \nmente a espera dos futuros. E quem negaria que os passados \njá não são? Todavia, ainda está na mente a memória dos \npassados. E quem negaria que o tempo presente não tem \nextensão temporal, porque passa em um instante? Todavia, \nperdura a atenção, pela qual o que está presente se \nencaminha para a ausência.” \nAgostinho de Hipona. Confissões. \nAo propor uma aproximação entre a fala da personagem \nCalvin no quadrinho e o trecho citado das Confissões de \nAgostinho, é possível encontra r semelhanças com relação à \ndescrição do tempo e sua compreensão filosófica. Dentre as \nafirmativas a seguir, qual delas pode ser considerada \nverdadeira para ambos os casos?",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Inglês",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "A passagem do tempo é ilusória.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "O tempo desfaz a mudança.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Há um paradoxo na compreensão do tempo.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "Os momentos do tempo identificam-se entre si.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Há ruptura completa entre o tempo presente e o futuro.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

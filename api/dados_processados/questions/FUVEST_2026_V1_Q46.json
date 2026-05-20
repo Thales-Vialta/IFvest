@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q46",
+    "edital": "FUVEST",
+    "numero": 46,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Francisco Ruiz Gijón (1683-1720), Santíssimo Cristo da Expiação, \npopularmente conhecido como Cristo Cachorro. Escultura em madeira, \n1682 (detalhe). \n \nA partir da comparação entre a escultura Cristo Cachorro, de \nFrancisco Ruiz Gijón, e o livro O Cristo cigano, de Sophia de \nMello Breyner Andresen, inspirado por ela, depreende-se:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Inglês",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "A escultura barroca Cristo Cachorro prenuncia os traços \nmodernistas do livro de Sophia de Mello Breyner Andresen, \numa vez \nque a faca, metáfora central do poema, pensada \na partir de um objeto do cotidiano, está indiretamente \npresente na escultura como o instrumento cortante \nutilizado para sua criação.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Tanto a escultura Cristo Cachorro, enquanto obra barroca, \nquanto o livro de Sophia de Mello Breyner Andresen, obra \nmodernista, revelam, na precisão dos detalhes anatômicos \ne na personalização do objeto faca, respectivamente, o \ndesaparecimento da visão da arte enquanto ligação com \no divino e a concepção da morte como fim absoluto.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Na precisão dos detalhes anatômicos e na concepção do \nCristo como um ser humano perfeito e unido ao divino pela \nmorte, a escultura Cristo Cachorro revela a visão barroca \ndo mundo, enquanto o livro de Sophia de Mello Breyner \nAndresen revela seu traço moderno na despersonalização \ndo humano, ao propor a faca e o amor como condutores \nda ação.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "A elaboração metonímica do corpo do Cristo no Cristo \nCachorro, atenta aos detalhes, revela uma antecipação de \ntraços modernistas nessa escultura barroca, enquanto a \ncomparação entre amor e morte no livro de Sophia de \nMello Breyner Andresen revela os traços tardiamente \nromânticos de seu estilo poético.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A precisão de detalhes anatômicos e o equilíbrio de traços \nalcançados pelo artista na elaboração da escultura Cristo \nCachorro revelam a visão barroca da arte como vitória do \nhumano sobre o divino, enquanto o livro de Sophia de \nMello Breyner Andresen, ao ocultar a imagem do cigano e \nresumi-la a uma voz em agonia, revela a concepção \nmodernista de um mundo sem Deus.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

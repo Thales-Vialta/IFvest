@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q38",
+    "edital": "FUVEST",
+    "numero": 38,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "Leia o texto a seguir: \nUma vida inteira pela frente. \nO tiro veio por trás. \nCíntia Moscovich, Os cem menores contos brasileiros do século (organização: \nMarcelino Freire). \nEmbora seja um texto composto por apenas duas linhas, é \npossível caracterizá-lo como uma narrativa. Nesse texto, essa \ncaracterização deve-se ao fato de que ele apresenta",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Geografia",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "adjetivação de tempos.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "diálogo entre narradores.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "referenciação de espaços.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "descrição de personagens.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "sequência de ações.",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

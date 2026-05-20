@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q87",
+    "edital": "FUVEST",
+    "numero": 87,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "“Colombo não reconhece a diversidade das línguas e, por isso, \nquando se vê diante de uma língua estrangeira, só há dois \ncomportamentos possíveis, e c omplementares: reconhecer \nque é uma língua, e recusar-se a aceitar que seja diferente, ou \nentão reconhecer a diferença e recusar-se a admitir que seja \numa língua... Os índios que encontra logo no início, a 12 de \noutubro de 1492, provocam uma reação do segundo tipo; ao \nvê-los, promete: ‘Se Deus assim o quiser, no momento da \npartida levarei seis deles a Vossas Altezas, para que aprendam \na falar’ (...).” \nTODOROV, Tzvetán. A conquista da América: a questão do outro. São Paulo: \nMartins Fontes, 1993. p.29-30. \nAo tratar das reações iniciais de Colombo ao chegar à \nAmérica, o excerto indica que o navegador",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Matemática",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "reconheceu a necessidade de tradução mútua entre as \nlínguas.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "considerou as línguas indígenas como expressão de outras \nculturas.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "interpretou as diferenças lin guísticas como estratégia de \nresistência dos nativos.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "mostrou-se disposto a estudar e compreender as línguas \ndos indígenas.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "entendeu o ensino do castelhano aos indígenas como \nforma de civilização.",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

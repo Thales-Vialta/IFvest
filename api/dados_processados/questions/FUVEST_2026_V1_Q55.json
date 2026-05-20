@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q55",
+    "edital": "FUVEST",
+    "numero": 55,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Existem números curiosos na matemática. Os números \nperfeitos são alguns deles. Um número 𝑛 (para 𝑛∈ℕ ∗) é \nperfeito se, e somente se, for igual à soma de seus divisores \npositivos (excluindo o próprio). Relacionando números \nperfeitos e números primos, Euclides escreveu uma \nproposição em seu famoso livro “Elementos”: se 2௡− 1 é um \nnúmero primo, então 2௡ିଵ(2௡− 1) é um número perfeito. \nConsiderando o que foi exposto, é correto afirmar:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Física",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "Com exceção de 𝑛 =1 , os 5 primeiros termos da \nsequência (𝑎\n௡) = (2௡− 1) são números primos.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Os termos da progressão geométrica, cujo primeiro termo \né o primeiro número perfeito e cuja razão é 3, são pares.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "Os números 28 e 31 são números perfeitos.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Na proposição de Euclides, para 𝑛 =4 , obtemos \nque 2௡− 1 não é primo, mas que 2௡ିଵ(2௡− 1) é perfeito.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A sequência formada pela diferença dos termos \nconsecutivos de (𝑎௡) = (2௡− 1) é uma progressão \naritmética de razão 2.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

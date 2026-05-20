@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q59",
+    "edital": "FUVEST",
+    "numero": 59,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "Considere a função 𝑓, dada por 𝑓(𝑥) = 𝑏 ௫, com 𝑏>0 , 𝑏≠1 \ne 𝑥∈ℝ , e a sua inversa 𝑓ିଵ. A figura destaca dois pontos, um \npertencente ao gráfico de 𝑓 e o u t r o a o g r á f i c o d e 𝑓ିଵ. \nDetermine 𝑏+ 𝑘 .",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Química",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "ହ\n଺",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "1",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "଺\nହ",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "ଵଷ\nହ",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "ଵ଼\nହ",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

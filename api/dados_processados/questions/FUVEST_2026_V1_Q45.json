@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q45",
+    "edital": "FUVEST",
+    "numero": 45,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Decretou então o ótimo Artífice que àquele ao qual nada \nde próprio pudera dar tivesse como privativo tudo quanto fora \npartilhado por cada um dos demais. Assim, pois, tomou o \nhomem, essa obra de tipo indefinido, e, tendo-o colocado no \ncentro do universo, falou-lhe nestes termos: ‘A ti, ó Adão, não \ntemos dado nem uma sede determinada, nem um aspecto \npeculiar, nem uma função singular precisamente para que o \nlugar, a imagem e as tarefas que reclamas para ti, tudo isso \ntenhas e realizes, mas pelo mérito de tua vontade e livre \nconsentimento. As outras criaturas já foram prefixadas em sua \nconstituição pelas leis por nós estatuídas. Tu, porém, não \nestás contido por amarra nenhuma. Antes, pela decisão do \narbítrio, em cujas mãos te depositei, hás de predeterminar a \ntua compleição pessoal. Eu te coloquei no centro do mundo, \na fim de poderes inspecionar, daí, de todos os lados, da \nmaneira mais cômoda, tudo que existe. \nPico della Mirandola. Discurso sobre a dignidade do homem. In: PICO, \nGiovanni, Conde de Mirândola e de Concórdia. A dignidade do homem. \n2ª. ed. Campo Grande: Solivros/Uniderp, 1999. Adaptado. \n \nElaborado em 1486, na região da atual Itália, o texto do \nhumanista Pico della Mirandola apresenta algumas \ncaracterísticas do movimento renascentista, dentre as quais",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Inglês",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "a ética protestante e o espírito do capitalismo.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "a perspectiva da evolução e do etnocentrismo.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "a imortalidade do ser humano como pilar da construção da \nvida terrena.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "o antropocentrismo pela ausência da referência divina.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "a autonomia do ser humano como construtor de sua \nprópria trajetória de vida.",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

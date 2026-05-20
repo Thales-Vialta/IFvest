@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q28",
+    "edital": "FUVEST",
+    "numero": 28,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Conforme o texto, os fenômenos naturais que desempenham \npapel significativo na complexa interação gravitacional que \nafeta a rotação da Terra são",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "História",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "terremotos.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "vulcões.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "avalanches.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "marés dos oceanos.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "ciclones.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

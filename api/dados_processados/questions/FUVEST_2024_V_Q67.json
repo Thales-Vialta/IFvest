@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q67",
+    "edital": "FUVEST",
+    "numero": 67,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "O SOBREVIVENTE \n \nImpossível compor um poema a essa altura da evolução \n [da humanidade. \nImpossível escrever um poema – uma linha que seja – de \n [verdadeira poesia. \nO último trovador morreu em 1914. \nTinha um nome de que ninguém se lembra mais. \nHá máquinas terrivelmente complicadas para as \n [necessidades mais simples. \nSe quer fumar um charuto aperte um botão. \nPaletós abotoam-se por eletricidade. \nAmor se faz pelo sem-fio. \nNão precisa estômago para digestão. \n Um sábio declarou a O Jornal que ainda \nfalta muito para atingirmos um nível \nrazoável de cultura. Mas até lá, felizmente, \nestarei morto. \nOs homens não melhoraram \ne matam-se como percevejos. \nOs percevejos heroicos renascem. \nInabitável o mundo é cada vez mais habitado. \nE se os olhos reaprendessem a chorar seria um segundo \n [dilúvio. \n(Desconfio que escrevi um poema.) \nCarlos Drummond de Andrade. Alguma Poesia, 1930. \nE n t r e o p r i m e i r o e o ú l t i m o v e r s o , h á u m a a p a r e n t e \ncontradição, que, todavia, não se sustenta porque",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Química",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "os entraves à plenitude lírica são removidos.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "os trovadores ainda inspiram os enamorados.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "a sabedoria controla o poder das máquinas.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "os heróis sempre ressuscitam neste mundo.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "a poesia resiste à negatividade do seu tempo.",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

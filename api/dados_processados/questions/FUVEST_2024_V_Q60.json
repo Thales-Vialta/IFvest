@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q60",
+    "edital": "FUVEST",
+    "numero": 60,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "Considere o sistema linear ൜𝑥+2 𝑦=4\n3𝑥 − 𝑦 = 5 . Assinale a \nalternativa que representa graficamente esse sistema.",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Química",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

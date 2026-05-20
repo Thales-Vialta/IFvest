@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q90",
+    "edital": "FUVEST",
+    "numero": 90,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "“Brasil, meu Brasil brasileiro \nMeu mulato inzoneiro \nVou cantar-te nos meus versos \nO Brasil, samba que dá \nBamboleio, que faz gingar \nO Brasil do meu amor \nTerra de Nosso Senhor \nBrasil, pra mim \nÔ, abre a cortina do passado \nTira a mãe preta do cerrado \nBota o Rei Congo no congado \nBrasil, pra mim (...) \nÔ! Esse coqueiro que dá coco \nOnde eu amarro a minha rede \nNas noites claras de luar \nBrasil, pra mim \nÔ! Ouve essas fontes murmurantes \nOnde eu mato a minha sede \nE onde a lua vem brincar \nÔ! Este Brasil lindo e trigueiro \nÉ o meu Brasil, brasileiro \nTerra de samba e pandeiro \nBrasil, pra mim” \nA canção Aquarela do Brasil foi composta por Ari Barroso e \nlançada no ano de 1939. Sua letra permite identificar temas \nque guardam afinidades com a política cultural do Estado \nNovo, podendo ser destacada a",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Matemática",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "discriminação em relação a afrodescendentes.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "exaltação das virtudes naturais e nacionais.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "concepção civilizatória assentada na religião católica.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "valorização da cultura cabocla e do regionalismo.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "escolha do malandro como símbolo nacional.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

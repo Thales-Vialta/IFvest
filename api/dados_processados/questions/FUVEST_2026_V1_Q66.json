@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q66",
+    "edital": "FUVEST",
+    "numero": 66,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Segundo o texto, os experimentos demonstram que",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Química",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "a prática de esportes ativa genes através da mudança do \ncódigo genético.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "as quantidades de proteínas musculares apresentam \nmudanças após a atividade física.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "a epigenética refuta a hipótese da ação da memória \nmuscular após treinos leves.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "as proteínas relacionadas ao\n metabolismo aeróbico ativam \nmudanças irreversíveis.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "os métodos da proteômica dificultam a caracterização das \nproteínas e suas interações.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

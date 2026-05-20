@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q83",
+    "edital": "FUVEST",
+    "numero": 83,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "A porcentagem em massa de fosfato (PO43-) numa amostra do \nvidro fertilizante é de 19%. A velocidade de dissolução desse \nvidro em água é constante e independente da massa inicial, \nsendo igual a 7,3 mg/h. Em um teste de dissolução, adicionou-\nse excesso dessa amostra de vidro fertilizante a 1 L de água \ne mediu-se a concentração de íons fosfato ao longo do tempo. \nA concentração de fosfato em mol/L obtida após 100 h de \nexperimento foi",
+    "descricao": "Note e adote: \nMassa molar do fosfato = 95 g/mol \n#####",
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Matemática",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "1,46 × 10\n-3",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "7,68 × 10-3",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "139 × 10-3",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "365 × 10-3",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "730 × 10-3",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

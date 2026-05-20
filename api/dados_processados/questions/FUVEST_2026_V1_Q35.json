@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q35",
+    "edital": "FUVEST",
+    "numero": 35,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Em regiões montanhosas e com clima tropical, é comum a \nocorrência de movimentações de massa associados a \nvolumes elevados de chuva. Pelos seus efeitos destrutivos, \nprincipalmente em áreas ocupadas de forma irregular, tornam-\nse foco de estudos de identificação, caracterização, \nmonitoramento e prevenção. Observe a seguir um exemplo de \nsistema de monitoramento: \n \nSistema de monitoramento de corrida de detritos \n \n \n \nSensores Função \nPluviômetro Medir as precipitações \nGeofones Medir as vibrações no solo \nSonar de \nvolume Medir o nível dos rios \nCabo sensor Registrar a passagem de detritos \nSensor de \nimpacto Registrar a força da corrida de detritos \nCorridas de Detritos no Brasil, FEBRAGEO. 2022. Adaptado. \n \nSobre o motivo da localização dos sensores, assinale a \nalternativa correta:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Geografia",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "O sensor de impacto instalado próximo à estrada e no \nsetor mais elevado do terreno permite detectar a \npassagem de folhas, troncos e matacões.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "O monitoramento na área de fundo de vale é necessário \npara medição do \nvolume e velocidade da corrida de \ndetritos, com o intuito da prevenção de riscos.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "O pluviômetro instalado na porção menos elevada do \nterreno é suficiente para emissão de alerta de risco para a \npopulação residente no local.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "O sonar de volume instalado próximo às residências e na \nparte elevada do terreno ajuda a detectar a velocidade \ncom a qual os detritos atingem os objetos.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A correlação entre cabo sensor e geofones instalados nas \nporções média e inferior da drenagem permite detectar a \ncomposição da corrida de detritos.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

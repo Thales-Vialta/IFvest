@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q4",
+    "edital": "FUVEST",
+    "numero": 4,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "“E assim como o branco e os mamelucos se aproveitaram não \nraro das veredas dos índios, há motivo para pensar que estes, \npor sua vez, foram, em muitos casos, simples sucessores dos \nanimais selvagens, do tapir especialmente, cujos carreiros ao \nlongo dos rios e riachos, ou em direção a nascentes de águas, \nse adaptavam perfeitamente às necessidades e hábitos \ndaquelas populações.” \nHOLANDA, Sergio Buarque de. Caminhos e fronteiras. Rio de Janeiro: José \nOlympio, 1975. p.35. \nDe acordo com o excerto, a ocupação territorial da América \nportuguesa pelos colonizadores foi inicialmente marcada",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa e Literatura",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "pela construção de caminhos que os afastassem dos \ncursos dos rios.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "pela desconsideração das rotas de deslocamento abertas \npelos animais.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "pela utilização de picada s abertas pelas comunidades \nindígenas.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "pelo emprego de tropas de muares, responsáveis por abrir \ntrilhas nas matas.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "pela exploração do transporte fluvial e marítimo por meio \nde pirogas.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

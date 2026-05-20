@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q48",
+    "edital": "FUVEST",
+    "numero": 48,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Mwando está embasbacado com a descoberta do insólito \ndo mundo. Como o Adão no Paraíso, a voz da serpente \nsugeriu-lhe a maçã, que lhe arrancou brutalmente a venda de \ntodos os mistérios. Sim, escutou os lábios de uma mulher \npronunciando em sussurros o seu nome, despertando-o do \nventre fecundo da inocência. Mwando nasceu. Sente o \ncoração a bater com força, mesmo à maneira do primeiro \namor. \n(…) \nProcurou o refúgio do quarto e fechou-se. Estava \ntranstornado. Sentia a sua devoção abalada pela paixão. Não \nconseguia fugir às tramas da serpente, a Sarnau arrastava-o \ncada vez mais para o abismo. \nPaulina Chiziane. Balada de amor ao vento. \n \nConsiderando a intertextualidade bíblica presente no excerto \nde Balada de amor ao vento, a experiência de Mwando é \ncaracterizada",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Inglês",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "por uma decepção com o mundo, causada pela perda da \nfé e pela compreensão da fragilidade das relações \nhumanas, o que o levou a um isolamento resignado.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "pelo despertar\n sexual e pelo conhecimento, que rompem \ncom um estado de inocência anterior, resultando em uma \nperturbação emocional e um conflito interior.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "pela superação de um trauma passado, sendo que a figura \nda cobra é o símbolo do obstáculo que foi vencido e que \no conduz a um novo estágio de maturidade e paz.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "por um processo de profunda introspecção, no qual o \namor é um caminho para a autodescoberta e \ntranscendência espiritual, apesar das dificuldades iniciais.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "pela busca por um novo tipo de devoção religiosa, tendo \na figura feminina como fonte de inspiração que o afasta \nainda mais dos preceitos tradicionais e o aproxima de um \nparaíso utópico.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

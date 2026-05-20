@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q57",
+    "edital": "FUVEST",
+    "numero": 57,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "A foto a seguir mostra um circuito com três resistores (𝑅ଵ, 𝑅ଶ \ne 𝑅ଷ) conectados em uma protoboard (base de contatos). \nNesse tipo de placa, os cinco furos de uma mesma linha \n(indicados pelos retângulos amarelos) estão em curto, \nformando os nós do circuito. O s cabos vermelho e preto, por \nsua vez, estão conectados ao s terminais de uma fonte \ncontínua de 5V. \n \nSe 𝑅ଵ = 150 kΩ e 𝑅ଶ = 𝑅ଷ = 100 k Ω , a corrente elétrica que \npassa pelo resistor 𝑅ଵ será de:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Física",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "12,5 μA",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "14,3 μA",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "25,0 μA",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "37,5 μA",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "50,0 μA",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

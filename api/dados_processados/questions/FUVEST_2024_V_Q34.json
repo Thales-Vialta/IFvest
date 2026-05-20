@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q34",
+    "edital": "FUVEST",
+    "numero": 34,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "Os conceitos de moda, mediana, média e amplitude definem \nmedidas utilizadas para estudar um conjunto de informações \nnuméricas. Por exemplo, na lista de 5 números (2, 2, 4, 8, 14), \ntemos que a moda é igual a 2, a mediana é igual a 4, a média \né igual 6 e a amplitude é igual a 12. \nAssinale a alternativa que repre senta a quantidade de listas \nde 5 números inteiros positivos que cumprem a condição: \nmoda = mediana = média = amplitude = 23.",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Geografia",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "8",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "9",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "11",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "22",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "44",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

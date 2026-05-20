@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "PISM_2025_D1-P1_Q1",
+    "edital": "PISM",
+    "numero": 1,
+    "tipo_ou_cor": "D1-P1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "A partir da letra da música de Emicida “A ordem\nnatural das coisas”, infere-se que:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa",
+    "tags": [
+      "PISM",
+      "2025",
+      "D1-P1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "a Dona Maria pode ser interpretada como uma\nreferência a todas as mulheres simples que saem\npara trabalhar pela manhã bem cedo em serviços\nconsiderados de menor prest´ ıgio social, como di-\naristas, merendeiras, garis.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "a repetição da expressão “só vem depois”, na\nsegunda estrofe, sugere que Dona Maria, e to-\ndas(os) que ela representa, são de importância\nigual ou maior que o Sol, uma vez que o dia só\namanhece se elas(es) forem trabalhar.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "ao afirmar que São Paulo tem “Vietnã”, meta-\nforicamente o autor faz referência ao serviço mi-\nlitar obrigatório de adolescentes do sexo mascu-\nlino no Brasil, o que justifica a orientação da\nmãe para seu filho levar documento.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "o autor ameniza a desigualdade social na música,\no que é reforçado pelo t´ ıtulo “A ordem natural\ndas coisas”, cujo tema principal é o cotidiano da\ncidade de São Paulo, com trabalhadores indo dê onibus para seus trabalhos bem cedo.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "o autor ironiza os sonhos da população mais\nvulnerável economicamente, como reformar um\ncômodo da casa, ao utilizar a palavra “farelos”\nem “Farelos de um sonho bobinho que a luz con-\ntorna”.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

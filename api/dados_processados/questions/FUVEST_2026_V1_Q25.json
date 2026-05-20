@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q25",
+    "edital": "FUVEST",
+    "numero": 25,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Considere o texto a seguir: \n \n \nIce flows across Antarctica and continues to do so as it \nreaches the edge of the land mass and extends over the \nocean. The huge floating tongues of ice often remain attached \nto the continent. Anything that remains grounded on the land \nis part of the Antarctic ice sheet; the floating part is an ice shelf. \nFloating ice shelves surround three-quarters of Antarctica’s \ncoast and make up about 11% of its total area. One of the \nlargest, the Ross Ice Shelf, is roughly the size of France. The \nGeorge VI Ice Shelf is shown in the image, taken by NASA’s \nLandsat 8 in January 2020. \nIt may seem intuitive that all the ice added to the ocean \nfrom melting ice shelves would raise global sea level, but that’s \nnot the case. By Archimedes’s principle, ice shelves floating \non the water have already displaced their own weight, so their \ndisintegration or melting won’t change the water level. Ice \nshelves do, however, regulate the speed of glaciers on \nAntarctica’s land. Ice shelves act to hold glaciers back. Take \nthe shelf away, and the glaciers are free to speed up and flow \ninto the ocean. Any ice and liquid water that the glaciers take \nwith them will raise sea level. Of Earth’s fresh water, 70% is \nstored in Antarctica’s ice; that is the equivalent of about 58 \nmeters of sea-level rise if all of it were to melt. \nBuzzard, S. “The surface hydrology of Antarctica’s floating ice”. Physics \nToday 75, 28-33 (2022). Adaptado. \nSegundo o texto, é correto afirmar:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "História",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "A área da superfície de gelo já derretido é \naproximadamente do tamanho da França.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "O princípio de Arquimedes afirma que as plataformas de \ngelo possuem uma força de empuxo muito menor que seu \npeso e, portanto, flutuam.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Plataformas de gelo são importantes\n porque atuam para \nregular a velocidade das geleiras na Antártida.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "Plataformas de gelo flutuantes são relevantes porque \nrepresentam três quartos da área total da Antártida.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "O princípio de Arquimedes não se aplica no caso do \nderretimento do gelo flutuando na costa antártica.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q15",
+    "edital": "FUVEST",
+    "numero": 15,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "Em Dois irmãos, de Milton Hatoum, os gêmeos Yaqub e Omar \nrepresentam duas personalidades antagônicas que se \nenfrentam ao longo da narrativa. A rivalidade entre eles tem \ncomo resultado:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa e Literatura",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "A prosperidade econômica de ambos.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A reconstrução dos laços entre eles.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A ida de Nael a São Paulo para viver com Yaqub.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A morte de Rânia, a irmã dos gêmeos.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A desagregação e a ruína da família.",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

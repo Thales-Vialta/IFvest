@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "PISM_2025_D1-P1_Q13",
+    "edital": "PISM",
+    "numero": 13,
+    "tipo_ou_cor": "D1-P1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Considere um triângulo retângulo com hipotenusa\nmedindo\n√\n58 e catetos medindo x − 2 e x + 2, sendo\nx um número real.\nO seno do menor ângulo desse triângulo é",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Matemática",
+    "tags": [
+      "PISM",
+      "2025",
+      "D1-P1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "7 /3",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "(7\n√\n58)/58",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "3 /7",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "(3\n√\n58)/58",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "√\n58/58",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

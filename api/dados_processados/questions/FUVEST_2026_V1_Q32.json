@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q32",
+    "edital": "FUVEST",
+    "numero": 32,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "O produto conhecido como descalcificante, comumente \ncomposto por ácido cítrico, é usado para desentupir os dutos \ninternos de eletrodomésticos como cafeteiras e ferros de \npassar roupa a vapor. O entupimento frequentemente é \ncausado pelo depósito de calcário (CaCO3), produto da \nreação entre CO2 e íons cálcio presentes na água. O equilíbrio \nde formação do carbonato de cálcio está representado a \nseguir: \n \nCa2+(aq) + CO2(g) + H2O(l) ⇌ CaCO3(s) + 2H+(aq). \n \nSobre os processos de entupimento por carbonato de cálcio \ne a descalcificação desses eletrodomésticos, é correto afirmar \nque",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Geografia",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "a diminuição do pH pela presença do ácido cítrico leva à \nreação de descalcificação.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "a reação de descalcificação com ácido cítrico desloca o \nequilíbrio porque consome CO\n2.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "ambientes ricos em CO2 causam menos entupimento dos \neletrodomésticos.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "a utilização de água com maior pH nos eletrodomésticos \ncausa menos entupimento.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "o ácido cítrico age como um catalisador, pois não participa \ndo equilíbrio de descalcificação.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

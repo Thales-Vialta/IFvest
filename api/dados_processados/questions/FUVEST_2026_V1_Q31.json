@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q31",
+    "edital": "FUVEST",
+    "numero": 31,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "O processo de corrosão do aço é favorecido em ambientes \númidos e ácidos. Para evitar a corrosão de superfícies de aço \né comum utilizar óleos para impedir o contato da umidade do \nar com a superfície. Nos casos em que o uso de óleo não é \nconveniente, é possível criar uma camada de NaOH(s) na \nsuperfície do metal aplicando uma solução aquosa \nrelativamente concentrada desta base sobre a ferramenta e \ndeixando a solução secar por completo. Esse tipo de \ntratamento com hidróxido de sódio é efetivo em ambientes \ncom elevada acidez pois, caso a água entre em contato com \na superfície tratada, ela",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Geografia",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "será repelida pela camada hidrofóbica de hidróxido de \nsódio, evitando o contato direto da água com o metal e sua \noxidação.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "solubilizará o hidróxido de sódio, que neutralizará o ácido \npresente na água que poderia induzir o processo de \noxidação na superfície do metal.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "será oxidada\n pelo hidróxido de sódio, gerando sua forma \nreduzida que, em contato com a superfície do metal, \nimpede o processo de corrosão.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "gerará um acúmulo de água na superfície hidrofílica da \ncamada de hidróxido de sódio, impedindo sua \nsolubilização e a consequente formação de ácido.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "reagirá diretamente com o sódio do hidróxido de sódio, já \nque este atuará como metal de sacrifício, sofrendo \noxidação e protegendo a superfície metálica.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

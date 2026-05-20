@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q72",
+    "edital": "FUVEST",
+    "numero": 72,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Park, E. et al. “Pour-over coffee: Mixing by a water jet impinging on a \ngranular bed with avalanche dynamics”. Phys. Fluids 37, 043332 (2025). \nAdaptado. \n \nUm artigo recentemente publicado na revista Physics of Fluids \ninvestigou de que modo fatores como a altura e a velocidade da \nágua despejada na preparação de café filtrado (parte (a) da \nfigura) influenciam no sabor da bebida pronta. \nUm dos parâmetros importantes é a velocidade do jato de \nágua ao atingir a lâmina de água que já está no filtro. Uma das \nconclusões do estudo é que velocidades acima de 2 m/s \nlevam a uma melhor mistura do pó de café com a água. \nA parte (b) da figura esquematiza a situação descrita, em que \nH é a altura da lâmina de água e D a altura de despejo da \nágua do bule, medidas que têm a base do filtro como \nreferência. \nAssumindo que seja desprezível a velocidade do jato quando \na água começa a ser despejada no bico do bule, para uma \naltura H = 8 cm, qual a altura mínima D de despejo para que \na velocidade do jato, ao atingir a água, seja de, pelo menos, \n2 m/s?",
+    "descricao": "Note e adote: \nDensidade (massa específica) da água: d = 1000 kg/m3 \nAceleração da gravidade: g = 10 m/s2 \n#####",
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Biologia",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "4 cm",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "8,2 cm",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "10 cm",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "18 cm",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "28 cm",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

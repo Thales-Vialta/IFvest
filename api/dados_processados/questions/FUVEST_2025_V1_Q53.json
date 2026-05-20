@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q53",
+    "edital": "FUVEST",
+    "numero": 53,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "A Estação Meteorológica Mirante de Santana é a principal \nreferência do Instituto Nacional de Meteorologia (INMET) no \nmunicípio de São Paulo - SP. O climograma a seguir apresenta \ndados referentes ao mês de fevereiro de 2023. Neste mesmo \nmês, o Centro de Gerenciamento de Emergências Climáticas \ndetectou 11 pontos de alagamentos no dia 19 e 14 pontos no \ndia 21. \n \nDisponível em https://portal.inmet.gov.br/noticias/ (Adaptado). \nCom base no texto e no gráfico, assinale a alternativa correta.",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Física",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "A menor amplitude térmica ocorreu no dia 19, quando foi \nobservado um dos maiores volumes de chuva do mês.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "Os quatro dias mais chuvosos apresentaram as menores \ntemperaturas mínimas.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A temperatura máxima no pe ríodo variou entre 21,5 °C e \n17,8 °C.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Os cinco dias mais quentes correspondem às maiores \nprecipitações.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Os pontos de alagamento nos dias 19 e 21 foram \nprovocados pela chuva acumulada de 428,9 mm.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

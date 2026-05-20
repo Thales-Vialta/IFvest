@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q64",
+    "edital": "FUVEST",
+    "numero": 64,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Alguns motores de foguetes espaciais usam metano como \ncombustível e oxigênio como comburente. Ambos os \ncompostos são armazenados em estado líquido no próprio \nfoguete, o que permite o seu armazenamento em maior \nquantidade do que se estivessem no estado gasoso. Sabe-se \nque o foguete armazena um vo lume de oxigênio líquido \n1,5 vez maior do que de metano líquido e que ambos são \ncompletamente consumidos na combustão, conforme a \nequação CH\n4(l) + 2 O2(l) → CO2(g) + 2 H2O(g). \nNessas condições, é correto afirmar que a razão entre a \ndensidade do metano líquido e a densidade do oxigênio \nlíquido é igual a",
+    "descricao": "Note e adote: \nMassa molar (g/mol): H = 1; C = 12; O = 16 \n##### \n \n \nTEXTO PARA AS QUESTÕES 65 E 66 \nDa moenda para a célula a combustível: caldo de cana é \nusado para produzir energia elétrica \n“Pesquisadores do Instituto de Pesquisas Energéticas e \nNucleares (Ipen), órgão associado à USP, testaram o uso de \ncaldo de cana para gerar energia elétrica em células a \ncombustível. O processo dispensa a transformação do caldo in \nnatura em etanol, feita nas usinas de álcool, impedindo a \nformação de resíduos nocivos ao meio ambiente. Após o êxito \ndos experimentos em laboratório, os cientistas vão \ndesenvolver a aplicação da técnica em escala industrial. \n‘A célula a combustível tem o mesmo princípio de \nfuncionamento de uma pilha. A diferença é que o combustível \nserve como reagente para ser consumido e gerar \neletricidade’, explica o pesquisador do Ipen, Almir Oliveira \nNeto, que coordenou a pesquisa. ‘No dispositivo que foi \ndesenvolvido na pesquisa, a oxidação do caldo de cana \nacontece no ânodo e a redução de oxigênio no cátodo. O \nobjetivo do experimento era obter energia da biomassa com \no mínimo impacto ambiental possível. Para isso, utilizou-se o \ncaldo de cana em uma célula a combustível para gerar energia \nelétrica’, diz o pesquisador. ‘O uso do caldo de cana direto \nevita a formação de vinhaça, um resíduo ambientalmente \nperigoso decorrente da produção de etanol, contribuindo, \nassim, para a preservação do meio ambiente’.” \nDisponível em https://jornal.usp.br/ciencias/ (Adaptado).",
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Química",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "0,186.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "0,375.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "0,75.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "1,5.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "3.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

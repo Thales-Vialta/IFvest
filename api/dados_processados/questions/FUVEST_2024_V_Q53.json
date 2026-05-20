@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q53",
+    "edital": "FUVEST",
+    "numero": 53,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "Conforme o texto, um dos motivos para a disparidade relativa \nà prática de atividades físicas por alunos, segundo o nível de \nrenda, reside",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Física",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "no abismo persistente entre as notas de estudantes ricos \ne pobres.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "no corte de gastos e mudanças de prioridades em algumas \nescolas públicas.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "na preferência por jogadores com potencial superior para \ncompetição.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "na redução de bolsas de estudos para adolescentes de \nfamílias abaixo da linha de pobreza.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "na realização de campeonatos contemplados com \ndoações de ONGs.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

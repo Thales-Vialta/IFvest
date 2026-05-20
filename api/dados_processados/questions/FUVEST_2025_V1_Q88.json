@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q88",
+    "edital": "FUVEST",
+    "numero": 88,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "“Consiste em uma faixa de terra semiárida e árida que contorna \na borda sul do Deserto do Saara e percorre a extensão da África \nno sentido leste-oeste. Atua co mo um cinturão que divide o \ncontinente africano em dois, a África majoritariamente \nislâmica, ao norte, e a cristã, ao sul. Englobando ao menos onze \npaíses, a região é lar para dezenas de grupos étnicos.” \nVAGEN, Tor-Gunnar; GUMBRICHT, Thomas. UNEP/ONU, 2012 (Adaptado). \nO texto descreve características da região denominada de",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Matemática",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "Chifre da África.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "África Meridional.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "África Setentrional.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Rift Valley.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Sahel.",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

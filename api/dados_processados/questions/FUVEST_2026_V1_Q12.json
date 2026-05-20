@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q12",
+    "edital": "FUVEST",
+    "numero": 12,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "A jornada das mulheres pela igualdade de direitos no Brasil, \ncomo em outras partes do mundo, sempre envolveu lutas \nsociais, políticas e jurídicas, com marcos importantes como a \nLei Geral de 1827, que permitiu o acesso das mulheres à \neducação, e a Constituição de 1934, que garantiu o direito ao \nvoto feminino. A partir da década de 1960, houve avanços \nsignificativos, como o Estatuto da Mulher Casada (1962), que \neliminou a necessidade de receber autorização do marido \npara diversas atividades, e, na década de 1970, a Lei do \nDivórcio (1977) e o fortalecimento dos movimentos feministas. \nAs obras Caminho de pedras, de Rachel de Queiroz, e As \nmeninas, de Lygia Fagundes Telles, discutem questões \nrelativas aos direitos das mulheres e sua relação com a política \nao longo do século XX no Brasil. Sobre esses romances, é \ncorreto afirmar:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa e Literatura",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "Em Caminho de pedras, Rachel de Queiroz relaciona a luta \npelos \ndireitos da mulher à legalização do divórcio no Brasil, \nenquanto As meninas constitui um libelo pela educação \nfeminina no período final da Era Vargas.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "As personagens Angelita, de Caminho de pedras, e Ana \nClara, de As meninas, impactam a vida dos protagonistas \nde seus romances e representam a transformação da \ncondição social das mulheres ao romperem com a \nconfiguração familiar tradicional.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Em Caminho de pedras e em As meninas, a política \n(militância de esquerda) e a religião (internato de freiras) \nsão instituições que, em vez de contribuírem para a revisão \nde valores morais e para a emancipação feminina, \naprofundam os mecanismos de controle social sobre as \nmulheres.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Tanto Caminho de pedras quanto As meninas relacionam \no exercício da política coletiva (militância de esquerda, luta \ncontra a ditadura militar) à política exercida em nível da \nvida privada e do cotidiano, por meio da trajetória de \npersonagens femininas que desafiam padrões sociais \nestabelecidos.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "Tanto Caminho de pedras quanto As meninas exercem \numa crítica à chamada “mulher burguesa”. O romance de \nRachel de Queiroz narra os desdobramentos do desejo de \nascensão social de Noemi, enquanto o de Lygia Fagundes \nTelles detalha o apego de Lorena à instituição do \ncasamento.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

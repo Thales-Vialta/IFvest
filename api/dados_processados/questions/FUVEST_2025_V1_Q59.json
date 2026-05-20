@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q59",
+    "edital": "FUVEST",
+    "numero": 59,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Quando uma barra de um cert o material é aquecida até \numa temperatura 𝑇 a partir de uma temperatura inicial 𝑇଴, \nseu comprimento inicial 𝐿଴ sofre um aumento Δ𝐿 dado por \nΔ𝐿 ൌ 𝛼 𝐿଴ ሺ𝑇െ𝑇଴ሻ, sendo 𝛼 o coeficiente de expansão \nlinear, que depende do material . O gráfico a seguir mostra \ncurvas de expansão linear para barras feitas de três \nmateriais distintos. \nCom base no gráfico e nas informações apresentadas, é \ncorreto afirmar:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Química",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "O gráfico mostra curvas para três barras que possuem o \nmesmo comprimento à temperatura de 30°C.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Em um processo de aquecimento entre 100°C e 200°C, o \ncomprimento da barra de cobre aumenta em 0,1 m.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "O coeficiente de expansão linear do alumínio é maior do \nque o do cobre.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Partindo de 0°C, aumentar em 10 cm o comprimento da \nbarra de polietileno requer elevar sua temperatura até \n50°C.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "Duas barras de comprimentos 5 m e 10 m a 0°C, feitas do \nmesmo material, sofrem iguais incrementos de \ncomprimento quando levadas de 0°C a 100°C.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

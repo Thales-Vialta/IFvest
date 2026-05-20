@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q3",
+    "edital": "FUVEST",
+    "numero": 3,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Jean Galvão. Disponível em https://cartum.folha.uol.com.br/. \nConsiderando a charge, é correto afirmar:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa e Literatura",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "Há uma incoerência entre a imagem do segundo quadro e \no enunciado verbal do primeiro quadro, uma vez que a \nposposição do adjunto adverbial “na água” anula qualquer \nambiguidade.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Ao antecipar o objeto direto “o mercúrio” para o começo \nda oração, o chargista chama a atenção para esse \nelemento, estimulando o leitor a buscá-lo visualmente no \nsegundo quadro.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "Por meio da escolha do verbo “descartar”, mostra-se, de \nforma crítica, a necessidade da criação de um local correto \npara o depósito dos rejeitos provenientes do garimpo \nilegal.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "O uso da forma pronominal informal “a gente”, em \ndetrimento do pronome “nós”, empregado em situações \nmais formais e sérias, atenua o teor crítico, o que colabora \npara gerar efeito humorístico.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "O significado negativo do prefixo que aparece na palavra \n“ilegal” reforça a precariedade do atendimento à saúde \nnas comunidades indígenas.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

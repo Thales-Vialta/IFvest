@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q21",
+    "edital": "FUVEST",
+    "numero": 21,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Na documentação jesuítica quinhentista, há constantes \nreferências ao desejo dos índios de entregarem seus filhos \npara que fossem ensinados pelos padres. Talvez o ensino das \ncrianças indígenas pudesse representar, também, uma \npossibilidade de estabelecer alianças entre grupos indígenas \ne padres, revelando outra dimensão da evangelização das \ncrianças como ‘grande meio’ para se converter o gentio. É \ndifícil determinar ao certo qual foi a imagem a respeito dos \nportugueses construída pelas várias tribos indígenas e, \nprincipalmente, dos religiosos da Companhia de Jesus, mas a \nconstrução de alianças, a partir das crianças (os índios dando \nseus filhos), pode ter constituído uma possibilidade frutífera de \nrelacionamento para alguns grupos. \nRafael Chambouleyron. “Jesuítas e as crianças no Brasil \nquinhentista”. In: Mary del Priore. História das crianças no Brasil. São \nPaulo: Contexto, 1999. \n \nCom base no excerto, é correto afirmar:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "História",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "A aliança entre grupos indígenas e padres implicava total \nsubmissão dos primeiros aos segundos.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A catequização das crianças significava uma estratégia de \nconstrução de relacionamento entre os povos envolvidos \nna colonização portuguesa.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "A documentação evidencia a imagem que as várias \ntribos \nindígenas tinham a respeito dos portugueses.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "As ações pedagógicas visavam preparar os indígenas \npara a administração colonial.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A instrução religiosa era o único objetivo no ensino de \ncrianças indígenas.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

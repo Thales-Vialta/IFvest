@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q17",
+    "edital": "FUVEST",
+    "numero": 17,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "A imagem a seguir mostra um cruzamento da Rua da \nConsolação, na região central da cidade de São Paulo, em que \nhá faixas de pedestre em diferentes direções. Essas faixas \nagilizam a travessia das ruas. Uma pessoa parte do ponto O e \ndeseja chegar ao ponto C. Para tanto, percorre o trajeto pela \nfaixa que liga O a B e, em seguida, utiliza a faixa que liga B a C. \nConsidere que as coordenadas dos pontos indicados na figura, \nem metros, são: O(0,0), B(13,-15) e C(29,-8). \n \nSeja 𝑑 a distância, em metros, que essa pessoa deixaria de \npercorrer se tivesse optado por fazer a travessia pela faixa de \npedestre que liga O a C. Nesse contexto, é correto afirmar:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa e Literatura",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "𝑑 ൏ 2",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "2 ൑𝑑൏ 5",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "5 ൑𝑑൑ 8",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "8 ൏𝑑 ൑ 11",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "11 ൏𝑑",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

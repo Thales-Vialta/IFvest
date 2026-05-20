@@ -1,0 +1,75 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q68",
+    "edital": "FUVEST",
+    "numero": 68,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "O gráfico a seguir apresenta dados do Produto Interno Bruto \n(PIB) por pessoa e dados de publicações científicas por milhão \nde habitantes para um grupo selecionado de países, além de \ndestacar o estado de São Paulo. \nRevista Pesquisa FAPESP – Agosto/2022 (Adaptado). \nA partir da análise do gráfico e do texto, é correto afirmar:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Química",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "Irã, Tunísia e África do Sul possuem um PIB por pessoa \nabaixo da média mundial e apresentam um número de \npublicações científicas por milhão de habitantes superior \nao da média mundial.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "O estado de São Paulo possui uma quantidade de publicações \npor milhão de habitantes abaixo da média mundial, enquanto \no Brasil, com um PIB por pe ssoa maior que o do estado \npaulista, tem uma quantidade de publicações maior.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Índia e Indonésia possuem um PIB por pessoa acima da \nmédia mundial, no entanto, o número de publicações por \nmilhão de habitantes desses países é superior ao da média \nmundial.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Os países do Norte Global, embora tenham um PIB por \npessoa maior que a média mundial, possuem uma \nquantidade menor de pub licações por milhão de \nhabitantes, se comparados com a média mundial.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Argentina, Tailândia e México, apesar de possuírem um \nPIB por pessoa abaixo da média mundial, apresentam \nprodução científica por milhão de habitantes acima da \nmédia mundial.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

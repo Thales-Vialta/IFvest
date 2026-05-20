@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q5",
+    "edital": "FUVEST",
+    "numero": 5,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Os quadrinhos a seguir são parte da obra Dois irmãos , de \nFábio Moon e Gabriel Bá (2015), uma adaptação do romance \nDois irmãos, de Milton Hatoum, para o universo das novelas \ngráficas (graphic novels). \n \n \n \nConsiderando as características visuais dos quadrinhos e os \ntraços narrativos do romance Dois irmãos, de Milton Hatoum, \né correto afirmar:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa e Literatura",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "O uso dos contrastes claro x escuro na novela gráfica \nconfere ênfase visual ao conflito entre diferentes formas \nde privilégio e marginalização presentes no romance de \nHatoum, explicitadas pelo ponto de vista do narrador.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "Ao trabalhar com os contrastes claro x escuro em suas \nimagens, a novela gráfica enfatiza a diferença étnica e \nsocial que fundamenta a rivalidade fraterna entre Yaqub e \nOmar, um dos eixos estruturais do romance.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Ao utilizar procedimentos como a aproximação ( zoom-in) \ne a fragmentação das imagens, a novela gráfica recria o \nfluxo de consciência e a atmosfera onírica da narrativa de \nHatoum.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A novela gráfica demonstra, por meio de imagens, que o \nromance Dois irmãos reinventa a tradição da literatura \nregionalista do Brasil, retratando a opulência da cidade de \nManaus ao longo do século XX.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Por meio de recursos estéticos como a fragmentação das \nimagens, a novela gráfica recupera o ponto de vista \nfraturado do romance de Hatoum, composto por vários \nnarradores ao longo da história.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

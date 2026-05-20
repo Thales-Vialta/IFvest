@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q86",
+    "edital": "FUVEST",
+    "numero": 86,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "No texto intitulado Tarsila, a pesquisadora Aracy Amaral \ntranscreve um trecho das impressões de Tarsila do Amaral \nsobre a viagem às cidades históricas coloniais mineiras, que \nrealizara em 1924 com o grupo modernista, liderado por \nMário de Andrade: “(...) As decorações murais de um modesto \ncorredor de hotel; o forro das salas, feito de taquarinhas \ncoloridas e trançadas; as pinturas das igrejas, simples e \ncomoventes, executadas com amor e devoção por artistas \nanônimos; o Aleijadinho, nas suas estátuas e nas linhas geniais \nda sua arquitetura religiosa, tudo era motivo para as nossas \nexclamações admirativas. Encontrei em Minas as cores que \nadorava em criança. Ensinaram-me depois que eram feias e \ncaipiras. Segui o ramerrão do gosto apurado... Mas depois \nvinguei-me da opressão passando-as para as minhas telas: \nazul puríssimo, rosa violáceo, amarelo vivo, verde cantante, \ntudo em gradações mais ou menos fortes, conforme a mistura \nde branco. Pintura limpa, sobretudo, sem medo de cânones \nconvencionais. Liberdade e sinceridade, uma certa estilização \nque a adaptava à época moderna.” \nAMARAL, Tarsila, 1939. Apud AMARAL, Aracy. Tarsila, In: Tarsila do Amaral. \nSão Paulo: Fundação Finambras, s.d, p.4. \nTarsila do Amaral, O mamoeiro, 1925, óleo s/ tela, 65,0 cm x 70,0 cm. \nColeção Mário de Andrade - Instituto de Estudos Brasileiros da Universidade \nde São Paulo. Reprodução fotográfica: Rômulo Fialdini. Disponível em: \nhttps://enciclopedia.itaucultural.org.br/. \nConsiderando a obra O Mamoeiro, de Tarsila do Amaral, qual \né o principal elemento que caracteriza a influência do \nmovimento modernista brasileiro na pintura?",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Matemática",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "O emprego de recursos pictóricos que realçam os efeitos \nde luz e sombra na cena retratada.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A representação de aspectos da cultura brasileira, \nvalorizando uma paisagem local.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "A simplificação de formas geométricas abstratas.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A inspiração na arte africana e na produção simbólica de \npovos originários.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A incorporação da colagem e de técnicas mistas como \nprocedimentos artísticos centrais.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

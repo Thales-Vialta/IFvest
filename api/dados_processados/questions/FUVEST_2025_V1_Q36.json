@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q36",
+    "edital": "FUVEST",
+    "numero": 36,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "“Madala pensou que devia dizer qualquer coisa ao Djimo, \nmas não se lembrou de repetir a pergunta para si mesmo e \npor isso não soube o que dizer. \nO capataz fazia sinais à Maria, mas esta parecia não \nentender. \nA planta que Madala segurava na mão oferecia ao seu \nesforço uma resistência exager ada. Por isso, o punho de \nMadala tremia. \n(...) \nO tom da voz de Djimo revelava certo nervosismo: \n- Madala... \nMas o nervosismo desapareceu logo. Djimo deu uma \nordem: \n- Madala, não olhes para lá! \nDentro de Madala, qualquer coisa se crispou. Mas não \neram os fios da sua doença.” \nLuís Bernardo Honwana. “Dina”. In: Nós matamos o cão tinhoso!. \nConsiderando o papel da antologia Nós matamos o cão \ntinhoso! na literatura moçambicana e como a sociedade de \nMoçambique dos anos 1950 e 1960 se configura \nliterariamente no conto “Dina”, é correto afirmar:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Geografia",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "O conto apresenta, de modo documental e objetivo, a \ncondição econômico-social de uma família, mediante a \nenumeração de objetos que conotam a vida difícil dos \nmoçambicanos em busca de um lugar na hierarquia \npreestabelecida pelo colonizador europeu.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "O conto demonstra como Luís Bernardo Honwana recria \nconsistentemente a estrutura do português do \ncolonizador a partir das línguas originárias de \nMoçambique, fazendo da linguagem um instrumento de \nluta anticolonial.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "O conto retrata as primeiras reações dos trabalhadores do \ncampo, como Madala e Djimbo, que se levantam em \narmas contra os aparelhos repressivos do Estado \nportuguês e a violência nas relações de trabalho, \nrepresentados no texto pelo capataz.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "No conto, a sociedade moçambicana vai sendo \napresentada sob o ponto de vista do colonizador, de modo \na comprovar o ideal civilizatório da colonização \nportuguesa na África e a convivência equilibrada entre \ncolonizadores e colonizados.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "No conto, embora perceba ter ultrapassado um limite \nmoral ao descobrir o parentesco entre Maria e Madala, o \ncapataz personifica a imposição da violência e do \npatriarcalismo metropolitanos aos homens e mulheres de \nMoçambique.",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

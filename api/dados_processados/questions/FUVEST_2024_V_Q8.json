@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q8",
+    "edital": "FUVEST",
+    "numero": 8,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "“ E n t r e o s a n o s d e 2 0 1 2 e 2 0 2 2 , o n ú m e r o d e p e s s o a s \nautodeclaradas pretas e pardas aumentou em uma taxa \nsuperior à do crescimento do total da população do país, \nsegundo o resultado da Pesquisa Nacional por Amostra de \nDomicílios (PNAD) Contínua do IBGE. No caso dos negros, essa \nporcentagem variou de 7,4% em 2012 para 10,6% em 2022. \n‘(...) uma das hipóteses para o crescimento da proporção é \nque a percepção racial tenha mudado dentro da população, \nnos últimos anos’.” \nO Globo, 22/07/2022; CNN Brasil, 16/06/2023. \n“Pois bem, é justamente a partir daí que aparece a \nnecessidade de teorizar as ‘raças’ como o que elas são, ou \nseja, construtos sociais, formas de identidade baseadas numa \nideia biológica errônea, mas eficaz, socialmente, para \nconstruir, manter e reproduzir diferenças e privilégios. Se as \nraças não existem num sentido estritamente realista de \nciência, ou seja, se não são um fato do mundo físico, são, \ncontudo, plenamente existentes no mundo social, produtos \nde formas de classificar e de identificar que orientam as ações \ndos seres humanos.” \nGUIMARÃES, Antônio Sergio Alfredo. Raças e estudos de relações raciais no \nBrasil. Novos Estudos CEBRAP, n.54, 1999. p.153. \nRelacionando os dados trazidos pela PNAD/IBGE e o conceito \nde raça do sociólogo Antônio Sergio Alfredo Guimarães, é \ncorreto afirmar:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa e Literatura",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "A hipótese de que a autopercepção racial de parte dos \nbrasileiros mudou está em conflito com a tese de que raça \né um construto social. Isso porque, como os traços \nfenotípicos da população b rasileira mantiveram-se os \nmesmos de 2012 a 2022, não haveria motivos para o \naumento dos autodeclarados pretos e pardos.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A tese de que raças são construtos sociais ganha força \ndiante das mudanças na autopercepção de parte dos \nbrasileiros sobre sua condição racial. Alterações culturais \ne ideológicas da inserção social de negros e pardos teriam \npermitido o crescimento dos assim autodeclarados.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "As alterações na autopercepção racial captadas pelas \npesquisas do IBGE não guardam relação com a ideia de que \nraça é um construto social. Na verdade, reafirmam que as \nraças são realidades biológicas e que mais indivíduos \nestariam se dando conta do seu verdadeiro pertencimento \nracial.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Os dados colhidos pelo IBGE sobre o aumento da \nautodeclaração racial dos respondentes como pretos e \npardos indicam que houve um aumento dessa população \nno Brasil, o que contraria a tese de que raça é um \nconstruto social, e não uma realidade biológica.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A existência do racismo no Brasil indica que a tese de raça \nc o m o c o n s t r u t o s o c i a l e s t á e r r a d a . S e r a ç a f o s s e u m \nconstruto social, e não uma realidade biológica, os \nindivíduos prefeririam se declarar como brancos para \nevitar serem vítimas de racismo.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

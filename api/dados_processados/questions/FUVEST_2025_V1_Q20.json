@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q20",
+    "edital": "FUVEST",
+    "numero": 20,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "A figura a seguir apresenta a evolução dos modelos atômicos, \ndesde o primeiro, proposto por Dalton em 1803, até o de \nBohr, proposto em 1913. \n \nSobre os quatro modelos atômicos apresentados, é correto \nafirmar:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "História",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "Todos os modelos previram a presença de cargas positivas \nno núcleo atômico.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "O modelo proposto por Thomson, por prever a existência \nde nêutrons, não poderia explicar a radiação alfa (α).",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Diferentemente do modelo de Dalton, o modelo de \nRutherford não explica a estrutura de cátions e ânions.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Apenas o modelo de Bohr, com o advento de balanças de \nprecisão, considerou a dife rença de massa entre os \nelementos.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Elementos radioativos não poderiam ser explicados pelo \nmodelo proposto por Dalton.",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

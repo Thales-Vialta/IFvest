@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q40",
+    "edital": "FUVEST",
+    "numero": 40,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "Os jardins de chuva, como o esquematizado na figura, vêm \nsendo implantados em áreas urbanas como uma alternativa \nde baixo custo para minimizar alagamentos. São canteiros de \nplantas que ocupam partes rebaixadas do terreno, com a \nfunção de reter parte das águas pluviais e diminuir sua \nvelocidade de escoamento. Para isso, o solo do jardim deve \nser preparado a fim de absorver a água e facilitar sua \ninfiltração, direcionando-a ao lençol freático. Outra vantagem \ndesses jardins é a retenção e decomposição de poluentes \ncarreados pelas águas pluviais. Ainda, ao mesclar diversos \ntipos de plantas, os jardins de chuva atraem animais e \naumentam a biodiversidade local. \nCom base na descrição e no e squema do jardim de chuva \napresentados, é correto afirmar que",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Inglês",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "esse jardim de chuva pode ser considerado um \necossistema, no qual componentes bióticos e abióticos \ninteragem numa dinâmica de autorregulação e \nautossustentação.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "nesse jardim de chuva é possível identificar uma teia \nalimentar com dois níveis tróficos, no qual todos os \nanimais ocupam o nível dos consumidores secundários.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "esse jardim contém pla ntas dicotiledôneas e \nmonocotiledôneas, caracterizadas por possuírem raízes \npivotantes, que aumentam a eficiência na absorção de água.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "o uso de plantas com grande superfície foliar pode \nprejudicar a eficiência de um jardim de chuva, diminuindo \na evapotranspiração da água.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "a decomposição que ocorre no jardim de chuva é feita por \norganismos parasitas, que transformam os detritos em \nnutrientes, resultando, na etapa final, em moléculas \norgânicas complexas.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

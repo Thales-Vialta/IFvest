@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q10",
+    "edital": "FUVEST",
+    "numero": 10,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Segundo o texto, a cultura do “cancelamento”",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa e Literatura",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "busca punir transgressões a valores morais caros aos \ncanceladores com danos à vida econômica do cancelado.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "aplica os instrumentos coer citivos do direito penal ao \ncontexto da internet para impedir o crescimento \nprofissional do cancelado.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "é uma resposta natural à emergência de movimentos \nsociais que lutam por respeito à diversidade e por mais \npoder econômico.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "elimina profissionais do mercado com o objetivo de \ndesmoralizar as empresas contratantes, causando-lhes \nprejuízos.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "visa a aumentar a competição entre as empresas, que se \nvalem do cancelamento para eliminar valores morais que \nconsideram irresponsáveis.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

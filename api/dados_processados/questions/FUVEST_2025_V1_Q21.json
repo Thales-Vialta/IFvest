@@ -1,0 +1,75 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q21",
+    "edital": "FUVEST",
+    "numero": 21,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Baterias íon-lítio (íon-Li) armazenam energia por meio de um \nprocesso de intercalação iônica, no qual íons Li + penetram e \nse acomodam entre camadas de grafite no ânodo da bateria. \nA quantidade de energia armazenada é diretamente \nproporcional ao número de íons Li + intercalados no ânodo, \nque, entre outros aspectos, é limitado pelo espaço disponível \npara a sua alocação. Uma recente inovação tecnológica em \nbaterias é a substituição de Li por Na, formando baterias íon-\nsódio (íon-Na). O mecanismo de funcionamento se baseia no \nprocesso de intercalação, com a vantagem de que o Na é mais \nabundante do que o Li no planeta. \nConsiderando que a única diferença entre baterias de mesma \nmassa e volume seja o íon utilizado (Na + ou Li +) e que a \ndensidade de energia é a quantidade de energia armazenada \nna bateria por unidade de massa e volume, é correto afirmar \nque a densidade de energia de uma bateria íon-Na é",
+    "descricao": "Note e adote: \nDistribuição eletrônica: Li = 1s2, 2s1; Na = 1s2, 2s2, 2p6, 3s1. \nMassa atômica (u): Li = 7; Na = 23. \n##### \n \n \n \n \n \n \n \n{\n22} \n \n \n \nUma das possíveis tecnologias para a produção de telas \nsensíveis ao toque aproveita a re flexão interna total da luz. \nEsse tipo de reflexão ocorre quando um raio luminoso viaja do \ninterior de um meio 1, com índice de refração 𝑛ଵ, em direção \na um meio 2, com índice de refração 𝑛ଶ, formando com a \ndireção perpendicular à interface entre os meios um ângulo 𝜃 \nmaior do que um certo valor limite 𝜃L , tal que sen 𝜃L = 𝑛ଶ/𝑛ଵ. \nQuando um objeto (como um dedo) se aproxima da interface \nentre os meios, a reflexão total não ocorre, o que é captado \npor sensores, revelando a posição do objeto. Suponha que se \ndeseje projetar uma tela sensível ao toque que, conforme \nmostra a figura, funcione com uma fonte luminosa 𝐹 fixa na \nborda. A tabela a seguir indica os índices de refração de alguns \nmateriais candidatos à utilização no meio 1. \nMaterial Índice de refração 𝑛ଵ \nA 1,0002 \nB 1,0003 \nC 1,1503 \nD 1,3204 \nE 1,4889 \nTratando o meio 2 sempre como tendo índice de refração \n𝑛ଶൌ1,0003, o material que permite o maior intervalo de \nângulos de incidência que produzem reflexão total é:",
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "História",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "maior do que de uma bateria íon-Li, pois o Na\n+ tem maior \nmassa e menor raio iônico do que o Li+.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "menor do que de uma bateria íon-Li, pois o Na+ tem maior \nmassa e maior raio iônico do que o Li+.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "maior do que de uma bateria íon-Li, pois o Na+ tem menor \nmassa e maior raio iônico do que o Li+.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "menor do que de uma bateria íon-Li, pois o Na+ tem menor \nmassa e menor raio iônico do que o Li+.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "igual à de uma bateria íon-Li, pois ambos os íons são \nmonovalentes.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Material A.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Material B.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "Material C.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Material D.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Material E.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

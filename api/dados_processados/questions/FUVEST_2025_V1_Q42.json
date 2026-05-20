@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q42",
+    "edital": "FUVEST",
+    "numero": 42,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "No texto, a percepção de “conforto como construto” indica \nque o eu lírico vê o conforto como",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Inglês",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "refúgio mental para apaziguar as pressões e o \ndescontentamento da vida.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "concepção ligada às experiências infantis em mecanismos \nde enfrentamento.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "conceito pressuposto, dependente da realidade concreta \ndas pessoas.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "dificuldade de ter autoafirmação, por conta de questões \ninternas pendentes.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "algo criado pela sociedade, produzindo falsa sensação de \nsegurança.",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

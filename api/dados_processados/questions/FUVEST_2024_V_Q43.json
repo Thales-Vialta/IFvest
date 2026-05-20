@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q43",
+    "edital": "FUVEST",
+    "numero": 43,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "IPCC 4th Report Main Findings. Disponível em: https://www.inforse.org/. \nAdaptado. \nO gráfico apresentado mostra as concentrações atmosféricas \ndos principais gases de efeito estufa até o ano 2000, sendo \neles: CO 2, quantificado em partes por milhão (ppm), N 2O e \nCH4, ambos quantificados em partes por bilhão (ppb). Em \njunho de 2022, a Administração Nacional Oceânica e \nAtmosférica (NOAA) reportou que, naquela data, os níveis de \nCO2 na atmosfera encontravam-se em torno de 420 ppm. Esse \nvalor é muito superior à concentração média de \naproximadamente 280 ppm, existente antes da Revolução \nIndustrial. Com base nessas informações e em seus \nconhecimentos, é correto afirmar:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Inglês",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "A p e s a r d o g r a n d e a u m e n t o n a s q u a n t i d a d e s d o s t r ê s \nprincipais gases de efeito estufa a partir da Revolução \nIndustrial, seus níveis passaram a estabilizar por volta do \nano 2000.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A mecanização resultante da Revolução Industrial, iniciada \nno século XVIII, causou grandes mudanças nos meios de \nprodução, com a utilização de energias renováveis.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "O plantio de árvores em grande escala acentua o \naquecimento global, devido à liberação de gases do efeito \nestufa na atmosfera.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "O aquecimento global é um fenômeno recente, já que a \nTerra teve um clima com temperaturas constantes \ndurante sua existência.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "O efeito estufa é um fenômeno intensificado a partir da \nRevolução Industrial, devido às atividades humanas \nemissoras de CO\n2, que contribuem para o aquecimento \nglobal.",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

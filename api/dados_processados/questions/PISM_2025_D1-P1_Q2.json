@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "PISM_2025_D1-P1_Q2",
+    "edital": "PISM",
+    "numero": 2,
+    "tipo_ou_cor": "D1-P1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "O uso dos dois pontos em “E diz: Leva o documento,\nson” indica a inserção de:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa",
+    "tags": [
+      "PISM",
+      "2025",
+      "D1-P1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "estrangeirismo, devido à utilização do termo\n“son”, uma g´ ıria de centros urbanos para “fi-\nlho”.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "discurso indireto, por fazer referência a como as\nmães falam com seus filhos em São Paulo.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "discurso indireto, pois há uma opinião do autor\nsobre a calma das mães na criação de seus filhos.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "discurso direto, na medida em que há a in-\ntrodução da fala literal da mãe em orientação\nao filho.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "discurso direto, ao fazer a introdução de um pen-\nsamento de preocupação da mãe com seu filho.\nPágina 1 de 13\nLeia o post a seguir, Texto II, e relacione-o\nà letra de canção de Emicida para responder\na Questão 3.\nTEXTO II\nFonte: https://x.com/maxmacieldf/status/130185\n1089407561728?t=q7z9woZ4a6CCgeoq-LT Jg&s=19. Acesso em:\n08 jul. 2024.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q83",
+    "edital": "FUVEST",
+    "numero": 83,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "O funcionário público como personagem literário ganha \ndestaque na literatura brasileira a partir dos anos 1930. Uma \nexplicação para esse fenômeno está na tematização, por parte \ndos escritores, das mudanças do papel do Estado brasileiro na \nconstituição do mercado de trabalho assalariado e como \nagente da modernização do país: \n“De 1930 em diante, foram criadas dezenas de comissões, \ninstituições e órgãos de planejamento e/ou de promoção das \natividades econômicas, notadamente as ligadas às atividades \nagrícolas e àquelas voltadas para a industrialização.” \nMATTOS, Fernando Augusto Mansor de. A trajetória do emprego público no \nBrasil desde o início do século XX. Ensaios FEE, v.36, n.1, p.95, jun.2015. \nNo romance Os ratos, de Dyonélio Machado, o funcionalismo \npúblico configura-se como",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Matemática",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "solução final para o conflito básico da narrativa, uma vez \nque é a partir de seu emprego público que o protagonista \ndo romance obtém recursos para superar as limitações \nfinanceiras que, inicialmente, impulsionam sua \nperambulação pela cidade.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "principal opção de sobrevivência para os homens livres da \nsociedade brasileira recém-saída da escravidão, em \nespecial para os personagens negros, a quem era \nimpossível, de outro modo, alçar posições nos estratos \nsociais mais elevados.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "retrato da constituição de uma cultura organizacional \nligada ao Estado, cuja dinâmica conduz, ao longo do século \nXX, ao desenvolvimento econômico do país e à vertiginosa \nascensão social das classes médias, apontada pelo \ndesfecho positivo do romance.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "opção de ocupação para as camadas médias da sociedade \nbrasileira, que, embora co nstitua meio legítimo de \nsobrevivência, acaba por marginalizá-las pela precarização \ndos ganhos e a desvalorização do trabalho, como retrata a \ntrajetória do protagonista.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "estrutura de trabalho de cunho patrimonialista, cujas \nposições de autoridade são ocupadas pelas camadas \nproprietárias e na qual a distribuição de cargos públicos, \nentre os quais o do protagonista, objetivava a garantia de \napoio político e social.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

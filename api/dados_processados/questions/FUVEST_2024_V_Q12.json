@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q12",
+    "edital": "FUVEST",
+    "numero": 12,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "O texto apresenta uma crítica às exposições de arte imersivas \nque está relacionada com",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa e Literatura",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "a manipulação digital das imagens exibidas pelos usuários \ndo TikTok.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "o emprego das obras de arte para fins publicitários ilícitos.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "a cobrança pelo uso de equipamentos para simular a \nexperiência de imersão nas obras.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "a falta de informação para o público leigo nos catálogos \ndas exibições.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "o investimento necessário pa r a a c r i a ç ã o d a t e c n o l o g i a \nusada nas instalações.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

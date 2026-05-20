@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q7",
+    "edital": "FUVEST",
+    "numero": 7,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "A charge de Angelo Agostini fo i publicada em 1880, em meio \naos debates sobre a Lei dos Sexagenários no parlamento \nbrasileiro. \nAngelo Agostini. “Escravidão ou morte”, Revista Illustrada n.222 (RJ), 1880. \nA charge",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa e Literatura",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "endossa a defesa, pelos setores políticos liberais, do \nemprego de trabalhadores brancos, representados nas \nlaterais do monumento.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "critica a concepção de ind ependência manifesta na \nestátua equestre de Pedro I e a defesa da extinção do \ntráfico de escravizados.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "expõe a contradição entre a liberdade expressa na estátua \nequestre de Pedro I e as mazelas enfrentadas pelos \nescravizados.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "defende a manutenção da escravidão, em oposição à \nexploração do trabalho compulsório de indígenas e de \nimigrantes europeus.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "expressa a indignação dos proprietários rurais, grupo \nsocial hegemônico, diante da redução gradual do trabalho \nescravo.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

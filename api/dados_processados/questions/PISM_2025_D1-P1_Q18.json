@@ -1,0 +1,51 @@
+{
+  "metadados": {
+    "codigo": "PISM_2025_D1-P1_Q18",
+    "edital": "PISM",
+    "numero": 18,
+    "tipo_ou_cor": "D1-P1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Os fenômenos observados no meio ambiente e as ações\nhumanas que podem afetar estes eventos podem ser\nclassificados como transformações qú ımicas ou pro-\ncessos f´ ısicos. Considere os seguintes fenômenos:\n1. precipitação de chuvas;\n2. evaporação da água;\n3. destruição da camada de ozônio;\n4. aquecimento global devido ao efeito estufa e\n5. queima de combust´ ıveis fósseis.\nDentre esses fenômenos, são consideradas trans-\nformações qú ımicas:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Química",
+    "tags": [
+      "PISM",
+      "2025",
+      "D1-P1",
+      "ANULADA"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "1 e 4",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "1 e 3",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "2 e 4",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "3 e 5",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "2 e 5\nPágina 8 de 13",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

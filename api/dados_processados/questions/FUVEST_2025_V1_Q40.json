@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q40",
+    "edital": "FUVEST",
+    "numero": 40,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Atingir a igualdade de gênero é uma das \nmetas do Objetivo de Desenvolvimento \nSustentável (ODS) de número 5 da Agenda \n2030, adotada pela ONU em 2015. \nNo cenário esportivo, é possível \nidentificar alguns avanços em relação ao \nalcance dessa meta, conforme reconheceu a jogadora \nbrasileira de futebol Marta: \n“Quando as atletas do sexo feminino têm a chance de se \ndestacar, os resultados são enormes. E para isso, a Copa do \nMundo Feminina de 2019 foi realmente uma virada no jogo. A \naudiência global do torneio ultrapassou 1 bilhão de pessoas.” \nDisponível em https://brasil.un.org/. \nA Olimpíada de Paris 2024, por sua vez, estabeleceu, pela \nprimeira vez na história, a paridade de gênero em todos os \nesportes olímpicos, com 5.250 vagas destinadas a cada sexo. \nApesar das conquistas, o caminho rumo à igualdade de gênero \ncontinua. \nCom base no exposto, é correto afirmar:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Inglês",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "As práticas esportivas devem ser consideradas como \npráticas sociais, pois claramente refletem em sua \nrealidade as potencialidad es e os retrocessos da \nsociedade. Sendo assim, as mulheres já atingiram o \nmesmo nível de destaque que os homens na sociedade \ncontemporânea, haja vista a ascensão e visibilidade \nfeminina no cenário esportivo.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Os grandes eventos esportivos conferem às mulheres uma \nvisibilidade muitas vezes ca muflada na sociedade. A \nvisibilidade gerada para as atletas em cenário esportivo, a \npartir dos grandes eventos, demonstra o quanto elas já \natingiram em totalidade seu status social e caminham no \nsentido de alcançar a agenda dos ODS.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "As mulheres atletas têm, vagarosamente, alcançado mais \npossibilidades de inclusão e pa rticipação junto ao mundo \nesportivo, porém a igualdade de gênero ainda se mostra \numa meta distante de ser alcançada quando se observa a \nbaixa proporção de mulheres ocupando cargos de gestão \ne liderança no cenário esportivo.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "O mundo esportivo não tem implicação direta junto ao \nalcance das metas dos ODS, uma vez que possui \norganização e regramento específicos, além de uma \nconstituição social própria. Dessa maneira, a instituição \nesportiva não deve ser padrão de referência para revelar \navanços ou retrocessos da sociedade como um todo.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "O esporte tem sido importante fenômeno de promoção \ndas mulheres, mas sua influê ncia é limitada à prática \nprofissional de modalidades esportivas mais populares, \nsem potencial de contribu ir para a igualdade de \noportunidades para as mulheres em todos os níveis de \ntomada de decisão na vida política, econômica e pública.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

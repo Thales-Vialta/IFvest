@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q31",
+    "edital": "FUVEST",
+    "numero": 31,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Alguns corais contêm, em sua es trutura, algas fornecedoras \nde carboidratos que auxiliam no crescimento e na construção \ndo esqueleto do coral. Os corais, por sua vez, fornecem um \nambiente de proteção e importantes nutrientes às algas. As \nmudanças climáticas globais têm provocado a morte dessas \nalgas e, em muitos casos, a morte dos corais. \nAssinale a alternativa que representa a relação ecológica \nentre os corais e as algas, assim como o impacto imediato \ncausado pela morte dos corais. \n Relação ecológica Impacto imediato",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Geografia",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "Predação Formação das marés vermelhas \ne desoxigenação das águas \noceânicas.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Mutualismo Perda de habitat para diversas \nespécies marinhas, assim como \ndiminuição de suas fontes de \nproteção e alimento.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "Colônia Aumento de habitats e nichos \necológicos para espécies que \npassam a viver no local antes \nocupado pelos corais.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Competição Invasão biológica por espécies \nque ocupam o nicho deixado \nvago pelos corais.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Comensalismo Enriquecimento das águas \noceânicas por cálcio e nitrogênio, \nfavorecendo o desenvolvimento \nde algas marinhas.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

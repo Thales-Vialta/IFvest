@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q56",
+    "edital": "FUVEST",
+    "numero": 56,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "Um tema de grande interesse na química é a ativação seletiva \nde ligações C-H. Essa ativação permite a substituição de H \nnessas ligações por outros átomos, como O ou N. A relevância \ndesse tema pode ser verificada em um estudo recentemente \npublicado no prestigioso periódico Science, que conta com \numa egressa da USP dentre seus autores. \nA baixa diferença de eletronegatividade entre C e H é um dos \nmotivos que dificulta a ativação da ligação C-H, pois torna a \nligação pouco polar e diminui sua reatividade. \nConsiderando apenas a eletronegatividade, representada no \ngráfico, qual das alternativas apresenta uma ligação ainda \nmenos reativa do que a ligação C-H?",
+    "descricao": "Note e adote: \nNúmero atômico (Z) dos elementos: H = 1, C = 6, N = 7, O = 8, F = 9, P = 15, \nS = 16, Cl = 17.",
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Física",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "C-N",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "C-F",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "S-O",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "P-H",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "P-C\nl",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

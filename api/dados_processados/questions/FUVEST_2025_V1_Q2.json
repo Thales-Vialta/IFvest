@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q2",
+    "edital": "FUVEST",
+    "numero": 2,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Analise, na figura a seguir, os dados referentes a áreas de \ngarimpo ilegal localizadas em terras indígenas na Amazônia \nbrasileira e sua distância em relação a corpos d’água. \n \nMapBiomas. 2024. Proximidade de Garimpos, Rios e Lagos na Amazônia \n(Adaptado). \nA partir dos dados apresentados e da realidade \nsocioambiental da Amazônia, é correto afirmar:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa e Literatura",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "Os territórios indígenas encontram-se nas áreas mais \ndesmatadas da Amazônia; como o garimpo ilegal produz \nforte impacto ambiental pelo intenso uso da água em seus \nprocessos, tal atividade colabo ra com a desertificação do \nbioma.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "O garimpo ilegal representa alto risco a populações \nhumanas e animais em geral, pela contaminação das águas \ne dos alimentos por substâncias usadas na garimpagem e \nporque tal atividade ocorre em áreas ainda muito \npreservadas, aumentando o impacto ambiental.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "O garimpo ilegal na Amazônia não produz tanto impacto \npara os corpos d’água, uma vez que as atividades \nencontram-se distantes do rio Amazonas e de seus \nafluentes, os maiores rios da região; seu maior impacto \nocorre devido ao desmatamento de extensas áreas de \nfloresta nativa.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A proximidade dos corpos d’água deve-se a questões \nestratégicas, e não ao garimpo ilegal propriamente, pois \neste é de baixo impacto; porém traz conflitos territoriais \ncom as comunidades indígenas, e os rios constituem rotas \nde fuga rápidas e eficientes para os garimpeiros.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A relação entre garimpos e corpos d’água ocorre de forma \nindireta, pois o garimpo amazônico não depende da água \nem seus processos; os garimpeiros buscam esses \nterritórios porque as populações indígenas sabem onde \nexiste ouro e se desenvolvem próximas a rios e lagos.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

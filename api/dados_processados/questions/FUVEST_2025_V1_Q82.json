@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q82",
+    "edital": "FUVEST",
+    "numero": 82,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Mais de uma vez, o brasileiro Machado de Assis e o português \nEça de Queirós foram aproximados porque traçaram linhas de \ncompreensão das suas respectivas sociedades, em um mesmo \ntempo historicamente situado. Os protagonistas Rubião, de \nQuincas Borba (1891), e Gonçalo, de A Ilustre Casa de Ramires \n(1900),",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Matemática",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "representam, respectivame nte, a ascensão política da \nburguesia brasileira durante a segunda metade do século \nXIX e a decadência da aristocracia portuguesa no mesmo \nperíodo.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "têm suas aspirações de grandeza e reconhecimento social \nfrustradas diretamente pelo envolvimento de ambos com \nas políticas partidárias nacionais, introduzindo reformas \nsubstanciais que alteram a situação periférica de cada país.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "buscam reconhecimento social, continuamente frustrados \nnesse propósito por se inserirem em meios sociais que \nprivilegiam a grandeza moral e as virtudes humanas.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "comprometem-se com a superação dos atrasos civilizacionais \nde seus países. Apesar de terem destinos diferentes, \nconfrontam-se com o descompromisso de suas respectivas \nsociedades quanto às transformações sociais e econômicas.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "são vítimas de suas ideias ambiciosas de modernização \nnacional, seja por Rubião promover ideias políticas \n“modernas”, seja por Gonçalo insistir na restauração da \ngrandeza de sua família. Ao final, atingem seus objetivos.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

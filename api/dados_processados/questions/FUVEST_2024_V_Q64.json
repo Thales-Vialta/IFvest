@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q64",
+    "edital": "FUVEST",
+    "numero": 64,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "“Pesquisadores realizaram em 2022 uma expedição que \npromete fazer história. Destino: Serra do Imeri, um conjunto \nde montanhas no norte do Amazonas. O objetivo da missão \nfoi a realização de um inventário de biodiversidade para saber \nque tipos de animais e plantas ocorrem na região e de que \nforma eles se relacionam, ou não, com as espécies que \nhabitam as partes mais baixas do bioma. O Pico da Neblina, o \nmais alto do Brasil, com 2.995 m, faz parte da Serra do Imeri, \nmas integra maciço rochoso diferente, fisicamente separado \nda área da expedição. Do ponto de vista ecológico, são como \ndois arquipélagos distintos, separados por um grande mar de \nfloresta verde.” \nLocalização da Serra do Imeri. \nDisponível em https://jornal.usp.br/ciencias/rumo-a-amazonia-\ndesconhecida/21/10/2022. Adaptado. \nC o m b a s e n a s i n f o r m a ç õ e s f o r n e c i d a s e e m s e u s \nconhecimentos, assinale a alternativa correta.",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Química",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "As barreiras naturais da Serra do Imeri tornam possível o \ndesenvolvimento do endemismo, pois há potencialização \nda formação de novas espécies em função do grande \nisolamento geográfico.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "A á r e a d e e s t u d o h o m o g ê n e a e c o n t í n u a p e r m i t i u a \ncomunicação e o desenvolvimento de riqueza ímpar \nquanto à biodiversidade, em especial por conter condições \nambientais típicas do ecossistema amazônico.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "O isolamento da Serra do Imeri provoca a menor \nocorrência de espécies endêmicas na região, cujos animais \ne plantas não possuem relação direta com o extenso \nbioma Amazônico.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "O conhecimento de espécies biológicas e seus \necossistemas, assim como a compreensão de seus \nhabitats, acelera a extinção de plantas e outros seres vivos, \ndiminuindo a biodiversidade.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A Serra do Imeri representa comunidade ecológica \nameaçada de extinção em razão dos problemas comuns ao \nbioma Amazônico, tais como expansão da agropecuária, \ninstalação de garimpos e extração de madeira.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

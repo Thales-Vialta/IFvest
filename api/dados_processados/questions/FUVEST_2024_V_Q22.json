@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q22",
+    "edital": "FUVEST",
+    "numero": 22,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "“A Enciclopédia conseguiu destronar a antiga rainha das \nciências e elevar a filosofia para o seu lugar. Longe de ser um \ncompêndio neutro de informações, a obra modelava o \nc o n h e c i m e n t o d e t a l m a n e i r a q u e o t i r a v a d o c l e r o e o \ncolocava nas mãos de intelectuais comprometidos com o \nIluminismo. (...) Mas o combate mais importante ocorreu na \ndécada de 1750, quando os enciclopedistas reconheceram \nque conhecimento era poder e, mapeando o universo do \nsaber, partiram para a conquista.” \nDARNTON, Robert. O grande massacre de gatos. Rio de Janeiro: Graal, 1986. \np.270. Adaptado. \nSegundo o excerto, a Enciclopédia preparada pelos \npensadores Diderot e D’Alembert propunha um novo papel \npara os filósofos e uma reordenação do conhecimento \ncientífico. Tal proposta se caracterizou pela",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "História",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "conexão com um modelo de saber que justificava a \nhierarquia social do Antigo Regime.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "revelação de que o conhecimento filosófico oferecia as \nbases políticas para o absolutismo.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "valorização do mecenato como forma de proteção aos \nnovos pensadores.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "aclamação dos pensadores como defensores da \nneutralidade científica.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "legitimação dos filósofos enquanto portadores de virtudes \nderivadas do culto do conhecimento empírico.",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

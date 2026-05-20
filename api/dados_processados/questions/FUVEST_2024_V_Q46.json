@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q46",
+    "edital": "FUVEST",
+    "numero": 46,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "Observe o mapa da expansão da cafeicultura nos estados de \nSão Paulo e Rio de Janeiro nos séculos XIX e XX. \nAtlas Histórico Escolar. Rio de Janeiro, MEC, 1996. \nSobre o papel da cafeicultura na dinâmica territorial dessas \náreas, é correto afirmar:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Inglês",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "Iniciada no Vale do Paraíba do Sul, entre São Paulo e Rio \nde Janeiro, na década de 1830, a cafeicultura teve pouco \nêxito nessa região pelas dificuldades de cultivo, em função \ndo clima frio e da escassez de trabalho escravizado.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A expansão da produção cafeeira no estado de São Paulo \nse deu em direção à zona oriental do estado, na década de \n1850, em decorrência da infr aestrutura de transporte \nexistente na região e da presença de trabalho assalariado.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "O início da cafeicultura no estado de São Paulo se deu na \nregião oeste, na década de 1930, em decorrência da \nexpansão da produção no norte do Paraná, com expansão \npara o oeste paulista, aproveitando-se da qualidade do solo.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A produção cafeeira, nos séculos XIX e XX, concentrava-se \nnos estados de Minas Gerais e Espírito Santo, com a \nintrodução de novas variedades altamente produtivas e \nresistentes ao clima frio dessas regiões.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Expandindo-se na direção oeste do território paulista, a \nprodução cafeeira impulsionou, nos séculos XIX e XX, a \nestruturação econômica do estado de São Paulo, impactando \no desenvolvimento da malha ferroviária e portuária.",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

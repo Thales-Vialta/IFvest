@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q58",
+    "edital": "FUVEST",
+    "numero": 58,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "No processo de compra e venda de artigos de ouro, é comum \ntestar os objetos para verificar se eles realmente são feitos de \nouro ou se são alguma falsificação feita com metais menos \nnobres. Esse teste pode ser feito adicionando um pequeno \nvolume de ácido forte concentrado às raspas do objeto a ser \ntestado, conforme figura a seguir. Caso o objeto seja feito com \nouro, as raspas permanecem v isíveis, enquanto as raspas de \nfalsificações são dissolvidas. \nConsiderando apenas o potencial de redução padrão, qual das \nalternativas apresenta um material que poderia gerar um \nfalso positivo para o objeto de ouro no teste descrito?",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Física",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "Mg",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A\nl",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Fe",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Pt",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "F",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

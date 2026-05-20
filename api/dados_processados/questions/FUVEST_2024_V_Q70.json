@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q70",
+    "edital": "FUVEST",
+    "numero": 70,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "Observe o mapa da distribuição da pesca no globo em \ntoneladas por quilômetro quadrado, por ano. \nDisponível em https://animalbusiness.com.br/negocios-e-mercado/. \nBaseado em seus conhecimentos sobre correntes marítimas \nquentes e frias em superfície, bem como nos dados \nrepresentados no mapa, assinale a alternativa correta.",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Biologia",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "No Hemisfério Sul, as regiões de maior potencial de pesca \nsão aquelas que margeiam a costa leste dos continentes \namericano, africano e asiático, marcadas pela presença de \ncorrentes marítimas quentes.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "No Hemisfério Norte, as regiões de maior potencial de \npesca são registradas na costa leste e oeste do continente \namericano, margeadas pelas correntes marítimas frias do \nLabrador e do Golfo, respectivamente.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Em todo o globo, as áreas que demarcam as águas \ninternacionais ou alto-mar são as mais piscosas \nindependentemente da presença de correntes marítimas \nquentes ou frias.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "No Hemisfério Sul, as regiões de maior potencial de pesca \no c o r r e m n a c o s t a o e s t e d o c o n t i n e n t e a m e r i c a n o e d o \ncontinente africano, com a p resença, respectivamente, \ndas correntes marítimas de Humboldt e de Benguela.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "As regiões polares apresentam potencial reduzido de \npesca em função das dificu ldades de acesso, baixa \nreprodução das espécies nesses locais e presença de \ncorrentes marítimas frias.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

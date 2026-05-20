@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q2",
+    "edital": "FUVEST",
+    "numero": 2,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "No fragmento Mas ninguém se sentia com coragem de \nrealmente pôr esse nome “tão pesado” num bebê, a \nexpressão “tão pesado” aparece entre aspas porque o \nenunciador",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa e Literatura",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "busca realçar o caráter denotativo da expressão, \nindicando sua concordância com ela.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "incorpora a expressão em seu discurso, mas quer \ncaracterizá-la \ncomo de autoria alheia.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "procura assinalar que se trata de um eufemismo, deixando \nclaro que não teria gostado do nome do bebê.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "quer explicitar ao leitor que consiste em um neologismo \nque demonstra sua afetividade diante da criança.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "visa esclarecer, em seu discurso, o significado do nome \nescolhido.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

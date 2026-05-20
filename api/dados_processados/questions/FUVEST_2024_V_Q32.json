@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q32",
+    "edital": "FUVEST",
+    "numero": 32,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "A tabela a seguir mostra a condição de duas variáveis sociais \nem quatro cidades urbanas genéricas. \n \n% de domicílios com \ncoleta de esgoto e \ntratamento de água \n% da população \nimunizada com \ncobertura vacinal \ncompleta \ncidade I 89% 19% \ncidade II 12% 13% \ncidade III 98% 15% \ncidade IV 10% 90% \nCom base nesses dados, é correto afirmar que a população \nhumana dessas cidades tem risco aumentado de ter as \nrespectivas doenças: \ncidade I cidade II cidade III cidade IV",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Geografia",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "leptospirose influenza amebíase cólera",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "COVID teníase tétano tuberculose",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "hepatite B amebíase cólera leptospirose",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "influenza teníase pneumonia COVID",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "tuberculose poliomielit e hepatite B amebíase",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

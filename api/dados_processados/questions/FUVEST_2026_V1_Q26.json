@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q26",
+    "edital": "FUVEST",
+    "numero": 26,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Our planet is home to \nsubterranean lava deposits and \nsmatterings of obsidian—black \nvolcanic glass. Scalding \ngroundwater bubbles to the \nsurface in places. In such a \nlandscape, you remember that \nthe planet’s hard exterior is so \nthin that we call it a crust. Its superheated interior burns with \nan estimated forty-four trillion watts of power. Heat mined from \nunderground is called geothermal and can be used to produce \nsteam, spin a turbine, and generate electricity. Until recently, \nhumans have tended to harvest small quantities in the rare \nplaces where it surfaces, such as hot springs. The biggest \ndrawback is drilling miles through hot rock, safely. If scientists \ncan do that, next-generation geothermal power could supply \nclean energy for eons. Right now, geothermal energy meets a \npuny portion of humanity’s electricity and heating needs. Fossil \nfuels power about eighty per cent of human activity, pumping \nout carbon dioxide and short-circuiting our climate to \ncatastrophic effect. Converts argue that geothermal checks \nthree key boxes: it is carbon-free, available everywhere, and \neffectively unlimited. It is also baseload, which means that, \nunlike solar panels or wind, it provides a steady flow of energy. \n“Over the last two years, I have watched this exponential spin-\nup of activity in geothermal,” a drilling expert said. But there is \na risk of moon shots: often, they miss. “There’s basically zero \nchance that you’re going to develop a moon-shot technology \nand have it be commercial in five years, on a large-scale”, said \nMark Jacobson, an engineering professor. That’s how long \nhumanity has to lower emissions before climatic devastation. \n“There’s a very decent chance you can do that with wind and \nsolar,” he said. Perhaps, when resources and time are finite, \ntrying and failing could be worse than not trying at all. \nNew Yorker. March 2025. Adaptado. \n \nDe acordo com o texto, atualmente a exploração do calor \ngerado nas regiões subterrâneas do planeta",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "História",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "atende a uma parcela insignificante da demanda \nenergética da sociedade.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "pode ser utilizada através de um aparato tecnológico de \nbaixo custo.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "oferece vantagens ambientais limitadas em relação a \noutras fontes de \nenergia renováveis.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "utiliza métodos desenvolvidos nas pesquisas científicas \nsobre a superfície lunar.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "proporciona utilidade prática restrita do ponto de vista da \nprodução industrial.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

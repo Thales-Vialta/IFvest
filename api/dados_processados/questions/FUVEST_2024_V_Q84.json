@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q84",
+    "edital": "FUVEST",
+    "numero": 84,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "O Atlas da Violência, publicad o em 2019 e organizado pelo \nInstituto de Pesquisa Econômica Aplicada e Fórum Brasileiro \nde Segurança Pública, apresenta um estudo para melhor \ncompreender a violência no país. Os dados que ali constam \nreferem-se ao período de 2007 a 2017. Um dos capítulos \ndesse documento trata, especificamente, da violência contra \na mulher. O gráfico a seguir m ostra a evolução da taxa de \nhomicídios de mulheres (equivalente ao número de \nhomicídios por 100 mil mulheres), de 2007 a 2017, no Brasil e \nnas três unidades federativas com as menores taxas em 2017. \nIpea/FBSP. Atlas da Violência, 2019. \nDe acordo com os dados apresentados, é correto afirmar:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Matemática",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "Dentre as unidades federativas citadas, a que teve maior \ndecréscimo na taxa de homicídios de mulheres no período \nentre 2014 e 2017 foi São Paulo.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "As três unidades federativas indicadas tiveram um \ndecréscimo na taxa de homicídios de mulheres em 2017 \nquando comparada com a taxa de 2007.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A taxa de homicídios de mulheres no Brasil em 2017 é \nmaior que a soma das taxas das três unidades federativas \napresentadas neste mesmo ano.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Dentre as unidades federativas apontadas, a que \napresentou a maior taxa de homicídios de mulheres em \n2017 é Santa Catarina, superando a taxa registrada nos \ndemais estados da região Sul.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Dentre as unidades federativas mencionadas, a maior \nredução na taxa de homicídios de mulheres, entre 2016 e \n2017, registrada na pesquisa ocorreu no Distrito Federal.",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

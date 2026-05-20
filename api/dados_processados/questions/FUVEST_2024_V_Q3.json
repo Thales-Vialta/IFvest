@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q3",
+    "edital": "FUVEST",
+    "numero": 3,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "A arte foi e ainda pode ser utilizada para criar, reforçar e \ndisseminar ideias, valores e estereótipos, mas também pode \ncolocá-los em discussão. A obr a “Sentem para jantar”, de Gê \nViana, faz parte da série “Atualizações traumáticas de \nDebret”, na qual o artista propõe uma revisão iconográfica da \nhistória do Brasil tendo como referência as obras de Jean-\nBaptiste Debret, especificamente aquelas presentes em \n“Viagem Pitoresca e Histór ica ao Brasil” (1834-1839), \npublicação que pautou de maneira imagética o período \ncolonial brasileiro. Em sua revisão, Gê Viana dá continuidade \nao seu projeto de análise crítica de representações históricas, \nproduzindo releituras de algumas dessas obras, dentre as \nquais, a obra “Um jantar brasileiro”, do artista francês. A \nseguir, são reproduzidos os quadros desses dois artistas. \nJean-Baptiste Debret. “Um jantar brasileiro”, 1827. Aquarela, 1 5,7 x 22 cm. \nDisponível em http://museuscastromaya.com.br/. \nGê Viana. “Sentem para jantar”, 2021. Impressão em jato de tint a com \npigmento natural de colagem digi tal sobre papel Hahnemuhle Phot o Rag \n308 g/m2; 29,7 x 42 cm. Disponível em https://mam.rio/ge-viana/. \nCom base nas informações e imagens apresentadas, assinale \na alternativa que corresponde à abordagem adotada por Gê \nViana em sua obra “Sentem para jantar”, ao utilizar como \nreferência a obra “Um jantar b rasileiro”, de Jean-Baptiste \nDebret.",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa e Literatura",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "G ê V i a n a r e p r o d u z , e m s u a o b r a , a s m e s m a s r e l a ç õ e s \nsociais representadas na obra de Debret.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Gê Viana exalta, em sua obra, especialmente as \ncaracterísticas físicas das pessoas retratadas, enquanto \nDebret enfatiza as relações pessoais.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Gê Viana emprega, em sua obra, as mesmas técnicas e os \nmesmos materiais utilizados na obra de Debret, o que lhes \nconfere grande semelhança.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Gê Viana ignora aspectos relacionados a questões étnico-\nraciais em sua releitura da obra de Debret, focando apenas \nna estética visual da obra.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Gê Viana busca desconstruir, em sua obra, os estereótipos \nétnico-raciais presentes na obra original de Debret.\n \nTEXTO PARA AS QUESTÕES 04 E 05 \n \n \nDisponível em https://www.tate.org.uk/art/artworks/.",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

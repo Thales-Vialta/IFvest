@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q66",
+    "edital": "FUVEST",
+    "numero": 66,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Ao empregar o pronome se em “utilizou-se o caldo de cana \nem uma célula a combustível pa ra gerar energia elétrica”, o \npesquisador",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Química",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "indetermina o sujeito, tentando mostrar que desconhece \na real autoria do experimento.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "valoriza o objeto “caldo de cana”, enfatizando a \nimportância desse produto para o experimento.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "chama a atenção para o verbo transitivo “utilizar”, \nvalorizando a importância de se experimentar \ndiretamente o caldo de cana.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "faz uso da voz passiva, construção em que “caldo de cana” \natua como sujeito, deixando de haver menção a quem \nrealizou o experimento.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "escolhe uma construção reflexiva em que “caldo de cana” \né, ao mesmo tempo, o agente e o objeto do experimento \nrealizado.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

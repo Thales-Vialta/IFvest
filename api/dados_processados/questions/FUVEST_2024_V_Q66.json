@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q66",
+    "edital": "FUVEST",
+    "numero": 66,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "Observe as ilustrações. \nDisponível em https://g1.globo.com/ma/maranhao/noticia/2023/03/29/. \nA imagem de satélite e a foto retratam fenômeno que \naconteceu em Buriticupu, no oeste maranhense. Com base \nnas figuras e em seus conhecim entos, assinale a alternativa \ncorreta.",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Química",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "O fenômeno é caracterizado pela formação de voçorocas, \nfeições erosivas de grandes proporções que podem ser \nevitadas por meio do controle do fluxo das águas \nsuperficiais e subsuperficia is, plantio de vegetação e \nterraceamento.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "Trata-se de uma feição erosiva ocasionada pelas fortes \nchuvas que assolam a região, sendo um processo natural \nque não é afetado pela ação humana, pois é um fenômeno \nassociado à origem de solos e às nascentes de rios.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "O fenômeno caracteriza a formação de voçorocas, feições \nerosivas profundas que têm sua origem na ascensão do \nlençol freático e no acúmulo de lixo. Podem ser evitadas \npor meio do saneamento básico e da confecção de aterros.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Trata-se de um fenômeno associado a tremores de terra e \nfluxos subterrâneos de água que resultam na feição \nerosiva chamada de voçoroca, caracterizada por abrir \ng r a n d e s c r a t e r a s n o s o l o s e m h a v e r a c ú m u l o d e \nsedimentos.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "O fenômeno mostra a formação de fluxos de lama na \ndireção da área urbana do município. Podem ser vistos o \ndesmatamento do seu entorno e arruamento precário em \nestradas de terra vicinais que causaram o processo \nerosivo.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

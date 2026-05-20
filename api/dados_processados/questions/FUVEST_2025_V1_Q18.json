@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q18",
+    "edital": "FUVEST",
+    "numero": 18,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "No dia 26 de março de 2024, à 1h29min, aproximadamente, o \nnavio cargueiro MV Dali colidiu com a ponte Francis Scott Key \nem Baltimore, EUA. O impacto causou o colapso da ponte, \ntornando-se um dos maiores acidentes marítimos da história \nnorte-americana. \nA figura a seguir mostra os dados da velocidade do navio em \nfunção da hora local. A colisão ocorreu no intervalo de 38 \nsegundos, marcado por linhas pontilhadas no gráfico. \n \nDisponível em https://www.nytimes.com/ (Adaptado). \nAssumindo que a massa do navio no momento do impacto \nseja de 100 mil toneladas e, tendo por base os dados do \ngráfico, a magnitude da força média atuando sobre o navio \ndurante a colisão é de, aproximadamente,",
+    "descricao": "Note e adote: \nConsidere que a força atuando sobre o navio durante a colisão seja \nconstante e igual à força média. \nUtilize 1 m.p.h. = 0,5 m/s. \n#####",
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa e Literatura",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "7 ൈ 10ꟷ2 N.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "7 ൈ 100 N.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "7 ൈ 102 N.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "7 ൈ 104 N.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "7 ൈ 106 N.",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q45",
+    "edital": "FUVEST",
+    "numero": 45,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "“Em uma onda sem precedentes de medo, confusão e pânico, \nhoje quase 13 milhões de ações mudaram de mãos na Bolsa \nde Valores de Nova York. Corretores atordoados \natravessaram um mar de papel segurando ordens de \ninvestidores assustados para ‘vender a qualquer preço’.” \n“Wall Street cai”. The Guardian (Londres), 24/10/1929, p.1. \n“O mercado esteve ontem numa situação de verdadeiro \npânico. Em São Paulo pedem-se a moratória e a emissão de \npapel-moeda. O presidente da República receberá hoje uma \ncomissão do comércio de Santos.” \n“A crise do café”. Correio da Manhã (Rio de Janeiro), 29/10/1929, p.1. \nOs excertos, extraídos de matérias jornalísticas publicadas à \népoca, relatam reações ante a Crise de 1929. Essa crise",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Inglês",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "atingiu as atividades agrícolas, incentivou a mecanização \ndo processo produtivo e a absorção dos trabalhadores \npelo setor industrial.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "afetou as bases do liberalismo econômico, obrigando a \nintervenção do Estado po r meio de regulações e \ninvestimentos.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "impulsionou a indústria do entretenimento, responsável \npor forjar comportamentos que se opunham ao \npessimismo.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "favoreceu a substituição do dólar pela libra esterlina \nenquanto moeda empregada no comércio internacional.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "contribuiu para o desenvolvimento industrial com a \nsubstituição de importações e a ampliação do crédito para \ninvestimentos.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

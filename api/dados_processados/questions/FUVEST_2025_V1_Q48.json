@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q48",
+    "edital": "FUVEST",
+    "numero": 48,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Os gráficos a seguir apresentam a evolução do abate de \nbovinos e da participação de machos e fêmeas, por trimestre \n(indicado por algarismo romano), segundo informações \nobtidas pelo IBGE. \nEvolução do abate de bovinos no Brasil por trimestre (2019-2024) \n \n \nEvolução da participação de machos e fêmeas no abate de bovinos \nno Brasil por trimestre (2019-2024) \n \nIBGE: Diretoria de Pesquisas. Coordenação de Estatísticas Agropecuárias. \nPesquisa Trimestral do Abate de Animais 2019-2024 (Adaptado). \nA partir dos dados observados nos gráficos, é correto afirmar:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Inglês",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "No primeiro trimestre de 2023, a diferença entre as \nquantidades de machos e fêmeas abatidos foi menor que \na do primeiro trimestre de 2019.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "No primeiro trimestre de 2023, a quantidade de fêmeas \nabatidas foi de, aproximadamente, 2 milhões.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "No primeiro trimestre de 2021 e de 2022, a diferença entre \nas quantidades de machos e fêmeas abatidos foi igual.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "No primeiro trimestre de 2024, a quantidade de fêmeas \nabatidas foi de, aproximadamente, 4,3 milhões.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "No primeiro trimestre de 2024, a quantidade de fêmeas \nabatidas foi igual à do primeiro trimestre de 2019.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

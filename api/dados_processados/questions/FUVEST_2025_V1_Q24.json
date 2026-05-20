@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q24",
+    "edital": "FUVEST",
+    "numero": 24,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Na zona sul da cidade de São Paulo, há uma esquina formada \npelas ruas Cloreto de Sódio e Relíquia do Oceano. \n \nA coincidência do encontro dessas ruas chama a atenção, pois \no cloreto de sódio",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "História",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "praticamente não está presente no oceano, apesar de este \nser salgado.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "é insolúvel na água do oceano por apresentar ligação \niônica.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "utilizado no Brasil é quase todo proveniente do oceano.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "obtido do oceano apresenta ligação covalente, enquanto \no extraído do sal-gema, ligação iônica.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "retirado do oceano tem mais átomos de cloro ligados ao \nsódio do que o oriundo de outras fontes.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

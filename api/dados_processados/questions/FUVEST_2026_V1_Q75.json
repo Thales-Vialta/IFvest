@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q75",
+    "edital": "FUVEST",
+    "numero": 75,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Uma criança brinca com uma bolinha, deixando-a cair em \ndireção ao chão, onde ela quica e retorna praticamente à \naltura de origem. Qual dos gráficos a seguir melhor representa \ncomo a altura da bolinha varia com o tempo?",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Biologia",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "Figura A",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Figura B",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Figura C",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "Figura D",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Figura E",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

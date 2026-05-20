@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q62",
+    "edital": "FUVEST",
+    "numero": 62,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "Os domínios morfoclimáticos e fitogeográficos propostos pelo \ng e ó g r a f o A z i z N a c i b A b ´ S á b e r n o s a n o s 1 9 6 0 c o n t i n u a m \nválidos na atualidade. Representam um mapeamento do \nterritório brasileiro, na escala zonal, onde foram identificados \nseis grandes domínios, além de uma faixa denominada de \ntransição, que sintetizam os elementos do clima, da \nvegetação, do solo, do relevo e outros atributos presentes na \npaisagem. Observe as imagens: \n \n(1) \n \n(2) \n \n(3) \nAB’SÁBER, Aziz Nacib. Os domínios de natureza no Brasil. Potencialidades \npaisagísticas. São Paulo: Ateliê Editorial, 2003. \nAs imagens representam aspectos paisagísticos dos tipos \nclimáticos semiárido (1), tropical (2) e subtropical (3), \npresentes, respectivamente, nos seguintes domínios \nmorfoclimáticos:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Química",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "Caatingas, Cerrado e Araucárias.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "Pradarias, Caatingas e Amazônico.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Cerrado, Caatingas e Pradarias.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Mares de Morros, Pradarias e Amazônico.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Cerrado, Araucárias e Mares de Morros.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

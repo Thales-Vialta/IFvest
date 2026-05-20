@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q41",
+    "edital": "FUVEST",
+    "numero": 41,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "As m o l é c u l a s d e á gu a p o d e m co n t e r o i s ó t o p o e s t á v e l m a i s \nabundante de oxigênio, 16O , o u o i s ó t o p o e s t á v e l m e n o s \nabundante, 18O. \nEssa pequena diferença de massa entre as moléculas de água \né suficiente para alterar a sua pressão de vapor. Por esse \nmotivo, a análise de isótopos de oxigênio na água da chuva \npossibilita a identificação de p eríodos secos e de períodos \nchuvosos. \nA figura ilustra a mudança na c onstituição isotópica da água \nda chuva ao longo do tempo como resultado da diferença na \npressão de vapor. \nCom base nessas informações, assinale a alternativa correta.",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Inglês",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "Em períodos de alta pluviosidade, as primeiras \nprecipitações da nuvem são isotopicamente mais leves e a \nnuvem de chuva se enriquece, relativamente, em \n18O.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Em períodos de baixa pluviosidade, a constituição \nisotópica das nuvens pouco se altera ao longo do tempo, \ne a pouca chuva dessas nuvens é relativamente \nenriquecida em \n18O.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "No período atual, em função do aquecimento global, as \ntemperaturas elevadas fazem com que o fracionamento \nisotópico de \n16O e 18O resultante da evaporação e da \nprecipitação da água não ocorra.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Em períodos glaciais, em função da maior temperatura do \nplaneta, as chuvas são enriquecidas em 18O, enquanto, nos \noceanos, a água é enriquecida em 16O.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Em períodos interglaciais, em função da menor \ntemperatura do planeta, as chuvas são enriquecidas em \n16O, enquanto, nos oceanos, a água é enriquecida em 18O.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

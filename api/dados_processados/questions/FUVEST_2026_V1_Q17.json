@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q17",
+    "edital": "FUVEST",
+    "numero": 17,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Em março de 2025, postagens em redes sociais digitais \ndiscutiram uma tendência verificada entre crianças e \nadolescentes de utilizar o termo “CLT” como uma ofensa. Na \nmatéria “'Crianças demonizam CLT': carteira assinada vira \nofensa entre os jovens”, de Camila Corsini para o UOL, há \nvários depoimentos em que crianças associam o emprego \ncom CLT a menores rendimentos, à pobreza e ao fracasso \nprofissional, em oposição a ocupações autônomas ou por \nconta própria, que seriam caminhos para a riqueza. Veja os \ngráficos com as estimativas da Pesquisa Nacional por \nAmostra de Domicílios Contínua (PNAD-C) do IBGE para a \ndistribuição da ocupação por categoria e o rendimento \nmédio mensal real habitual das pessoas para o trimestre \ncompreendido entre dezembro de 2024 e fevereiro de 2025: \n \n \n \nPesquisa Nacional por Amostra de Domicílio Contínua (PNAD-C). Instituto \nde Brasileiro de Geografia e Estatística (IBGE), maio de 2025. Adaptado. \n \nA partir dos dados apresentados no gráfico, é correto afirmar \nque as associações realizadas por crianças e adolescentes \ncom diferentes formas ocupacionais são fundadas em uma \nvisão de que",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa e Literatura",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "os empregadores e trabalhadores autônomos são mais \nnumerosos do que empregados com carteira assinada e, \nlogo, seguir essas ocupações é \num caminho mais seguro \npara a riqueza.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "os empregados do setor privado sem carteira e \ntrabalhadores autônomos possuem rendimento médio \nmaior que os empregados com carteira e, logo, estão mais \nprotegidos da pobreza.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "os trabalhadores autônomos estão mais protegidos contra \nos riscos sociais do que aqueles com emprego formal, que \ntradicionalmente oferece menos direitos.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "os empregadores (empresários) têm maiores ganhos e \nautonomia, o que atrai os jovens a fugir da subordinação \nda relação de emprego, a qual desprezam, para constituir \nempresas, ainda que haja menos empregadores do que \nempregados.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "os trabalhadores autônomos com CNPJ, com ganhos \nsuperiores aos dos empregados com carteira, são muito \nnumerosos e, logo, a ocupação parece-lhes um caminho \npara o êxito e a riqueza.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

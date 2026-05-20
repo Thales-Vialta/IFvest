@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "PISM_2025_D1-P1_Q6",
+    "edital": "PISM",
+    "numero": 6,
+    "tipo_ou_cor": "D1-P1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Analise as imagens a seguir:\nFigura 1\nFonte: https://encurtador.com.br/Z9uWG Acesso em 24 de jun. de\n2024.\nFigura 2\nFonte: INMET, 2024.\nA Figura 1 representa as massas de ar que atuam\nsobre a América do Sul. Já a Figura 2 representa o\nacumulado de chuvas em mil´ ımetros em 15 dias no\nBrasil entre 21/04/2024 e 06/05/2024. O elevado\nn´ ıvel de chuvas sobre o estado do Rio Grande do\nSul pode ser considerado como um evento extremo\ncausado por uma conjunção de fenômenos meteo-\nrológicos.\nÉ CORRETO afirmar como uma das causas deste\nevento extremo que:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Geografia",
+    "tags": [
+      "PISM",
+      "2025",
+      "D1-P1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "a Massa Polar Atlântica, fria é umida, se man-\nteve sobre o Rio Grande do Sul devido ao blo-\nqueio atmosférico no Centro-Sul do Brasil.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "a Massa Tropical Atlântica, quente é umida, não\natingiu o Rio Grande do Sul devido ao enfraque-\ncimento da Zona de Alta pressão Atlântica.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "o aquecimento global ainda não atingiu o estado\ndo Rio Grande do Sul, o que provocou tempera-\nturas abaixo da média e chuvas intensas.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "a massa Equatorial Continental, quente é umida,\ndeslocou-se para o Nordeste brasileiro em de-\ncorrência das baixas precipitações na Amazônia.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "o Fenômeno El Ni˜ no provocou a diminuição das\ntemperaturas no Centro-Sul do Brasil, atraindo\na Massa Tropical Continental, quente e seca,\npara esta área.\nPágina 4 de 13\nFonte: IBGE, 2024.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

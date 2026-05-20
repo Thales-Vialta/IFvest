@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q51",
+    "edital": "FUVEST",
+    "numero": 51,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "Uma das modalidades de skate é o bowl, disputado em um \nespaço em formato aproximado de bacia. Supondo um bowl \ncom profundidade de 2,45 m, qual a máxima velocidade que \num skatista, partindo do repouso no ponto mais alto da bacia, \npoderia alcançar no ponto mais baixo?",
+    "descricao": "Note e adote: \nAceleração da gravidade (g) = 10m/s2",
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Física",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "3 m/s",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "5 m/s",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "7 m/s",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "9 m/s",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "11 m/s",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

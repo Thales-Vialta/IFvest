@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q50",
+    "edital": "FUVEST",
+    "numero": 50,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Neste bioma, a vegetação nativa apresenta-se intercalada por \nextensas monoculturas de soja e de arroz. Em alguns lugares, \na vegetação campestre original tem sido substituída por \nvegetação florestal, formada por árvores de eucaliptos. Em \nvários locais, observa-se a expansão de grandes areais, em \nque os solos arenosos ficam expostos e suscetíveis a uma \nintensa erosão. Este é o bioma brasileiro menos protegido por \nUnidades de Conservação, embora esteja entre aqueles que \nmais perderam vegetação nativa nas últimas três décadas. \nA descrição da paisagem impactada por ações humanas \nrefere-se ao bioma",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Física",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "Caatinga.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Cerrado.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Mata Atlântica.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Pampas.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "Pantanal.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

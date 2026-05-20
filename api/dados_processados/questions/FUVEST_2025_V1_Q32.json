@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q32",
+    "edital": "FUVEST",
+    "numero": 32,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "O fenômeno físico co nhecido como iridescência ocorre nas \nasas de certas espécies de borboletas e caracteriza-se pela \nvariação das cores de acordo com o ângulo de observação. A \nexistência de faixas coloridas na superfície das asas das \nborboletas ocorre devido a diferentes formas de superposição \nentre raios luminosos refletidos por uma fina camada de \nsubstância transparente existente na superfície das asas. \n \nDisponível em https://www.pbs.org/wgbh/. \nOs fenômenos físicos direta mente relacionados com a \niridescência são",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Geografia",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "dilatação e reflexão.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "interferência e dilatação.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "dissipação e difração.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "convecção e dispersão.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "reflexão e interferência.",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q61",
+    "edital": "FUVEST",
+    "numero": 61,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Os versos a seguir pertencem à canção Fall on Me, da banda \nnorte-americana R.E.M., lançada em 1986. \n“There's a problem, feathers, iron \nBargain buildings, weights and pulleys \nFeathers hit the ground before the weight can leave the air” \nBill Berry, Peter Buck, Mike Mills e Michael Stipe. \nA qual episódio (real ou hipotético) da história da física o \ntrecho da música faz alusão?",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Química",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "À queda de uma maçã, que teria inspirado Newton à \ndescoberta da gravitação universal.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "À observação de um pássaro em voo, que teria levado \nEinstein a formular a teoria da relatividade.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Aos experimentos com objetos de massas diferentes, que \nteriam indicado a Galileu os princípios da queda livre.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "Ao transbordamento da água em uma banheira, que teria \nsugerido a Arquimedes o conceito de empuxo.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "À queda de um bloco de ferro ligado a uma hélice, que \nteria levado Joule à equivalência entre calor e energia.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

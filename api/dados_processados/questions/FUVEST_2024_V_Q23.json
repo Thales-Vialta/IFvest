@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q23",
+    "edital": "FUVEST",
+    "numero": 23,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "“Quero dizer, numa palavra, que, levando em conta todas as \ncoisas que nascem, devemos verificar se em cada caso é bem \nassim que nasce cada um dos seres, isto é, se os contrários \nn ã o n a s c e m s e n ã o d o s s e u s p r ó p r i o s c o n t r á r i o s , e m t o d a \nparte onde existe tal relação: entre o belo, por exemplo, e o \nfeio, que é, penso, o seu contrário; entre o justo e o injusto; e \nassim milhares de outros casos. (...) \nExemplo: quando uma coisa se torna maior, não é necessário \nque ela anteriormente tenha sido menor, para em seguida se \ntornar maior?” \nPlatão, Fédon, p.79. \nNo trecho transcrito do texto Fédon, Platão propõe uma \ncompreensão filosófica própria s o b r e a r e l a ç ã o e x i s t e n t e \nentre os opostos. Com base nela, dentre as inferências \npossíveis, aquela que descreve a articulação principal e n t r e \ndois termos que se opõem é:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "História",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "Entre os opostos, é possível inferir uma relação principal \nde complementariedade.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Entre os opostos, é possível inferir uma relação principal \nde alternância.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Entre os opostos, é possível inferir uma relação principal \nde exclusão.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Entre os opostos, é possível inferir uma relação principal \nde anulação.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Entre os opostos, é possível inferir uma relação principal \nde geração.",
+      "imagem": null,
+      "correta": true
+    }
+  ]
+}

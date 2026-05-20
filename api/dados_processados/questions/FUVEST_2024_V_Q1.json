@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q1",
+    "edital": "FUVEST",
+    "numero": 1,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "O verso “É tempo de formar novos quilombos” é um exemplo de",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa e Literatura",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "paradoxo, na medida em que propõe retomar o passado \nnum contexto atual.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "metonímia, já que os quilombos fazem parte de um novo \ncontexto cultural, sem relação com o passado.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "metáfora, representando uma união coletiva como forma \nde resistência social.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "antítese, ao relacionar a noção de tempo passado a uma \nnova configuração de futuro.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "hipérbole, apresentando o termo “quilombos” no plural \npara indicar o grau de difusão do movimento.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

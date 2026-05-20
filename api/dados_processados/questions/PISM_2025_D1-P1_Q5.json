@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "PISM_2025_D1-P1_Q5",
+    "edital": "PISM",
+    "numero": 5,
+    "tipo_ou_cor": "D1-P1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Em relação aos efeitos de sentido constrú ıdos pela\nutilização do sufixo “inha/inho” empregado em pa-\nlavras presentes nos textos III, IV, V, pode-se inferir\nque:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa",
+    "tags": [
+      "PISM",
+      "2025",
+      "D1-P1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "no texto III, no trecho “mas como eles não po-\ndiam perder a escravinha não me mandavam em-\nbora só ameaçavam”, o uso do diminutivo atri-\nbui valor pejorativo à pessoa referida.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "no texto IV, o uso do diminutivo no trecho “Sem\nfalar em outro doutorzinho” demonstra a relação\nde cordialidade e respeito, por parte da empre-\ngada, em relação ao seu empregador.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "no texto V, a empregada era jovem e tratada\nde forma cordial e afetiva pela fam´ ılia para a\nqual trabalhava, uma vez que era chamada pela\npatroa com o uso do diminutivo em “emprega-\ndinha”.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "no texto V, a palavra “escondidinha” está no di-\nminutivo para se referir ao tamanho da pimenta,\na qual, por ser pequena, estava escondida e quase\nimpercept´ ıvel para as pessoas.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "no texto V, em “a D. da casá e uma dondoca\nmesquinha”, o uso do diminutivo sugere que a\ndoméstica não trata sua patroa com respeito por\nreferir-se a ela diminuindo sua aparência f´ ısica,\nisto é, sua estatura.\nPágina 3 de 13\nGEOGRAFIA - OBJETIVAS",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

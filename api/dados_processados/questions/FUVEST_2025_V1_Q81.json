@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q81",
+    "edital": "FUVEST",
+    "numero": 81,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "“O eixo econômico do país, que já havia se deslocado para a \nzona de mineração, caminhou mais uma vez, deslocando-se \nem direção às ondulações do planalto paulista, que foram se \nrecobrindo pelo verde escuro dos cafezais. Enquanto outras \nregiões brasileiras vegetavam ou iniciavam mesmo um \nprocesso de decadência econôm ica, a Província, logo depois \nestado de São Paulo, apresentava uma ascensão esplêndida e \nvigorosa.” \nPETRONE, Pasquale. As indústrias paulistanas e os fatores de sua expansão. \nTerra Livre. 1953, p. 27 (Adaptado). \nSobre a industrialização no território brasileiro, é correto \nafirmar:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Matemática",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "Tal como São Paulo, a Zona Franca de Manaus teve a \nexpansão de suas indústrias dada pelo potencial do \nmercado consumidor local dos produtos resultantes da \nindustrialização.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "O Nordeste teve sua expansão industrial durante o Estado \nNovo, em razão da alta concentração de capitais dos \nestados da região, permitindo conexões dos seus polos \nindustriais já consolidados.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "O boom industrial que aconteceu na região Sul, a partir da \ndécada de 1980, foi similar ao desenvolvimento ocorrido \nno Sudeste, onde a mão de obra especializada aumentou \na produção.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A concentração industrial no Sudeste ocorreu devido à \nexistência de mercado consumidor, de capitais, de mão de \nobra disponível e de maior capacidade dos meios de \ntransporte.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "A região Centro-Oeste contou com a facilidade de \nobtenção de energia, por meio de hidrelétricas e \ntermoelétricas, além da densa malha viária para o seu \ndesenvolvimento industrial.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

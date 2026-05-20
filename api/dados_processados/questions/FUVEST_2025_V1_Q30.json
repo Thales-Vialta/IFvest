@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q30",
+    "edital": "FUVEST",
+    "numero": 30,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "A imagem a seguir ilustra o aparecimento de uma barreira que \npromoveu separação de uma po pulação de rinocerontes e \nconsequente redução no tamanho das populações resultantes. \n \nDisponível em https://kids.frontiersin.org/articles/10.3389/ (Adaptado). \nÉ correto afirmar que, nas populações fragmentadas, ocorre",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Geografia",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "maior variabilidade genética.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "maior risco de aparecim ento de doenças genéticas \nrecessivas.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "menor frequência de mutações.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "seleção natural dos indivíduos com características \ngenéticas dominantes.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "favorecimento da mistura entre elas.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

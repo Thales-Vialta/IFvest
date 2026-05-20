@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "PISM_2025_D1-P1_Q16",
+    "edital": "PISM",
+    "numero": 16,
+    "tipo_ou_cor": "D1-P1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "Muitos livros didáticos representam as espécies\nqú ımicas (elétrons, núcleos, ´ ıons, átomos e moléculas)\npor meio de c´ ırculos. Para diferenciar cada uma de-\nlas, os c´ ırculos apresentam algumas diferenças, como\npor exemplo cor, textura e contorno.\nNa figura apresentada, os c´ ırculos estão represen-\ntando espécies em uma reação qú ımica hipotética.\nA partir da figura, o modelo atômico que explica a\nreação qú ımica hipotética apresentadá e aquele pro-\nposto por",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Química",
+    "tags": [
+      "PISM",
+      "2025",
+      "D1-P1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "Dalton, já que os c´ ırculos 1 e 2 representam o\nnúcleo do átomo e o c´ ırculo 3, os elétrons.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Dalton, já que todos os c´ ırculos são representa-\ndos como esferas maciças e indivis´ ıveis.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "Rutherford, já que o c´ ırculo 3 representa os\nelétrons e, por isso, é menor que os c´ ırculos 1\ne 2.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Thomson, já que os c´ ırculos 1 e 2 representam\nas cargas positivas e o c´ ırculo 3, a carga negativa\ndo átomo.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Thomson, já que os c´ ırculos que representam os\nreagentes permanecem os mesmos nos produtos.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

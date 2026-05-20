@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2025_V1_Q37",
+    "edital": "FUVEST",
+    "numero": 37,
+    "tipo_ou_cor": "V1",
+    "ano": 2025
+  },
+  "conteudo": {
+    "enunciado": "A expressão bem-vinda usada no título e repetida no último \nverso faz alusão",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Geografia",
+    "tags": [
+      "FUVEST",
+      "2025",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "ao aprisionamento da mu lher que não consegue se \nlibertar do poderio masculino.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "à guerra interior e à falta de forças da mulher oprimida, \nque aceita sua condição.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "ao renascimento da mulher que alcança, após a opressão, \ncoragem para encontrar-se a si mesma.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "ao rebaixamento da mulher que se cala e se desculpa, \nperdendo aos poucos sua autoestima.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "à força da mulher que, mesmo hostilizada, tem poder para \nfazer entrar em sua casa quem a encurralava.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

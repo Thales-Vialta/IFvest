@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q65",
+    "edital": "FUVEST",
+    "numero": 65,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "Em fevereiro de 2023, ocorreu uma precipitação pluviométrica \nextrema no litoral norte de São Paulo, com volume que excedeu \nos 600 mm de chuva em menos de 24 horas. Foi um dos \nmaiores índices pluviométricos já registrados no Brasil para um \ndia. Essa grande quantidad e de chuva provocou muitos \ndeslizamentos de terra, como o retratado na imagem. \nDeslizamento de terra entre Camburi e Boiçucanga, SP. \nDisponível em Portal g1.globo.com 22/2/2023 - Foto: CREATIVE \nPRODUÇÕES/ Cristian Santos. \nConsiderando o contexto socioambiental em que esse \nepisódio ocorreu, é correto afirmar:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Química",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "A p e s a r d a s a l t a s d e c l i v i d a d e s n a s e n c o s t a s d a S e r r a d o \nMar, eventos como esse são raros, uma vez que os solos \nprofundos e a vegetação primária dificultam os \ndeslizamentos de terra.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "No local do deslizamento de terra, ocorrerá um processo \nde sucessão primária e, após poucos anos, uma floresta \nmadura estará estabelecida.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "A baixa umidade da região e a indispon ibilidade de \nnutrientes no solo retardarão a instalação de organismos \npioneiros, como os líquens, que iniciarão o processo de \nsucessão nesse local.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Fenômenos desse tipo são causados por fatores naturais da \nregião, relacionados ao clima, à geologia e ao relevo, mas \nsão agravados pela ocupação desordenada das encostas.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "No local do deslizamento de terra, a biomassa vegetal \naumentará ao longo da sucessão ecológica graças a um \nequilíbrio energético no sistema, em que as taxas de \nfotossíntese e respiração permanecerão equivalentes.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

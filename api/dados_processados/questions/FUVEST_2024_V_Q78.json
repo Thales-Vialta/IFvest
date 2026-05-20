@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q78",
+    "edital": "FUVEST",
+    "numero": 78,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "Observe o mapa a seguir: \n \nLe Monde Diplomatique Brasil, 2022. \nSobre o conflito geopolítico em questão, é correto afirmar:",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Biologia",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "O Tratado de Lausanne estabeleceu as fronteiras da Turquia \nmoderna, incluindo a existência de um Estado curdo após o \nfim do Império Turco Otomano, concedendo aos curdos o \ndomínio do território entre as atuais Turquia e Síria.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Os curdos formam uma população estimada em dezenas \nd e m i l h õ e s d e p e s s o a s e p a r t e h a b i t a u m a r e g i ã o \nmontanhosa que se espalha pelos territórios fronteiriços \nde cinco países: Turquia, Iraque, Síria, Irã e Rússia.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Falantes de várias línguas, dentre as quais árabe, curdo, \nturco e persa, e compostos por diferentes grupos étnicos \ne religiosos, os curdos são considerados a maior população \napátrida do mundo.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "Entre os anos de 2013 e 2019, as forças curdas \ndesempenharam um papel central no enfrentamento ao \nEstado Islâmico na região, o que levou ao reconhecimento \ndo estado independente do Curdistão.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "Em 2022, foi aprovada uma resolução no Conselho de \nSegurança da ONU reconhecendo a independência do \nCurdistão e definindo suas fronteiras em territórios que \npertenciam à Síria, Turquia e Iraque.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

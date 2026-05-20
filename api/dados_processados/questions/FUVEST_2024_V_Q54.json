@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q54",
+    "edital": "FUVEST",
+    "numero": 54,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "Considerado o contexto, o termo “far”, na expressão “far less” \n(2º parágrafo), expressa",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Física",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "temporalidade.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "distância.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "antecipação.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "intensidade.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "progresso.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

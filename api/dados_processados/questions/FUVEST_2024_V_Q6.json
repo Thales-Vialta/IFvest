@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2024_V_Q6",
+    "edital": "FUVEST",
+    "numero": 6,
+    "tipo_ou_cor": "V",
+    "ano": 2024
+  },
+  "conteudo": {
+    "enunciado": "“Na coluna do ativo como na do passivo, seria difícil exagerar \no papel do açúcar na história do Brasil colonial. Se ele foi o \nproduto que proporcionou a base inicial solidamente \neconômica para o esforço do colonizador, foi também o que \nplasmou o regime de propriedade latifundiária, instalou a \nescravidão africana na América portuguesa e, no seu \nexclusivismo, inibiu o desenvolvimento da policultura (...), \ne m b o r a e s t i m u l a n d o , e m á r e a s a p a r t a d a s , a p e c u á r i a e a \nlavoura de subsistência. (...) Ele desenvolveu um estilo de vida \nque marcou a existência de todas as camadas da população \nque integrou, reservando, contudo, seus privilégios a uns \npoucos.” \nMELLO, Evaldo Cabral de. Um imenso Portugal: História e historiografia. São \nPaulo: Ed. 34, 2002. p.110. \nO texto indica que, no Nordeste açucareiro dos séculos XVI e \nXVII,",
+    "descricao": null,
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Língua Portuguesa e Literatura",
+    "tags": [
+      "FUVEST",
+      "2024",
+      "V"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "a mão de obra de escravizados de origem africana e \ni n d í g e n a e r a e m p r e g a d a n o s c a n a v i a i s , n a p e c u á r i a e n a \nlavoura de subsistência.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "a distribuição de terras baseava-se na concessão, pela \nCoroa portuguesa, de privilégios e pequenos lotes a \ndonatários.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "os privilégios concentravam-se nas mãos dos senhores de \nengenho, em detrimento da população escravizada ou \nlivre e pobre.",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "o desenvolvimento de relações socioeconômicas fundadas \nna horizontalidade recebia estímulos governamentais.",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "o modo de produção feudal prevaleceu na exploração \nagrícola pela metrópole.",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}

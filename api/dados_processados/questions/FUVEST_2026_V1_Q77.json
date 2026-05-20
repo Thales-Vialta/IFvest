@@ -1,0 +1,50 @@
+{
+  "metadados": {
+    "codigo": "FUVEST_2026_V1_Q77",
+    "edital": "FUVEST",
+    "numero": 77,
+    "tipo_ou_cor": "V1",
+    "ano": 2026
+  },
+  "conteudo": {
+    "enunciado": "Em qual comprimento de onda sonora ocorre a melhor \nresposta auditiva do paciente nesse exame?",
+    "descricao": "Note e adote: \nConsidere a velocidade do som no ar como vs = 340 m/s. \n#####",
+    "Resolucao": null,
+    "url_img": null
+  },
+  "especificacao": {
+    "materia": "Biologia",
+    "tags": [
+      "FUVEST",
+      "2026",
+      "V1"
+    ]
+  },
+  "alternativas": [
+    {
+      "texto": "1,36 cm",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "4,25 cm",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "23,5 cm",
+      "imagem": null,
+      "correta": false
+    },
+    {
+      "texto": "34 cm",
+      "imagem": null,
+      "correta": true
+    },
+    {
+      "texto": "80 cm",
+      "imagem": null,
+      "correta": false
+    }
+  ]
+}
