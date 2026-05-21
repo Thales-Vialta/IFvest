@@ -2,26 +2,26 @@ from pydantic import BaseModel, Field
 from typing import List, Optional
 
 class Metadata(BaseModel):
-    codigo: str = Field(..., description="Unique code for the question, e.g. FUVEST_2026_V1_Q11")
-    edital: str = Field(..., description="Exam publisher or category, e.g. ENEM, FUVEST, PISM")
-    numero: int = Field(..., description="Question number in the exam booklet")
-    tipo_ou_cor: str = Field(..., description="Exams version, color, or booklet type, e.g. V1, AZUL")
-    ano: int = Field(..., description="Year of the exam")
+    codigo: str = Field(..., description="Código do vestibular, ex: FUVEST_2026_V1_Q11")
+    edital: str = Field(..., description=",Banca ex: ENEM, FUVEST, PISM")
+    numero: int = Field(..., description="Número da questão")
+    tipo_ou_cor: str = Field(..., description="tipo do caderno que foi escaneado, ex: V1, AZUL")
+    ano: int = Field(..., description="Ano da aplicação do vestibular")
 
 class Content(BaseModel):
-    enunciado: str = Field(..., description="The main text body/question description")
-    descricao: Optional[str] = Field(None, description="Optional extra description or contextual notes")
-    dica: Optional[str] = Field(None, description="Optional tip or hint for solving the question")
-    url_img: Optional[str] = Field(None, description="Optional URL or local path to associated main image")
+    enunciado: str = Field(..., description="enunciado")
+    descricao: Optional[str] = Field(None, description="Anotações opcionais")
+    dica: Optional[str] = Field(None, description="dica para o aluno enquanto faz a questão, atribuido como opcional")
+    url_img: Optional[str] = Field(None, description="url para a imagem salva para algumas questões")
 
 class Specification(BaseModel):
-    materia: str = Field(..., description="Subject category, e.g. Matemática, Português")
-    tags: List[str] = Field(default_factory=list, description="Associated content tags, e.g. Algebra, Sintaxe")
+    materia: str = Field(..., description="Matéria da questão, ex: Matemática, História")
+    tags: List[str] = Field(default_factory=list, description="Conteúdo atrelado a matéria aplicada. Ex: Reino Monera, Idade Média(476-1453)")
 
 class Alternative(BaseModel):
-    texto: str = Field(..., description="The text of the alternative")
-    imagem: Optional[str] = Field(None, description="Optional image URL or path for this alternative")
-    correta: bool = Field(..., description="Whether this is the correct alternative")
+    texto: str = Field(..., description="Texto da alternativa")
+    imagem: Optional[str] = Field(None, description="URL da imagem para provas com gráficos")
+    correta: bool = Field(..., description="Valor da alternativa")
 
 class Question(BaseModel):
     metadados: Metadata
@@ -33,8 +33,8 @@ class ComplementaryMetadata(BaseModel):
     codigos_questoes: List[str] = Field(..., description="List of question codes that share this complementary text")
 
 class ComplementaryContent(BaseModel):
-    enunciado: str = Field(..., description="The shared complementary text body")
-    img_url: Optional[str] = Field(None, description="Optional image URL or path associated with this text")
+    enunciado: str = Field(..., description="Texto compartilhado para mais de uma questão")
+    img_url: Optional[str] = Field(None, description="Imagem ou figura atrelada ao texto")
 
 class ComplementaryText(BaseModel):
     metadados: ComplementaryMetadata
