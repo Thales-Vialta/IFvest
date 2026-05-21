@@ -1,41 +1,55 @@
 import os
 import json
 from parser import extract_questions_from_pdf
+import re 
 
-# Configured exams mapping
-EXAMS_TO_PROCESS = [
-    {
-        "pdf": "fuvest2026-fase1-prova-V1.pdf",
-        "gabarito": "fuvest2026-fase1-gabarito.pdf",
-        "type": "FUVEST",
-        "year": 2026,
-        "booklet": "V1"
-    },
-    {
-        "pdf": "fuvest2025_primeira_fase_prova_V1.pdf",
-        "gabarito": "fuvest2025_gabarito_primeira_fase.pdf",
-        "type": "FUVEST",
-        "year": 2025,
-        "booklet": "V1"
-    },
-    {
-        "pdf": "fuvest2024_primeira_fase_prova_V.pdf",
-        "gabarito": "fuvest2024_gabarito_primeira_fase_retificado_2023-11-24.pdf",
-        "type": "FUVEST",
-        "year": 2024,
-        "booklet": "V"
-    },
-    {
-        "pdf": "Pism-1-Dia-1.pdf",
-        "gabarito": "GABARITO-PISM-2025-OBJETIVA-D1-P1-NF.pdf",
-        "type": "PISM",
-        "year": 2025,
-        "booklet": "D1-P1"
-    }
-]
+def detectar_prova(prova_dir):
+    pdfs = [f for f in os.listdir(provas_dir) if f.lower().endswith(".pdf")]
+    prova = []
 
+    listaP = [p for p in pdfs if "gabarito" not in p.lower()]
+    gabarito = [g for g in pdfs if "gabarito" in p.lower()]
+    for provas in provas: 
+        nome = provas.lower()
+        if "fuvest" in nome: 
+            exam_type = "FUVEST"
+        elif "pism" in nome: 
+            exam_type = "PISM"
+        else:
+            print(f"[SKIP] Tipo não encontrado da: {prova}")
+            continue
+            year_match = re.search(r"(20\d{2})", nome)
+
+        if not year_match:
+            print(f"[SKIP] Ano não encontrado: {prova}")
+            continue
+
+        year = int(year_match.group(1))
+
+        booklet_match = re.search(r"(v\d+|v|d\d-p\d)", nome)
+
+        booklet = booklet_match.group(1).upper() if booklet_match else "UNK"
+        
+        matched_gabarito = None
+
+        for gab in gabaritos:
+            gab_lower = gab.lower()
+
+            if (exam_type.lower() in gab_lower and str(year) in gab_lower and booklet.lower() in gab_lower):
+                matched_gabarito = gab
+                break
+
+        exams.append({
+            "pdf": prova,
+            "gabarito": matched_gabarito,
+            "type": exam_type,
+            "year": year,
+            "booklet": booklet
+        })
+
+    return exams
 def main():
-    base_dir = r"c:\Users\thale\Documents\IFvest\api"
+    base_dir = os.path.dirname(os.path.abspath(__file__))
     processed_dir = os.path.join(base_dir, "dados_processados")
     questions_dir = os.path.join(processed_dir, "questions")
     complementary_dir = os.path.join(processed_dir, "complementary")
@@ -50,6 +64,12 @@ def main():
     
     summary_report = []
     
+    provas_dir = os.path.join(base_dir, "provas")
+
+    EXAMS_TO_PROCESS = detect_exams(provas_dir)
+
+    print(f"\n[INFO] {len(EXAMS_TO_PROCESS)} provas detectadas automaticamente.\n")
+
     for exam in EXAMS_TO_PROCESS:
         pdf_path = os.path.join(base_dir, "provas", exam["pdf"])
         gabarito_path = os.path.join(base_dir, "provas", exam["gabarito"])
