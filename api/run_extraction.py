@@ -6,7 +6,6 @@ import re
 def detectar_prova(prova_dir):
     pdfs = [f for f in os.listdir(provas_dir) if f.lower().endswith(".pdf")]
     prova = []
-
     listaP = [p for p in pdfs if "gabarito" not in p.lower()]
     gabarito = [g for g in pdfs if "gabarito" in p.lower()]
     for provas in provas: 
@@ -19,26 +18,20 @@ def detectar_prova(prova_dir):
             print(f"[SKIP] Tipo não encontrado da: {prova}")
             continue
             year_match = re.search(r"(20\d{2})", nome)
-
         if not year_match:
             print(f"[SKIP] Ano não encontrado: {prova}")
             continue
 
         year = int(year_match.group(1))
-
         booklet_match = re.search(r"(v\d+|v|d\d-p\d)", nome)
-
-        booklet = booklet_match.group(1).upper() if booklet_match else "UNK"
-        
+        booklet = booklet_match.group(1).upper() if booklet_match else "Banca desconhecida"
         matched_gabarito = None
 
         for gab in gabaritos:
             gab_lower = gab.lower()
-
             if (exam_type.lower() in gab_lower and str(year) in gab_lower and booklet.lower() in gab_lower):
                 matched_gabarito = gab
                 break
-
         exams.append({
             "pdf": prova,
             "gabarito": matched_gabarito,
@@ -46,26 +39,18 @@ def detectar_prova(prova_dir):
             "year": year,
             "booklet": booklet
         })
-
     return exams
 def main():
     base_dir = os.path.dirname(os.path.abspath(__file__))
     processed_dir = os.path.join(base_dir, "dados_processados")
+    provas_dir=os.path.join(base_dir, "provas")
     questions_dir = os.path.join(processed_dir, "questions")
     complementary_dir = os.path.join(processed_dir, "complementary")
-    
-    # Create target directories
     os.makedirs(questions_dir, exist_ok=True)
     os.makedirs(complementary_dir, exist_ok=True)
     
-    print("==================================================")
-    print("      IFVest Question Extraction Pipeline         ")
-    print("==================================================")
+    summary_report=[]
     
-    summary_report = []
-    
-    provas_dir = os.path.join(base_dir, "provas")
-
     EXAMS_TO_PROCESS = detect_exams(provas_dir)
 
     print(f"\n[INFO] {len(EXAMS_TO_PROCESS)} provas detectadas automaticamente.\n")
@@ -75,12 +60,11 @@ def main():
         gabarito_path = os.path.join(base_dir, "provas", exam["gabarito"])
         
         if not os.path.exists(pdf_path):
-            print(f"[Warning] PDF file {exam['pdf']} not found in 'provas' directory. Skipping.")
+            print(f"[Warning] PDF {exam['pdf']} não encontrado in 'provas' directory. Skipping.")
             continue
             
         print(f"\nProcessing {exam['type']} {exam['year']} (Booklet: {exam['booklet']})...")
-        
-        # Run the parsing engine
+
         questions, comp_texts = extract_questions_from_pdf(
             pdf_path=pdf_path,
             exam_type=exam["type"],
@@ -88,25 +72,20 @@ def main():
             booklet=exam["booklet"],
             gabarito_path=gabarito_path
         )
-        
-        # Save individual questions JSONs
+
         saved_q_count = 0
         for q in questions:
-            # We dump using standard python json serializer from the Pydantic dump_model
             filename = f"{q.metadados.codigo}.json"
             filepath = os.path.join(questions_dir, filename)
             
-            # Serialize using Pydantic's model_dump
             q_data = q.model_dump()
             
             with open(filepath, "w", encoding="utf-8") as f:
                 json.dump(q_data, f, ensure_ascii=False, indent=2)
             saved_q_count += 1
             
-        # Save complementary text JSONs
         saved_comp_count = 0
         for idx, ct in enumerate(comp_texts):
-            # Generate a consistent hash or sequential code
             comp_code = f"{exam['type']}_{exam['year']}_{exam['booklet']}_COMP_{idx+1}"
             filename = f"{comp_code}.json"
             filepath = os.path.join(complementary_dir, filename)
@@ -126,18 +105,15 @@ def main():
             "complementary": saved_comp_count
         })
         
-    print("\n==================================================")
-    print("               Pipeline Execution Report          ")
-    print("==================================================")
+    print("Retorno da Extração")
     total_q = 0
     total_c = 0
     for r in summary_report:
         print(f" - {r['exam']}: {r['questions']} questions, {r['complementary']} shared texts saved.")
         total_q += r['questions']
         total_c += r['complementary']
-    print(f"\nPipeline successfully finished. Total saved: {total_q} questions, {total_c} texts.")
-    print(f"Location: {processed_dir}")
-    print("==================================================")
+    print(f"\nArquivo totalmente extraído. Total saved: {total_q} Questões, {total_c} textos.")
+    print(f"Salvo em: {processed_dir}")
 
 if __name__ == "__main__":
     main()
